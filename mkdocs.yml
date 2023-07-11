@@ -1,4 +1,4 @@
-site_name: MkDocusaurus
+site_name: Web Development Guide
 theme:
   name: material
   features:
