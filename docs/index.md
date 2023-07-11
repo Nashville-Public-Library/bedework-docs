@@ -1,17 +1,27 @@
-# Welcome to MkDocs
+# Website Guide
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+The website guide is for content contributors (bloggers, marketing staff, etc.) and developers.
 
-## Commands
+## Add / Update Content
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Find step-by-step instructions for adding specific types of content (image, video, catalog widget, etc.). Learn how to update specific pages, like the homepage or talking library page, and how to update alerts and menus.
 
-## Project layout
+## Writing for the Web
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Understand how to use headings, learn what alt text is, learn to write for skim-ability.
+
+## Statistics
+
+Documentation for content editors and administrators on pulling site statistics.
+
+## Blog Orientation
+
+Introduction and and orientation for new bloggers.
+
+## Podcast Orientation
+
+Introduction and and orientation for new podcasters, as well as procedures for starting a new podcast series.
+
+## Developer Documentation
+
+Step by step guides and instructions on how to do common tasks on NPL website products: Drupal, WordPress, and LibCal. Information on sites hosted on "bucket" at ITS. Documentation on how major pages on the NPL site were created.
