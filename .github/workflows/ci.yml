@@ -5,7 +5,7 @@ on:
       - master
       - main
 permissions:
-  content: write
+  contents: write
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -20,4 +20,3 @@ jobs:
           path: .cache
       - run: pip install mkdocs-material
       - run: mkdocs gh-deploy --force
-      
