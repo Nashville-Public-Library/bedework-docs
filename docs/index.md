@@ -22,6 +22,6 @@ Introduction and and orientation for new bloggers.
 
 Introduction and and orientation for new podcasters, as well as procedures for starting a new podcast series.
 
-## Developer Documentation
+## Site Orientation
 
-Step by step guides and instructions on how to do common tasks on NPL website products: Drupal, WordPress, and LibCal. Information on sites hosted on "bucket" at ITS. Documentation on how major pages on the NPL site were created.
+Documentation on how major pages on the NPL site were created.

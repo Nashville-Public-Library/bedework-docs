@@ -3,9 +3,11 @@ theme:
   name: material
   features:
     - navigation.tabs
-    - navigation.sections
+    - navigation.tabs.sticky
+    - navigation.indexes
+    - navigation.path
     - toc.integrate
-    - navigation.top
+    - toc.follow
     - search.suggest
     - search.highlight
     - content.tabs.link
@@ -15,16 +17,16 @@ theme:
   palette:
     - scheme: default
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: material/brightness-7
         name: Switch to Dark Mode
-      primary: teal
-      accent: purple
+      primary: indigo
+      accent: light blue
     - scheme: slate
       toggle:
-        icon: material/toggle-switch
+        icon: material/brightness-4
         name: Switch to Light Mode
-      primary: teal
-      accent: lime
+      primary: black
+      accent: yellow
 
 markdown_extensions:
   - pymdownx.highlight:
