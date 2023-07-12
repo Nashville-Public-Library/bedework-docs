@@ -67,7 +67,7 @@ nav:
       - update-content/add-content-with-components/hero.md
       - update-content/add-content-with-components/iFrame.md
       - update-content/add-content-with-components/jump-menu-grid.md
-      - update-content/add-content-with-components/media-photos-video.md
+      - update-content/add-content-with-components/media-photos-video-audio.md
       - update-content/add-content-with-components/media-editing-images.md
       - update-content/add-content-with-components/poll.md
       - update-content/add-content-with-components/sponsors.md
@@ -91,7 +91,7 @@ nav:
       - update-content/add-update-a-page/database-page.md
       - update-content/add-update-a-page/edu-res-landing-page.md
       - update-content/add-update-a-page/events-landing-page.md
-      - update-content/add-update-a-page/events-page.md
+      - update-content/add-update-a-page/event-page.md
       - update-content/add-update-a-page/internship-page.md
       - update-content/add-update-a-page/locations-landing-page.md
       - update-content/add-update-a-page/location-pages.md
@@ -109,3 +109,5 @@ nav:
       - update-content/special-content-updates/summer-challenge.md
       - update-content/special-content-updates/talking-library-schedule.md
       - update-content/special-content-updates/taxonomy-term-addition.md
+  - Writing for the Web:
+    - writing-for-the-web/writing-for-web.md
