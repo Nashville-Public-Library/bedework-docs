@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Add a Blog Post to the Website
+# Blog Post
 
 See *Blog Orientation* for an orientation and overview of the blogging platform: https://nashville-public-library.github.io/website-guide/docs/blog-orientation/overview/
 

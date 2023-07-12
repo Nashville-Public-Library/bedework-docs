@@ -1,34 +1,8 @@
----
-sidebar_position: 0
----
+# Components Overview
 
-# Overview 
+Components are like different LEGO bricks that you stack together to make a page. Instead of one giant body field that contains all the text, images, etc., each content type has a field for components. You can add multiple components to a page. Each component is treated as its own block and the blocks stack on top of one another.
 
-Website content is created with a combination of specialized forms (content types) and components (text, images, catalog promos, etc.).
-- Content types are special content entry forms that are customized for specific types of content.
-- Components are like different LEGO bricks that you stack together to make a page. Instead of one giant body field that contains all the text, images, etc., each content type has a field for components. You can add multiple components to a page. Each component is treated as its own block and the blocks stack on top of one another.
-
-## Content Types
-
-Content Type | Description
------------- | -------------
-Basic Page | Use basic page for your static content, such as an 'About Us' page.
-Blog Entry | Use to create blog entries and tag them by section.
-Branch | Use to add new library locations to the website.
-Collection | Use Collection to add collection pages for Archives and Special Collections.
-Database | Use Database to create a new database listing.
-Event | Use the Event content type for major event series.
-External Resource | Create a node that redirects user to an external site. Node appears in search results.
-Internship Opportunity | Use Internship Opportunity to post internships listings to the site.
-Landing Page | Use landing page to structure an overview page for a given topic (blog, services, events, etc.)
-News | Use News to add press release and media hit content to the Press Room page.
-Person | Use Person to create a new person profile on the site.
-Podcast Episode | Use Podcast Episode to add a new episode for a podcast series.
-Service | Use Service to create a new library service. Will add */service* to the URL automatically.
-
-## Components
-
-### Content Components
+## Content Components
 
 Component | Description
 ------------ | -------------
@@ -53,7 +27,7 @@ Table | Use when displaying structured data.
 Text | Add text, headings, links, block quote style. You can also add images and video to the text component.
 Text + Image | Add text and an image side-by-side. A toggle setting determines if the image is to the left or right.
 
-### Layout Components
+## Layout Components
 
 Component | Description
 ------------ | -------------

@@ -1,4 +1,5 @@
 site_name: Website Guide
+
 theme:
   name: material
   features:
@@ -6,13 +7,14 @@ theme:
     - navigation.tabs.sticky
     - navigation.indexes
     - navigation.path
-    - toc.integrate
+    # - toc.integrate
     - toc.follow
     - search.suggest
     - search.highlight
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
+  font: false
   language: en
   palette:
     - scheme: default
@@ -36,6 +38,7 @@ markdown_extensions:
   - admonition
   - pymdownx.arithmatex:
       generic: true
+  - admonition
   - footnotes
   - pymdownx.details
   - pymdownx.superfences
@@ -44,3 +47,65 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+
+nav:
+  - Overview: index.md
+  - Update Content:
+    - update-content/index.md
+    - Components:
+      - update-content/add-content-with-components/overview.md
+      - update-content/add-content-with-components/block.md
+      - update-content/add-content-with-components/blog-swim.md
+      - update-content/add-content-with-components/calendar-widget.md
+      - update-content/add-content-with-components/call-to-action.md
+      - update-content/add-content-with-components/card-grid.md
+      - update-content/add-content-with-components/catalog-promo.md
+      - update-content/add-content-with-components/catalog-widget.md
+      - update-content/add-content-with-components/catalog-widget-grid.md
+      - update-content/add-content-with-components/contact-info.md
+      - update-content/add-content-with-components/database-feature-list.md
+      - update-content/add-content-with-components/hero.md
+      - update-content/add-content-with-components/iFrame.md
+      - update-content/add-content-with-components/jump-menu-grid.md
+      - update-content/add-content-with-components/media-photos-video.md
+      - update-content/add-content-with-components/media-editing-images.md
+      - update-content/add-content-with-components/poll.md
+      - update-content/add-content-with-components/sponsors.md
+      - update-content/add-content-with-components/table.md
+      - update-content/add-content-with-components/text.md
+      - update-content/add-content-with-components/text-image.md
+      - update-content/add-content-with-components/promotion.md
+      - update-content/add-content-with-components/one-column.md
+      - update-content/add-content-with-components/two-column.md
+    - Pages:
+      - update-content/add-update-a-page/overview.md
+      - update-content/add-update-a-page/home-page.md
+      - update-content/add-update-a-page/menu-links-promos.md
+      - update-content/add-update-a-page/notifications.md
+      - update-content/add-update-a-page/basic-page.md
+      - update-content/add-update-a-page/blog-post.md
+      - update-content/add-update-a-page/books-movies-music-pages.md
+      - update-content/add-update-a-page/collection-page.md
+      - update-content/add-update-a-page/collection-topic-page.md
+      - update-content/add-update-a-page/database-a-z-page.md
+      - update-content/add-update-a-page/database-page.md
+      - update-content/add-update-a-page/edu-res-landing-page.md
+      - update-content/add-update-a-page/events-landing-page.md
+      - update-content/add-update-a-page/events-page.md
+      - update-content/add-update-a-page/internship-page.md
+      - update-content/add-update-a-page/locations-landing-page.md
+      - update-content/add-update-a-page/location-pages.md
+      - update-content/add-update-a-page/news-landing-page.md
+      - update-content/add-update-a-page/news-item.md
+      - update-content/add-update-a-page/person.md
+      - update-content/add-update-a-page/podcast-episode.md
+      - update-content/add-update-a-page/service-page.md
+      - update-content/add-update-a-page/sponsors.md
+    - Special Content:
+      - update-content/special-content-updates/bucket-sites.md
+      - update-content/special-content-updates/library-board-agenda.md
+      - update-content/special-content-updates/read-to-rise-site.md
+      - update-content/special-content-updates/seed-exchange-google.md
+      - update-content/special-content-updates/summer-challenge.md
+      - update-content/special-content-updates/talking-library-schedule.md
+      - update-content/special-content-updates/taxonomy-term-addition.md
