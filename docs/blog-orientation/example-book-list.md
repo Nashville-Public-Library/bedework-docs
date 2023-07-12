@@ -2,7 +2,7 @@
 sidebar_position: 7
 ---
 
-# Example Book List Post
+# Example Book List
 
 The book list template is good when you want to recommend a lot of titles without writing a full book review.
 

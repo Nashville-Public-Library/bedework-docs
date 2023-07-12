@@ -109,5 +109,33 @@ nav:
       - update-content/special-content-updates/summer-challenge.md
       - update-content/special-content-updates/talking-library-schedule.md
       - update-content/special-content-updates/taxonomy-term-addition.md
+    - Closing a Branch:
+      - update-content/closing-a-branch/holidays.md
+      - update-content/closing-a-branch/closing-a-branch-spontaneous.md
+      - update-content/closing-a-branch/closing-a-branch-long-closure.md
+      - update-content/closing-a-branch/reopen-a-branch.md
   - Writing for the Web:
     - writing-for-the-web/writing-for-web.md
+  - Blog Orientation:
+    - blog-orientation/overview.md
+    - blog-orientation/blog-entry-form.md
+    - blog-orientation/images.md
+    - blog-orientation/what-to-write.md
+    - blog-orientation/plan-your-post.md
+    - blog-orientation/example-book-list.md
+    - blog-orientation/example-book-review.md
+  - Podcast Orientation:
+    - podcast-orientation/overview.md
+    - podcast-orientation/add-epsisode-to-website.md
+    - podcast-orientation/start-new-podcast-series.md
+    - podcast-orientation/publish-rss.md
+  - Statistics:
+    - web-statistics/blog-statistics.md
+    - web-statistics/podcast-statistics.md
+    - web-statistics/campaign-tagging.md
+  - Redirects and Aliases:
+    - domains-and-redirects/when-to-use.md
+    - domains-and-redirects/url-aliases.md
+    - domains-and-redirects/url-redirects.md
+    - domains-and-redirects/move-a-domain.md
+    - domains-and-redirects/domain-redirects.md

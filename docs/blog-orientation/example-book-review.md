@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-# Example Book / Movie / Music Review
+# Example Book/Movie/Music Review
 
 A review generally has several paragraphs of text that highlight a single title. A review must include a catalog promo. It can also include images and additional recommendations.
 
