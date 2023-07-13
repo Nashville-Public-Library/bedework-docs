@@ -142,3 +142,37 @@ nav:
     - domains-and-redirects/url-redirects.md
     - domains-and-redirects/move-a-domain.md
     - domains-and-redirects/domain-redirects.md
+  - Developers:
+    - developers/index.md
+    - Drupal Development:
+      - developers/drupal-development/technical-overview.md
+      - developers/drupal-development/set-up-npld8-staff-machine-mac.md
+      - developers/drupal-development/set-up-npld8-staff-machine-pc.md
+      - developers/drupal-development/onboarding-developers.md
+      - developers/drupal-development/start-stop-local.md
+      - developers/drupal-development/refresh-database.md
+      - developers/drupal-development/working-on-ticket.md
+      - developers/drupal-development/code-review-github.md
+      - developers/drupal-development/deploy-code-production.md
+      - developers/drupal-development/update-drupal-core.md
+      - developers/drupal-development/update-modules.md
+      - developers/drupal-development/update-php-version.md
+      - developers/drupal-development/work-on-css-gulp.md
+      - developers/drupal-development/troubleshooting.md
+      - developers/drupal-development/set-up-new-drupal-project.md
+      - developers/drupal-development/user-roles.md
+    - Site Building Notes (Drupal):
+      - developers/site-building-notes/news-landing-page.md
+      - developers/site-building-notes/podcast-pages-and-feeds.md
+    - Wordpress:
+      - developers/wordpress/redirect-wordpress-site.md
+    - Bucket (Assets):
+      - developers/bucket/overview.md
+      - developers/bucket/technical-overview.md
+      - developers/bucket/add-update-content.md
+      - developers/bucket/add-new-website.md
+      - developers/bucket/remove-website.md
+      - developers/bucket/redirect-subdomain.md
+    - Domain Names and DNS:
+      - developers/domain-name-dns/redirect-domain.md
+      - developers/domain-name-dns/move-domain-its.md
