@@ -30,6 +30,10 @@ theme:
       primary: black
       accent: yellow
 
+plugins:
+  - search
+  - mkdocs-video
+
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
