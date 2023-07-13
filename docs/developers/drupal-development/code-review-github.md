@@ -6,11 +6,11 @@ sidebar_position: 6
 
 Before merging code into master, you must request code review from another team member.
 
-1. Request review by an Aten or NPL team member.
-1. Reviewer approves or rejects changes in Github.
-   1. Reviewer can approve changes, which turns the merge button green.
-   1. Reviewer can reject changes and add comments for things that need to be changed.
-1. Follow the next step based on whether changes were accepted or rejected.
+1. Request review by an Aten or NPL team member.  
+1. Reviewer approves or rejects changes in Github.  
+   1. Reviewer can approve changes, which turns the merge button green.  
+   1. Reviewer can reject changes and add comments for things that need to be changed.  
+1. Follow the next step based on whether changes were accepted or rejected.  
 
 ## If Changes are Accepted (Approved Pull Request)
 

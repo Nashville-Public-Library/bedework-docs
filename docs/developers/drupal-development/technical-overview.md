@@ -51,4 +51,4 @@ NPL-D8 project workflow allows multiple developers to work on site features simu
    - Aten set up a Slack + CircleCI plugin. See if we can do that on NPL Slack.
 
 ## Issues / Troubleshooting:
-You can circumvent CircleCI if it is down and you need to deploy asap. See: https://github.com/Nashville-Public-Library/npl-d8#local-deployment
+You can circumvent CircleCI if it is down and you need to deploy asap. See: [https://github.com/Nashville-Public-Library/npl-d8#local-deployment](https://github.com/Nashville-Public-Library/npl-d8#local-deployment)
