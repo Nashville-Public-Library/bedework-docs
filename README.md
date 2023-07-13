@@ -2,6 +2,8 @@
 
 The website guide is made with MkDocs and Material for MkDocs. Documentation is written in markdown. All markdown files are saved in the /docs directory. Images are saved in the /img folder inside /docs.  
 
+There's an excellent overview video on installing and setting up MkDocs and Material for MkDocs, in general, on YouTube: [How To Create STUNNING Code Documentation With MkDocs Material Theme](https://www.youtube.com/watch?v=Q-YA_dA8C20).  
+
 ## MkDocks Set Up (Edit Existing Project)
 
 ### Mac  

@@ -32,7 +32,6 @@ theme:
 
 plugins:
   - search
-  - mkdocs-video
 
 markdown_extensions:
   - pymdownx.highlight:
