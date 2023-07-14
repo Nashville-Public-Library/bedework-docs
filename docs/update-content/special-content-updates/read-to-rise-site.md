@@ -1,10 +1,6 @@
----
-sidebar_position: 1
----
-
 # Read to Rise Website
 
-Read to Rise is built with READsquared software.
+The Read to Rise site is built in Drupal with sub-pages. The reading program runs on Beanstack.
 
 This document pertains to updating the content on the Read to Rise site. For details about READsquared system setup, see [READsquared System Setup Documentation](https://docs.google.com/spreadsheets/d/1kCVdKClzPiwuuzOSDoBAyf1i610POPWR2t5x4v2w2A4/edit?usp=sharing).
 
@@ -43,32 +39,32 @@ This document pertains to updating the content on the Read to Rise site. For det
 **How to Update:** To add a new activity calendar, follow the instructions below. You must have permission to upload files to the website and have a READsquared account with permission to edit Programs.
 
 1. Upload the file to the NPL site:
-   1. Log in to the NPL website.
-   1. Go to Content > Media > Add Media  File.
-   1. Choose the file you want to upload.
-      1. File should be a PDF with no spaces in the file name.
-      1. Format the file with dashes and use all lowercase: read-to-rise-calendar-month-2020.pdf
-      1. Name the file: Read to Rise Activity Sheet Month 2021
-      1. Save.
-   1. Go to Content > Files.
-   1. Copy the URL for the PDF.
-   1. Test the URL to make sure you can get to the newly uploaded file (and save that URL for the next step).
+      1. Log in to the NPL website.
+      1. Go to Content > Media > Add Media  File.
+      1. Choose the file you want to upload.
+         1. File should be a PDF with no spaces in the file name.
+         1. Format the file with dashes and use all lowercase: read-to-rise-calendar-month-2020.pdf
+         1. Name the file: Read to Rise Activity Sheet Month 2021
+         1. Save.
+      1. Go to Content > Files.
+      1. Copy the URL for the PDF.
+      1. Test the URL to make sure you can get to the newly uploaded file (and save that URL for the next step).
 
 1. Add the link to the Activity Sheets page in READsquared:
-   1. Log in to READsquared.
-   1. Select Look and Feel > Custom Content.
-   1. Click the edit button next to the Read to Rise Activity Calendars link.
-   1. Click the Center Column box.
-   1. Add the new calendar to the Activity Calendars list.
-   1. Remove the oldest calendar link. We keep the current month and previous 6 months of activity calendars (for a total of 7).
-   1. Save.
+      1. Log in to READsquared.
+      1. Select Look and Feel > Custom Content.
+      1. Click the edit button next to the Read to Rise Activity Calendars link.
+      1. Click the Center Column box.
+      1. Add the new calendar to the Activity Calendars list.
+      1. Remove the oldest calendar link. We keep the current month and previous 6 months of activity calendars (for a total of 7).
+      1. Save.
 
 1. Review the changes on the live site and test the new link to verify it works.
 
 ## Get a READsquared Email Extract
 
 **Who:** Read to Rise staff (Terri Thomas) and READsquared  
-**Host Location:** READsquared
+**Host Location:** Beanstack
 
 Need a report from the "Read to Rise" program that includes Child's First and Last Name, Parent's First and Last Name, email address, and the yes/no email toggle. At this time the Ad Hoc report does not include parent first/last name, so we have to contact READsquared to request the data. They will pull it for us.
 
