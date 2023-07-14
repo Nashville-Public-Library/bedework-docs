@@ -1,6 +1,3 @@
----
-sidebar_position: 2
----
 # Locations Landing Page
 
 The locations landing page is a Basic Page with a text component and a view block. The view block shows all branches. Main is at the top because of a checkbox on the branch content type that gives Main priority.

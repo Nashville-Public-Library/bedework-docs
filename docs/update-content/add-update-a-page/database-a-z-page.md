@@ -1,7 +1,3 @@
----
-sidebar_position: 2
----
-
 # Database A-Z Page
 
 The Databases A-Z page is a basic page with one view block.

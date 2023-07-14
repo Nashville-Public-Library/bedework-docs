@@ -1,7 +1,3 @@
----
-sidebar_position: 2
----
-
 # Education and Research Landing Page
 
 Education and Research Landing page is made with a *Basic Page* content type.
@@ -9,6 +5,7 @@ Education and Research Landing page is made with a *Basic Page* content type.
 ## Database Menu
 
 The top of the Education and Research page has a section with three database menus that allow access a filtered list of databases.
+
 - Menu is created with Views Jump Menu module.
 - Databases by Age menu is created with a view block with the Jump Menu format.
 - Databases by Topic is created with a view block with the Jump Menu format.

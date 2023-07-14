@@ -1,7 +1,3 @@
----
-sidebar_position: 1
----
-
 # Home Page
 
 ## Overview
@@ -11,6 +7,7 @@ The homepage is made with the Landing Page content type. It uses the Promo, Cata
 When you edit the homepage, you can see how content is divided into components. The promo and catalog widget rows are circled below.
 
 Click **edit** next to one of the rows to see all of your editing options for that row.
+
 - Promos: Edit or remove the promo content already present on the page. Add a new custom block (that’s the inline entity form). Or add an existing custom block already saved in the block library.
 - Catalog Widgets: Swap out catalog widgets by updating the title and the widget ID. No need to delete the component.
 
@@ -53,6 +50,7 @@ Add a new custom block (that’s the inline entity form). Or add an existing cus
 The 5-tab new materials catalog widget at the top of the home page is created in Pika/Catalog.
 
 The widget is made up of 5 individual List Widgets in the New Materials tabbed widget:
+
 - Drupal - Browse Fiction
 - Drupal - Browse Nonfiction
 - Drupal - Browse Movies
@@ -60,17 +58,17 @@ The widget is made up of 5 individual List Widgets in the New Materials tabbed w
 - Drupal - Browse TV
 
 There is one List Widget that takes these 5 individual widgets and makes a tabbed widget for the Drupal Home page:
+
  - Drupal Home Page - 5 Format Catalog Widget
 
 ### Swap Out a List in the 5-Tab Catalog Widget
 
 1. Create your new list in Pika with 8625800 account.
 1. Locate the existing 5-tab widget:
-   1. Go to Catalog
-   1. Log in with 8625800 account
-   1. Click on Pika Configuration
-   1. Select List Widgets
-   1. Find “Drupal Home Page - 5 Format Catalog Widget”
+      1. Log in with 8625800 account
+      1. Click on Pika Configuration
+      1. Select List Widgets
+      1. Find “Drupal Home Page - 5 Format Catalog Widget”
 1. Edit the existing Drupal Home Page - 5 Format Catalog Widget.
 1. Swap out catalog widgets by updating the title and the widget ID.   
 ![home page components](/img/site-orientation-3.png)

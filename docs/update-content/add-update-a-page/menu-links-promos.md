@@ -1,7 +1,3 @@
----
-sidebar_position: 1
----
-
 # Mega Menu Links and Promos
 
 ## Adding / Swapping Out Menu Promos
@@ -21,9 +17,9 @@ MarCom will do this whenever they want to swap out the menu promo content.
 1. Save as a revision and make a note to yourself about what you changed.
 
 1. Clear cache:
-   1. Go to Configuration
-   1. Click on Performance
-   1. Click the red button “Clear all Caches”
+      1. Go to Configuration
+      1. Click on Performance
+      1. Click the red button “Clear all Caches”
 
 1. Once you see the “Caches cleared” message, check the menu on the live site. Verify that the promo got updated and that the link works.
 
