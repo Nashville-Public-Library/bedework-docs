@@ -18,21 +18,21 @@ Create a poll for a future post. You can add to a blog post or page later.
 1. Select “Add a Poll.”
 
 1. Fill out the form with the poll question and answers.
-   1. Question: Type the question you want to ask the user.
-   ![block image 1](/img/poll-5.png)
-   1. Choice: Enter two or more options for the poll.
-   ![block image 1](/img/poll-6.png)
-   1. Active: Leave this box checked.
-   ![block image 1](/img/poll-7.png)
-   1. Poll duration: Leave this set to unlimited, unless you want to limit the time period the poll is active.
-   ![block image 1](/img/poll-8.png)
-   1. IMPORTANT!!! Allow anonymous votes: Check this box!
-   ![block image 1](/img/poll-9.png)
-   1. IMPORTANT!!! Allow cancel votes: Do not check this box.
-   ![block image 1](/img/poll-10.png)
-   1. Allow view results: Check this box if you want users to be able to see poll results without voting.
-   ![block image 1](/img/poll-11.png)
-   1. IMPORTANT!!! Click create poll. If you do not click this button, the poll will not be saved.
+      1. Question: Type the question you want to ask the user.
+      ![block image 1](/img/poll-5.png)
+      1. Choice: Enter two or more options for the poll.
+      ![block image 1](/img/poll-6.png)
+      1. Active: Leave this box checked.
+      ![block image 1](/img/poll-7.png)
+      1. Poll duration: Leave this set to unlimited, unless you want to limit the time period the poll is active.
+      ![block image 1](/img/poll-8.png)
+      1. IMPORTANT!!! Allow anonymous votes: Check this box!
+      ![block image 1](/img/poll-9.png)
+      1. IMPORTANT!!! Allow cancel votes: Do not check this box.
+      ![block image 1](/img/poll-10.png)
+      1. Allow view results: Check this box if you want users to be able to see poll results without voting.
+      ![block image 1](/img/poll-11.png)
+      1. IMPORTANT!!! Click create poll. If you do not click this button, the poll will not be saved.
 
 1. Save.
 
@@ -51,21 +51,21 @@ You're writing a blog post, need a poll, but haven't made one yet. Follow these 
 ![block image 1](/img/poll-12.png)
 
 1. Fill out the form with the poll question and answers.
-   1. Question: Type the question you want to ask the user.
-   ![block image 1](/img/poll-5.png)
-   1. Choice: Enter two or more options for the poll.
-   ![block image 1](/img/poll-6.png)
-   1. Active: Leave this box checked.
-   ![block image 1](/img/poll-7.png)
-   1. Poll duration: Leave this set to unlimited, unless you want to limit the time period the poll is active.
-   ![block image 1](/img/poll-8.png)
-   1. IMPORTANT!!! Allow anonymous votes: Check this box!
-   ![block image 1](/img/poll-9.png)
-   1. IMPORTANT!!! Allow cancel votes: Do not check this box.
-   ![block image 1](/img/poll-10.png)
-   1. Allow view results: Check this box if you want users to be able to see poll results without voting.
-   ![block image 1](/img/poll-11.png)
-   1. IMPORTANT!!! Click create poll. If you do not click this button, the poll will not be saved.
+      1. Question: Type the question you want to ask the user.
+      ![block image 1](/img/poll-5.png)
+      1. Choice: Enter two or more options for the poll.
+      ![block image 1](/img/poll-6.png)
+      1. Active: Leave this box checked.
+      ![block image 1](/img/poll-7.png)
+      1. Poll duration: Leave this set to unlimited, unless you want to limit the time period the poll is active.
+      ![block image 1](/img/poll-8.png)
+      1. IMPORTANT!!! Allow anonymous votes: Check this box!
+      ![block image 1](/img/poll-9.png)
+      1. IMPORTANT!!! Allow cancel votes: Do not check this box.
+      ![block image 1](/img/poll-10.png)
+      1. Allow view results: Check this box if you want users to be able to see poll results without voting.
+      ![block image 1](/img/poll-11.png)
+      1. IMPORTANT!!! Click create poll. If you do not click this button, the poll will not be saved.
 
 1. Save Blog post.
 

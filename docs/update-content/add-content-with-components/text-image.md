@@ -13,14 +13,14 @@ Use Text + Image to place an image and text block side by side. You can select w
 
 1. Fill out the form.
 
-   1. Text: Type the body text you want to display next to your image.
-   ![block image 1](/img/text-plus-image-3.png)
-   1. Media: Add your image.
-   ![block image 1](/img/text-plus-image-4.png)
-   1. Display Mode: Select whether your image should display on the right or the left.
-   ![block image 1](/img/text-plus-image-5.png)
+      1. Text: Type the body text you want to display next to your image.
+      ![block image 1](/img/text-plus-image-3.png)
+      1. Media: Add your image.
+      ![block image 1](/img/text-plus-image-4.png)
+      1. Display Mode: Select whether your image should display on the right or the left.
+      ![block image 1](/img/text-plus-image-5.png)
 
 1. Save.
 
-1. Review your image to make sure it looks correct. 
+1. Review your image to make sure it looks correct.
 ![block image 1](/img/text-plus-image-6.png)

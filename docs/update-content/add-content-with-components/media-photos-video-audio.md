@@ -6,9 +6,9 @@ sidebar_position: 2
 
 Use the media component to add images, videos, and audio files to your page as a stand-alone element.
 
-If you upload an image to the image library or if you add a remote image via URL, you must have permission to share the image on our website. [Get tips on finding images](/docs/blog-orientation/images/#find-an-image-for-a-post).
+If you upload an image to the image library or if you add a remote image via URL, you must have permission to share the image on our website. [Get tips on finding images](/blog-orientation/images/#find-an-image-for-a-post).
 
-Some media functionality is only available in the text component. See: [Images with Caption](/docs/add-update-content/add-content-with-components/text/#add-an-image-with-a-caption) and [Linked Images](/docs/add-update-content/add-content-with-components/text/#create-a-linked-image)
+Some media functionality is only available in the text component. See: [Images with Caption](/update-content/add-content-with-components/text/#add-an-image-with-a-caption) and [Linked Images](/update-content/add-content-with-components/text/#create-a-linked-image)
 
 ## Add an Image from the Media Library
 
@@ -72,13 +72,13 @@ Some media functionality is only available in the text component. See: [Images w
 
 Currently, you must use the Text Component to add a caption to an image.
 
-See [Text Component > Add Image with Caption](/docs/add-update-content/add-content-with-components/text/#add-an-image-with-a-caption)
+See [Text Component > Add Image with Caption](/update-content/add-content-with-components/text/#add-an-image-with-a-caption)
 
 ## Add a Link to an Image
 
 Currently, you must use the Text Component to add a link to an image.
 
-See [Text Component > Create a Linked Image](/docs/add-update-content/add-content-with-components/text/#create-a-linked-image)
+See [Text Component > Create a Linked Image](/update-content/add-content-with-components/text/#create-a-linked-image)
 
 ## Add a Flickr Slideshow
 

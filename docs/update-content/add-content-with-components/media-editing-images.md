@@ -6,17 +6,19 @@ sidebar_position: 2
 
 ## Image Editing Tools
 
-There are a number of free online photo editors. If you only want to take a giant image and make it smaller, use one of these tools:
-- LunaPic (https://www10.lunapic.com): Crop, resize, alter image color, exposure, contrast, and saturation. This is a good choice with a simple interface for resizing an image.
-- PicResize (http://picresize.com)
-- Web Resizer (http://webresizer.com/resizer)
+There are a number of free online photo editors. If you only want to take a giant image and make it smaller, use one of these tools:  
 
-If you want to do take multiple images and layer them to make a more complex design, use Canva:
-- Canva (https://www.canva.com): Crop, resize, alter image color, exposure, contrast, and saturation. Layer images on a canvas.
+- [LunaPic](https://www10.lunapic.com): Crop, resize, alter image color, exposure, contrast, and saturation. This is a good choice with a simple interface for resizing an image.  
+- [PicResize](http://picresize.com)  
+- [Web Resizer](http://webresizer.com/resizer)  
+
+If you want to do take multiple images and layer them to make a more complex design, use Canva:  
+
+- [Canva](https://www.canva.com): Crop, resize, alter image color, exposure, contrast, and saturation. Layer images on a canvas.
 
 ## Resize an Image with LunaPic
 
-1. Go to LunaPic.
+1. Go to [LunaPic](https://www10.lunapic.com).
 1. Upload an image from your computer.
 ![upload image](/img/blog-5.png)
 1. Click Scale.
@@ -26,14 +28,14 @@ If you want to do take multiple images and layer them to make a more complex des
 
 ## Crop an Image wiht Lunapic
 
-1. Go to LunaPic.
-1. Upload an image from your computer.
-![upload image](/img/blog-5.png)
-1. Click Crop.
-![upload image](/img/blog-7.png)
-1. Click and drag the crop tool to mark where the images should be cropped.
-1. Click "crop image."
-1. When you are done, click the Save link under the picture to save to your desktop.
+1. Go to [LunaPic](https://www10.lunapic.com).
+1. Upload an image from your computer.  
+![upload image](/img/blog-5.png)  
+1. Click Crop.  
+![upload image](/img/blog-7.png)  
+1. Click and drag the crop tool to mark where the images should be cropped.  
+1. Click "crop image."  
+1. When you are done, click the Save link under the picture to save to your desktop.  
 
 ## Create a Layered Image in Canva
 

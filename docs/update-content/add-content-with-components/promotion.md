@@ -49,16 +49,16 @@ The promotion component is a layout tool that organizes promo blocks in 3-column
 ![home page components](/img/site-orientation-5.png)
 
 1. Fill out the form:
-   1. Block Description: Type the Block Description. This will NOT be seen by the user. This is for a staff-facing description to help you find reusable promos later on.
-   1. Home Promo Title: Yellow title text on the home promo.
-   1. Home Promo Body: Gray text that displays under the Home Promo Title.
-   1. Mega Menu Body: Text serves as both title and description in the mega menu. You may want to adjust the wording for the mega menu display.
-   1. Link: Add a link where the promo will take users. Can be an internal link or external.
-   1. Image: Select the image for the promo. You must add alt text. The same image will be used for both the Home Promo and Mega Menu Promo displays.
+      1. Block Description: Type the Block Description. This will NOT be seen by the user. This is for a staff-facing description to help you find reusable promos later on.
+      1. Home Promo Title: Yellow title text on the home promo.
+      1. Home Promo Body: Gray text that displays under the Home Promo Title.
+      1. Mega Menu Body: Text serves as both title and description in the mega menu. You may want to adjust the wording for the mega menu display.
+      1. Link: Add a link where the promo will take users. Can be an internal link or external.
+      1. Image: Select the image for the promo. You must add alt text. The same image will be used for both the Home Promo and Mega Menu Promo displays.
 
 1. Click **Create Custom Block**.
-   1. Note: The new promo is not saved until you save the homepage.
-   1. Also note: We have some tidying to do before we can save the page.
+      1. Note: The new promo is not saved until you save the homepage.
+      1. Also note: We have some tidying to do before we can save the page.
 
 1. Our row should now have 4 promo blocks. But, this row is only allowed to have 3 promo blocks. Click **Remove** next to one of the other promo blocks to get back to 3 for this row.
 ![home page components](/img/site-orientation-6.png)
@@ -124,8 +124,8 @@ You can add notifications to use later. Instead of going to the home page and ad
 1. Find your **Promo** in the list of content. Click the **edit** link for the promo.
 
 1. Promos that are ready for translation will have a **Translate** tab next to the View and Edit tabs.
-   1. If you see the Translate tab, you’re ready to create a translation.
-   1. If you do not see the Translate tab, look at the language drop down. If it says “Language Neutral,” change the setting to “English.” Then, save the promo. Always start promos in English. Never create a Spanish or Arabic promo without an English version first.
+      1. If you see the Translate tab, you’re ready to create a translation.
+      1. If you do not see the Translate tab, look at the language drop down. If it says “Language Neutral,” change the setting to “English.” Then, save the promo. Always start promos in English. Never create a Spanish or Arabic promo without an English version first.
 
 1. Click the **Translate** tab.
 

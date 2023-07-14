@@ -12,7 +12,7 @@ The Jump Menu Grid component allows us to add custom jump menus (drop down menus
 
 ### Create the Jump Menu Block
 
-1.
+The jump menu block was created in code. We don't have documentation on how to make a new one.
 
 ### Add Jump Menu to the Page
 
@@ -35,7 +35,7 @@ The Jump Menu Grid component allows us to add custom jump menus (drop down menus
 
 ### Create the Jump Menu
 
-1.
+The jump menu block was created in code. We don't have documentation on how to make a new one.
 
 ### Add Jump Menu to the Page
 
