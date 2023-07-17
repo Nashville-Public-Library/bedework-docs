@@ -1,6 +1,6 @@
-# Content Types (Pages) Overview
+# Pages Overview
 
-Content types are special forms that collect specific data that we use to make consistent web pages.
+Each page on the site is made with a content type. Content types are special forms that collect specific data that we use to make consistent web pages.
 
 Content Type | Description
 ------------ | -------------

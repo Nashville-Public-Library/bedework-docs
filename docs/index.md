@@ -1,27 +1,21 @@
 # Overview
 
-The website guide is for content contributors (bloggers, marketing staff, etc.) and developers.
+## Who is this guide for?
 
-## Add / Update Content
+The website guide is for bloggers, marketing staff, and developers.
 
-Find step-by-step instructions for adding specific types of content (image, video, catalog widget, etc.). Learn how to update specific pages, like the homepage or talking library page, and how to update alerts and menus.
+- Bloggers: NPL blog writers make new blog pages and add content using components.
+- Marketing Editors: MarCom staff make new pages, blog posts, home promos, etc.
+- Developers: Shared Systems staff make new content pages, and build new functionality.
 
-## Writing for the Web
+## What does this guide cover?
 
-Understand how to use headings, learn what alt text is, learn to write for skim-ability.
+This guide covers:
 
-## Statistics
-
-Documentation for content editors and administrators on pulling site statistics.
-
-## Blog Orientation
-
-Introduction and and orientation for new bloggers.
-
-## Podcast Orientation
-
-Introduction and and orientation for new podcasters, as well as procedures for starting a new podcast series.
-
-## Site Orientation
-
-Documentation on how major pages on the NPL site were created.
+- Content Updates: Adding and updating content on any of the above platforms.
+- Writing for the Web: Learning to use headings, writing for skim-ability, etc.
+- Statistics: Instructions for pulling basic blog post and website statistics.
+- Blog Orientation: Introduction and and orientation for new bloggers.
+- Podcast Orientation: Introduction and and orientation for new podcasters, as well as procedures for starting a new podcast series.
+- Redirects and Aliases: When to use a redirect, bit.ly link, or buy a domain name.
+- Developer Documentation: Overview of developer workflow and step-by-step instructions.

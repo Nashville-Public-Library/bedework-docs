@@ -7,7 +7,6 @@ theme:
     - navigation.tabs.sticky
     - navigation.indexes
     - navigation.path
-    # - toc.integrate
     - toc.follow
     - search.suggest
     - search.highlight
@@ -35,7 +34,9 @@ plugins:
 
 markdown_extensions:
   - pymdownx.highlight:
+      linenums: true
       anchor_linenums: true
+      line_spans: __span
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - admonition
@@ -55,8 +56,8 @@ nav:
   - Overview: index.md
   - Update Content:
     - update-content/index.md
-    - Components:
-      - update-content/add-content-with-components/overview.md
+    - Add Content to a Page (Drupal):
+      - update-content/add-content-with-components/index.md
       - update-content/add-content-with-components/block.md
       - update-content/add-content-with-components/blog-swim.md
       - update-content/add-content-with-components/calendar-widget.md
@@ -80,11 +81,26 @@ nav:
       - update-content/add-content-with-components/promotion.md
       - update-content/add-content-with-components/one-column.md
       - update-content/add-content-with-components/two-column.md
-    - Pages:
-      - update-content/add-update-a-page/overview.md
+    - Special Content (Drupal, Bucket, etc.):
+      - update-content/special-content-updates/index.md
+      - update-content/add-update-a-page/notifications.md
+      - update-content/special-content-updates/library-board-agenda.md
+      - update-content/special-content-updates/talking-library-schedule.md
+      - update-content/special-content-updates/read-to-rise-site.md
+      - update-content/special-content-updates/seed-exchange-google.md
+      - update-content/special-content-updates/summer-challenge.md
+      - update-content/special-content-updates/taxonomy-term-addition.md
+      - update-content/special-content-updates/bucket-sites.md
+    - Closing a Branch:
+      - update-content/closing-a-branch/index.md
+      - update-content/closing-a-branch/holidays.md
+      - update-content/closing-a-branch/closing-a-branch-spontaneous.md
+      - update-content/closing-a-branch/closing-a-branch-long-closure.md
+      - update-content/closing-a-branch/reopen-a-branch.md
+    - Page Details (Drupal):
+      - update-content/add-update-a-page/index.md
       - update-content/add-update-a-page/home-page.md
       - update-content/add-update-a-page/menu-links-promos.md
-      - update-content/add-update-a-page/notifications.md
       - update-content/add-update-a-page/basic-page.md
       - update-content/add-update-a-page/blog-post.md
       - update-content/add-update-a-page/books-movies-music-pages.md
@@ -104,19 +120,6 @@ nav:
       - update-content/add-update-a-page/podcast-episode.md
       - update-content/add-update-a-page/service-page.md
       - update-content/add-update-a-page/sponsors.md
-    - Special Content:
-      - update-content/special-content-updates/bucket-sites.md
-      - update-content/special-content-updates/library-board-agenda.md
-      - update-content/special-content-updates/read-to-rise-site.md
-      - update-content/special-content-updates/seed-exchange-google.md
-      - update-content/special-content-updates/summer-challenge.md
-      - update-content/special-content-updates/talking-library-schedule.md
-      - update-content/special-content-updates/taxonomy-term-addition.md
-    - Closing a Branch:
-      - update-content/closing-a-branch/holidays.md
-      - update-content/closing-a-branch/closing-a-branch-spontaneous.md
-      - update-content/closing-a-branch/closing-a-branch-long-closure.md
-      - update-content/closing-a-branch/reopen-a-branch.md
   - Writing for the Web:
     - writing-for-the-web/writing-for-web.md
   - Blog Orientation:

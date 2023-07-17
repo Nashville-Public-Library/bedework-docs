@@ -1,5 +1,7 @@
 # Components Overview
 
+Once you choose a content type (blog, podcast, basic page, etc.), you'll need to add content to that page. You'll add content by adding individual components to the page.
+
 Components are like different LEGO bricks that you stack together to make a page. Instead of one giant body field that contains all the text, images, etc., each content type has a field for components. You can add multiple components to a page. Each component is treated as its own block and the blocks stack on top of one another.
 
 ## Content Components
