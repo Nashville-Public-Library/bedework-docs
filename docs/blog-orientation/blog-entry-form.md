@@ -12,7 +12,7 @@ The blog form has a lot of parts. Key items are marked required. Review the elem
 
 ![blog entry form](/img/blog-2.jpg)
 
-- Title: Type the title of the post. See the [Writing for the Web](/docs/writing-for-the-web/overview/) section for tips on good titles.
+- Title: Type the title of the post. See the [Writing for the Web](/writing-for-the-web/writing-for-web/) section for tips on good titles.
 - Posted Date: This date will display to the user as the yellow date on the blog list and the blog entry.
 - Blog Author: Select the blog author by typing first or last name. This will pull in the correct author block at the end of the post.
 - Content: Add text, media (images, video, etc.), catalog promos, catalog widgets, and other content. You can use each component multiple times in any order.

@@ -33,10 +33,6 @@ plugins:
   - search
 
 markdown_extensions:
-  - pymdownx.highlight:
-      linenums: true
-      anchor_linenums: true
-      line_spans: __span
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - admonition

@@ -29,7 +29,7 @@ Click **edit** next to one of the rows to see all of your editing options for th
 
 ### Create New Home Promos
 
-[See the Promotion Component](/docs/add-update-content/add-content-with-components/promotion/) for step-by-step instructions on adding promo blocks.
+[See the Promotion Component](/update-content/add-content-with-components/promotion/) for step-by-step instructions on adding promo blocks.
 
 ### Swap Out Home Promos
 
@@ -43,7 +43,7 @@ Add a new custom block (that’s the inline entity form). Or add an existing cus
 
 ### Translate Promo to Spanish or Arabic (Coming Soon)
 
-[See the Promotion Component](/docs/add-update-content/add-content-with-components/promotion/) for step-by-step instructions on translating blocks.
+[See the Promotion Component](/update-content/add-content-with-components/promotion/) for step-by-step instructions on translating blocks.
 
 ## New Materials Catalog Widget
 
@@ -75,7 +75,7 @@ There is one List Widget that takes these 5 individual widgets and makes a tabbe
 1. Save.
 1. Double check the homepage to verify the widget updated correctly.
 
-## Topical Catalog Widgets/Spotlights
+## Topical Catalog Widgets/Collection Spotlights
 
 ### Use an Existing Spotlight
 
@@ -92,7 +92,7 @@ There is one List Widget that takes these 5 individual widgets and makes a tabbe
 
 ### Create a New Spotlight
 
-1. [See the Catalog Widget Component](/docs/add-update-content/add-content-with-components/catalog-widget/) for step-by-step instructions on adding catalog widgets.
+1. [See the Catalog Widget Component](/update-content/add-content-with-components/catalog-widget/) for step-by-step instructions on adding catalog widgets.
 1. After creating the new widget, go to the homepage on Drupal.
 1. Select the row that contains the topical catalog widget.
 1. Click Edit.
@@ -103,4 +103,4 @@ There is one List Widget that takes these 5 individual widgets and makes a tabbe
 
 ### Check Widget Settings
 
-[See the Catalog Widget Component](/docs/add-update-content/add-content-with-components/catalog-widget/#widget-settings)
+[See the Catalog Widget Component](/update-content/add-content-with-components/catalog-widget/#widget-settings)

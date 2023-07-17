@@ -58,16 +58,6 @@ Add, remove, or update options in the Bedework Jump Menu:
       1. Save.
 1. Verify that the Popular Events section of the Events landing page looks good.
 
-## Update the Unbound Block
-
-1. Go to the Events landing page: [https://library.nashville.org/event](https://library.nashville.org/events)
-1. Click **Edit**.
-1. In the components list, select Edit next to the first “Two Column” row.
-1. Select **Edit** in the iFrame row, right under the Unbound text row.
-1. Paste in your new iFrame code for Unbound.
-1. **Save**.
-1. Verify that the Events landing page looks okay.
-
 ## Update Seasonal / Ongoing Events
 
 1. Log in and go to the Content overview page.
