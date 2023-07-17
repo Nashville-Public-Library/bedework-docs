@@ -1,7 +1,3 @@
----
-sidebar_position: 8
----
-
 # Deploy to Production
 
 Follow this process once a feature is approved and we're ready to deploy to production.
@@ -45,13 +41,13 @@ esc button then `:wq`
 1. Click the Pull Requests tab.
 1. Click the New Pull Request button.
 1. For “comparing changes” options:
-   1. Base = master
-   1. Compare = develop
+    1. Base = master
+    1. Compare = develop
 1. Review the commits that are going into this pull request just to be sure it is what you expected.
 1. Click the “Create Pull Request” button.
 1. Type the release number in the title: *Build x.x.xx*
-   1. Check Pantheon dev to see what release number we’re on.
-   1. Minor release numbers go to 20 then you start a new major release.
+    1. Check Pantheon dev to see what release number we’re on.
+    1. Minor release numbers go to 20 then you start a new major release.
 1. Click the “Create Pull Request” button.
 1. Click the “Merge Pull Request” button.
 1. Go to [CircleCI](https://circleci.com/), to see the build process run. The build process deploys master to Pantheon dev.
@@ -82,8 +78,8 @@ Once code is on Pantheon, test on dev and test sites before deploying to live.
 1. Click the “deploy code from dev to test” button.
 1. Click the link to visit the test site.
 1. Verify that the changes are all present and behaving correctly.
-   1. As you are testing, write down any deploy steps you need to repeat on live.
-   1. If all looks good, click on the Live tab.
+    1. As you are testing, write down any deploy steps you need to repeat on live.
+    1. If all looks good, click on the Live tab.
 
 ### Deploy from Test to Live
 
@@ -106,6 +102,7 @@ Note, if you run into trouble during the merge, you might have issues with the c
 Master branch shouldn’t have a build failure, but it is possible.
 
 If the build process fails when you’re on the master branch:
+
 1. Go to Terminal.
 1. Do pull:  
 `git pull origin master`
@@ -115,6 +112,7 @@ If the build process fails when you’re on the master branch:
 1. Fix anything on master that is weird, fix it on master, commit changes, and then push to master.
 
 If you make changes on master, you have to put all changes in develop once everything is fixed:
+
 1. cd into develop
 1. remerge changes from master into develop: git merge master
 1. Push changes to develop: git push origin develop
@@ -125,34 +123,36 @@ If you make changes on master, you have to put all changes in develop once every
 When pushing from local to Pantheon Dev, you might run into a scenario where config won't import. This often happens when there are core updates and lines of code are moved around, but not really changed.
 
 1. Import config.
-   1. Try importing config via terminus.  
-   `px pantheon:drupal cim`
-   1. Try importing config via the UI.
+    1. Try importing config via terminus.  
+    `px pantheon:drupal cim`
+    1. Try importing config via the UI.
 1. If config changes aren't imported, go to admin/config/development/configuration and click "view differences" next to several of the configurations.  
 1. If the left and right side code is the same, but just in different position in the list, re-export config on local and push back up.
-   1. Go to local.
-   1. On develop, pull code and import config.  
-   `git pull origin develop`  
-   `px drupal cim`
-   1. After import is complete, export config.  
-   `px drupal cex`
-   1. If there are changes to export, go ahead and commit those.
-   1. Push code to origin develop.  
-   `git push origin develop`  
-   1. Check out master and merge deveop.  
-   `git checkout master`  
-   `git merge develop`
-   1. Push code to origin master.  
-   `git push origin master`
+    1. Go to local.
+    1. On develop, pull code and import config.  
+    `git pull origin develop`  
+    `px drupal cim`
+    1. After import is complete, export config.  
+    `px drupal cex`
+    1. If there are changes to export, go ahead and commit those.
+    1. Push code to origin develop.  
+    `git push origin develop`  
+    1. Check out master and merge deveop.  
+    `git checkout master`  
+    `git merge develop`
+    1. Push code to origin master.  
+    `git push origin master`
 1. Go to Pantheon Dev and verify that config is imported on this page: admin/config/development/configuration
 
 ### Issues Deploying to Live
 
 "Error: The website encountered an unexpected error. Try again later."
+
 - This error can happen when configurations aren’t imported.
 - If the site goes unresponsive the only way to interact with it, is using Drush via terminus. For Pr0ject-X, Travis built in terminus commands.
 
 Step-by-Step Fix:
+
 1. Check if the site schema has been updated as this can cause fatal errors because queries are more or less breaking because it can’t find database tables.  
 `px pantheon:drupal updb`
 1. If that doesn’t work then try reimporting the configuration again.  

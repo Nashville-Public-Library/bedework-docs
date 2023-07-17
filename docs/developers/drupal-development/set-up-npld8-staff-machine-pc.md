@@ -1,7 +1,3 @@
----
-sidebar_position: 2
----
-
 # Set Up NPLD8 on a Staff PC
 
 Set up a staff computer so staff person can work on NPL Drupal site. Local development environment is based on DrupalVM.
@@ -24,19 +20,19 @@ Below is an overview of requirements and how they're used. Download by following
 ## Download and Install Software
 
 1. Download and Install Composer:
-   1. Download at [getcomposer.org/download](https://getcomposer.org/download)
-   1. Install following prompts.
+    1. Download at [getcomposer.org/download](https://getcomposer.org/download)
+    1. Install following prompts.
 
 1. Download and Install VirtualBox:
-   1. Download at [virtualbox.org/wiki/Downloads](https://www.virtualbox.org/wiki/Downloads)
-   1. Install following prompts. We install this first because Vagrant may have a dependency on VirtualBox.
+    1. Download at [virtualbox.org/wiki/Downloads](https://www.virtualbox.org/wiki/Downloads)
+    1. Install following prompts. We install this first because Vagrant may have a dependency on VirtualBox.
 
 1. Download and Install Vagrant:
-   1. Download at [vagrantup.com/downloads](https://www.vagrantup.com/downloads)
-   1. Install following prompts.
+    1. Download at [vagrantup.com/downloads](https://www.vagrantup.com/downloads)
+    1. Install following prompts.
 
 1. Download and Install Ansible:
-   1. Download at[docs.ansible.com/ansible/latest/user_guide/windows_usage.html ](https://docs.ansible.com/ansible/latest/user_guide/windows_usage.html)
-   1. Install following prompts.
+    1. Download at[docs.ansible.com/ansible/latest/user_guide/windows_usage.html ](https://docs.ansible.com/ansible/latest/user_guide/windows_usage.html)
+    1. Install following prompts.
 
 ## Set Up the Local Development Site with Project-X

@@ -1,7 +1,3 @@
----
-sidebar_position: 18
----
-
 # Work on CSS
 
 ## Start Gulp for CSS Work

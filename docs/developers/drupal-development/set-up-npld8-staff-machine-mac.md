@@ -1,7 +1,3 @@
----
-sidebar_position: 2
----
-
 # Set Up NPLD8 on a Staff MAC
 
 Set up a staff computer so staff person can work on NPL Drupal site. Local development environment is based on DrupalVM.
@@ -22,29 +18,22 @@ Below is an overview of requirements and how they're used. Download by following
 ## Download and Install Software
 
 1. Download and Install Composer:
-   1. Mac:
-      1. Install Brew:
-      Go to [brew.sh](https://brew.sh/) and follow directions for Mac.
-      1. Install Composer:  
-      `brew install composer`
-   1. PC:
-      1. Download at [getcomposer.org/download](https://getcomposer.org/download)
-      1. Install following prompts.
+    1. Install Brew:
+    Go to [brew.sh](https://brew.sh/) and follow directions for Mac.
+    1. Install Composer:  
+    `brew install composer`
 
 1. Download and Install VirtualBox:
-   1. Download at [virtualbox.org/wiki/Downloads](https://www.virtualbox.org/wiki/Downloads)
-   1. Install following prompts. We install this first because Vagrant may have a dependency on VirtualBox.
+    1. Download at [virtualbox.org/wiki/Downloads](https://www.virtualbox.org/wiki/Downloads)
+    1. Install following prompts. We install this first because Vagrant may have a dependency on VirtualBox.
 
 1. Download and Install Vagrant:
-   1. Download at [vagrantup.com/downloads](https://www.vagrantup.com/downloads)
-   1. Install following prompts.
+    1. Download at [vagrantup.com/downloads](https://www.vagrantup.com/downloads)
+    1. Install following prompts.
 
 1. Download and Install Ansible:
-   1. On Mac:  
-   `brew install ansible`
-   1. On PC:
-      1. Download at[docs.ansible.com/ansible/latest/user_guide/windows_usage.html ](https://docs.ansible.com/ansible/latest/user_guide/windows_usage.html)
-      1. Install following prompts.
+    1. On Mac:  
+    `brew install ansible`
 
 ## Set Up Local Development Site with Project-X
 
@@ -61,33 +50,33 @@ Below is an overview of requirements and how they're used. Download by following
 `composer install`
 
 1. Add a Project-X shortcut so that you can type "px" insetad of "vendor/bin/px" when we do Project-X commands:
-   1. Run command:  
-   `vendor/bin/px`
-   1. Run command:  
-   `vendor/bin/px core:cli-shortcut`  
-   1. Say yes:  
-   `y`
-   1. Run the command provided in terminal:  
-   `source /Users/[your-username]/.zshrc`
+    1. Run command:  
+    `vendor/bin/px`
+    1. Run command:  
+    `vendor/bin/px core:cli-shortcut`  
+    1. Say yes:  
+    `y`
+    1. Run the command provided in terminal:  
+    `source /Users/[your-username]/.zshrc`
 
 1. Create local settings. This command will add database info to the settings.php and settings.local.php files.  
 `px drupal:local-setup`
 
 1. Check the database settings to verify the local-setup command worked.
-   1. If you see settings below, all is correct.
-   ![Local Settings](/img/local-setup-database-settings.jpg)
-   1. If the settings do not match the image, delete the settings.local.php file then run the `px drupal:local-setup` command again.
-   1. Check to see that the database settings now match the image above.  
+    1. If you see settings below, all is correct.
+    ![Local Settings](/img/local-setup-database-settings.jpg)
+    1. If the settings do not match the image, delete the settings.local.php file then run the `px drupal:local-setup` command again.
+    1. Check to see that the database settings now match the image above.  
 
 ## Bring Up Local Dev Site and Get Database
 
 1. Log in to Terminus.
-   1. See if you're already logged in:    
-   `px pantheon:info`
-   1. If you're not logged in, run one of these commands to log in:  
-   `terminus auth:login --machine-token=[add token here]`  
-   or  
-   `terminus auth:login --email=[email address used in Pantheon]`
+    1. See if you're already logged in:    
+    `px pantheon:info`
+    1. If you're not logged in, run one of these commands to log in:  
+    `terminus auth:login --machine-token=[add token here]`  
+    or  
+    `terminus auth:login --email=[email address used in Pantheon]`
 
 1. Bring up the local environment. This should provision the VM and bring up the box. You may get the error "the site cannot be reached," which is fine and just indicates that we don't have a database yet.  
 `px env:up`
@@ -111,16 +100,16 @@ live
 ```
 
 1. The local environment should open in a browser.
-   1. If the environment throws an error, clear the cache:
-   `px drupal cr`
-   1. Reload the browser. If the environment still throws an error, make sure settings.local.php has the following at the bottom. If not, add and save that file:
-   ```
-   /**
-   * Disable the HTTP client SSL verify for develop.
-   */
-   $settings['http_client_config']['verify'] = FALSE;
-   ```
-   1. Reload the browser.
+    1. If the environment throws an error, clear the cache:
+    `px drupal cr`
+    1. Reload the browser. If the environment still throws an error, make sure settings.local.php has the following at the bottom. If not, add and save that file:
+    ```
+    /**
+    * Disable the HTTP client SSL verify for develop.
+    */
+    $settings['http_client_config']['verify'] = FALSE;
+    ```
+    1. Reload the browser.
 
 ## Troubleshooting
 
@@ -148,10 +137,10 @@ Error: “An unexpected error occurred during the `brew link` step. The formula 
 ![Local Settings](/img/local-setup-not-a-problem.jpg)
 
 1. If issues with bringing up the local environment persiset, try ininstalling and reinstalling Ansible:
-   1. Uninstall Ansible:  
-   `brew uninstall ansible`
-   1. Reinstall Ansible:  
-   `brew install ansible`
+    1. Uninstall Ansible:  
+    `brew uninstall ansible`
+    1. Reinstall Ansible:  
+    `brew install ansible`
 
 1. Try restarting the environment:  
 `px env:restart`

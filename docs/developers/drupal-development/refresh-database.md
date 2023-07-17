@@ -1,10 +1,7 @@
----
-sidebar_position: 4
----
-
 # Refresh Database on Local
 
 You do not need to refresh the database as often as you pull code. Refresh the database under the following conditions:
+
 - It's been a while and you want the newest content on your local.
 - You've added content to the live site that you need on local in order to complete work on a feature.
 
