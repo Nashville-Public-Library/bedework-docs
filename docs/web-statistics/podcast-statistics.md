@@ -1,7 +1,3 @@
----
-sidebar_position: 2
----
-
 # Podcast Statistics
 
 Statistics are pulled monthly for any podcaster that requests regular updates.
@@ -15,9 +11,9 @@ Statistics are saved in a Google Sheet: https://docs.google.com/spreadsheets/d/1
 * Pageviews on the overall podcasts landing page
 * Pageviews on each podcast series landing page
 * Pageviews on individual podcast episode pages
-* Count of people who came from a podcast referral lnik by using a campaign-tagged URL (as long as the URL is tagged)
+* Count of people who came from a podcast referral link by using a campaign-tagged URL (as long as the URL is tagged)
 
-### Statistics We Cannot Provide (But We're Working On It)
+### Statistics We Cannot Provide
 
 * Clicks on the audio player button on podcast episode pages (did people stream from NPL site?)
 * Length of Listening / Engagement with Audio Player (how long did people listen to the audio on the NPL site?)
@@ -59,6 +55,7 @@ Waldo > library.nashville.org - NPL Website Production > NPL Site Master (Use fo
 ### Google Podcasts
 
 #### Note: Owner Emails
+
 - Back in the Day: nplwebservices@gmail.com
 - Family Folk Tales: nplwebservices@gmail.com
 - Just Listen: nplwebservices@gmail.com

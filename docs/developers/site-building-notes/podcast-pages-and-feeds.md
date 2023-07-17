@@ -1,7 +1,3 @@
----
-sidebar_position: 2
----
-
 # Podcast XML Feed View Creation in D8/D9
 
 ## Description of Content
@@ -26,15 +22,15 @@ For each series, collect the following information via the content type:
 
 URL Structure: /podcasts/podcast-series-name
 - Top section (about the series)
-   - Series Logo
-   - Series Title
-   - Series Description
-   - Subscription buttons
-   - Hosts
+      - Series Logo
+      - Series Title
+      - Series Description
+      - Subscription buttons
+      - Hosts
 - Bottom section (list of all episodes - view block). For each episode, list the following:
-   - Episode title
-   - Date
-   - Episode Summary
+      - Episode title
+      - Date
+      - Episode Summary
 
 ### Episode Pages
 
@@ -79,11 +75,11 @@ In Structure > Views > Podcast Subscribe Links:
 - Added a header to the view so that an H2 displays showing “Listen for Free” above the subscribe links.
 - Added fields for each of the subscription links from the Podcast Series vocabulary.
 - Configured each field in the view with the following settings:
-   - URL only - check this box
-   - Show URL as plain text - check this box
-   - Rewrite Results > Override the output of this field with custom text - check this box and type the service name in the text field (type Apple Podcasts for the Apple link)
-   - Rewrite Results > Output this field as a custom link - check this box and enter the replacement pattern for the service url.
-   - Rewrite Results > External Server URL - check this box
+      - URL only - check this box
+      - Show URL as plain text - check this box
+      - Rewrite Results > Override the output of this field with custom text - check this box and type the service name in the text field (type Apple Podcasts for the Apple link)
+      - Rewrite Results > Output this field as a custom link - check this box and enter the replacement pattern for the service url.
+      - Rewrite Results > External Server URL - check this box
 - Set the “no results behavior” to “hide if empty” so we wouldn’t show services we aren’t using.
 
 In Structure > Content Types > Podcast Episode:
@@ -101,8 +97,8 @@ In Structure > Taxonomy > Podcast Series:
 Podcast Module Notes:
 - Module allows you, all of the properties are mapped to fields, module allows you to add fields you need for mapping.
 - Module has src plugins:
-   - Src > Plugin > row
-   - Src > Plugin > style
+      - Src > Plugin > row
+      - Src > Plugin > style
 
 Setting Up the view:
 - Format: Podcast RSS Feed | Settings (use to do the mapping for feed) - these are all the fields the apply to the podcast series. Called the “channel.” Title here would be title for podcast series.

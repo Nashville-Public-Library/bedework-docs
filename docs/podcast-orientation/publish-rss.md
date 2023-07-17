@@ -24,8 +24,8 @@ Note: Login in Lastpass (need to be in Shared Systems folder)
 1. Paste in the XML feed URL.
 1. Click “validate” button.
 1. Check the info and click “submit” button.
-   1. Apple will send an email to the podcast email address when the podcast is accepted. This email address is our LibAnswers email.
-   1. You can also refresh the podcasts admin page to see when it is updated.
+      1. Apple will send an email to the podcast email address when the podcast is accepted. This email address is our LibAnswers email.
+      1. You can also refresh the podcasts admin page to see when it is updated.
 1. Once the podcast is verified, search for the podcast on Apple Podcasts and copy the URL.
 1. Paste the podcast URL into the “apple podcasts” section of the term page.
 1. Save the term page.
@@ -83,22 +83,6 @@ Note: Login in Lastpass (need to be in Shared Systems folder)
 1. Fill out the form for language, host, category, etc.
 1. Click submit. You should get a success screen with a URL for your podcast on Spotify. Copy the link.
 1. Paste into the podcast term “spotify” section.
-1. Save the term page.
-
-### Stitcher
-
-Note: Login in Lastpass (need to be in Shared Systems folder)
-
-1. Go to https://partners.stitcher.com/
-1. Login using username and password saved in Lastpass.
-1. Click “add a show.”
-1. Paste in the XML feed for the podcast.
-1. Click Next.
-1. Stitcher will ask you to verify the email address associated with NPL’s * Stitcher account. This is currently connected to LibAnswers: ask@nashvillepubliclibrary.org. It may take several days for Stitcher to send a verification email.
-1. Go to the podcast in Stitcher and click “manage show.”
-1. Paste in the show URL. This is the URL of the podcast series.
-1. Go to the podcast in Stitcher admin and click “promote show” and copy the Stitcher URL.
-1. Paste Stitcher URL into the podcast term “stitcher” section.
 1. Save the term page.
 
 ### TuneIn

@@ -1,7 +1,3 @@
----
-sidebar_position: 2
----
-
 # News Landing Page on Drupal 7
 
 /press-room

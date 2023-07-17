@@ -1,12 +1,9 @@
----
-sidebar_position: 4
----
-
 # What to Write
 
 The NPL blog is a space for you to talk about library collections and initiatives. Posts should always recommend or highlight something NPL has, or does, for the public.
 
 We never censor the materials in our collection, nor do we limit which NPL materials you may write about in a blog post. However, in the interest of brand and reputation protection, you must limit editorializing, especially as regards defamation and controversial topics.
+
 - DO give your opinion on a Jimmy Carter biography.
 - DO NOT give your personal opinion on whether or not he handled the Iran Hostage Crisis properly.
 - DO talk about materials in our collection about mass transit, and information about the pros and cons of it contained therein.

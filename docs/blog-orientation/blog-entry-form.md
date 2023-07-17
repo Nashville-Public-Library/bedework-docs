@@ -1,7 +1,3 @@
----
-sidebar_position: 2
----
-
 # Blog Entry Form
 
 ## Create a New Post
@@ -22,10 +18,10 @@ The blog form has a lot of parts. Key items are marked required. Review the elem
 - Content: Add text, media (images, video, etc.), catalog promos, catalog widgets, and other content. You can use each component multiple times in any order.
 - You Might Also Like: Optional. Add a list of recommendations to the end of the post.
 - Tagging: You must tag your post so it can appear in the right places on the website. You can’t save your post, even as a draft, without tagging it first.  
-   - Tagging > Sections: You MUST add one top-level category from the Sections drop down. You can add more than one section, but please don't add all of them.
-   ![blog entry form](/img/blog-14.jpg)
-   - Tagging > Sections: Do not select a Child tag without also selecting the Parent Child tags (major category and subcategories). For example, if you want to tag a post with "chapter books" (subcategory) you must also select "children" (the major section category).
-   ![blog entry form](/img/blog-15.jpg)
+      - Tagging > Sections: You MUST add one top-level category from the Sections drop down. You can add more than one section, but please don't add all of them.
+      ![blog entry form](/img/blog-14.jpg)
+      - Tagging > Sections: Do not select a Child tag without also selecting the Parent Child tags (major category and subcategories). For example, if you want to tag a post with "chapter books" (subcategory) you must also select "children" (the major section category).
+      ![blog entry form](/img/blog-15.jpg)
 - Summary: Add the thumbnail image and summary text that will be used when posts are shown in list, like on the blog landing page.
 - Scheduling: Schedule your post to publish in the future. Date must match the info in the Posted Date field. Remember to add your date and topic to the [blog schedule](https://docs.google.com/spreadsheets/d/1BrXbgkQERFoHPWHxh_2PhvHrKDJbXR4-aLyqae6mO6M/edit?usp=sharing).
 

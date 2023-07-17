@@ -1,16 +1,14 @@
----
-sidebar_position: 2
----
-
 # Managing Files
 
 ## Moving / Copying a File to a New Location on Bucket
 
 There are two commands for moving and copying: `mv` and `cp`.
+
 - Copy a file from one directory to another: `cp [path]/file-name [new-location]`
 - Move a file from one directory to another: `mv [path]/file-name [new-location]`
 
 Move a file from one directory to another:
+
 1. Connect to VPN.
 1. In terminal, log into the server.
 1. CD into root: `cd /`

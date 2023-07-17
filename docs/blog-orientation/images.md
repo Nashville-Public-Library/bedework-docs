@@ -1,7 +1,3 @@
----
-sidebar_position: 4
----
-
 # Images
 
 ## Blog Image Size Requirements
@@ -15,6 +11,7 @@ If you upload an image larger than 450x450, the image will automatically be scal
 If you want to control how the thumbnail image looks, create a 450x450 image and it will be shown without scaling or cropping.
 
 Image size requirements:
+
 - Width: 450px
 - Height: 450px
 - Allowed file types: png gif jpg jpeg
@@ -26,6 +23,7 @@ Image size requirements:
 Images should fill the width of the page or come close. Do not wrap text around images. This results in a full-width image and ensures that posts will look their best on any device or screen size.
 
 Image size requirements:
+
 - Width: 600px to 800px
 - Height: not prescribed
 - Allowed file types: png gif jpg jpeg
@@ -54,18 +52,22 @@ Find large images in Google. Marketing and Communications follows this rule of t
 
 If you don’t find an image that fits your needs using the sources below, please email MarCom.
 
-[NPL Flickr](http://www.flickr.com/photos/nashvillepubliclibrary)
+**[NPL Flickr](http://www.flickr.com/photos/nashvillepubliclibrary)**
+
 - High-resolution event photos are saved to the library’s Flickr account.
 - If you use a photo that credits a photographer, include that photo credit in your post and link back to the photo on NPL’s Flickr.
 
-[NPL Digital Collections](http://digital.library.nashville.org/)
+**[NPL Digital Collections](http://digital.library.nashville.org/)**
+
 - Historic photos are housed online in the library’s contentDM site.
 - If you use an image in a blog post, link back to the page in contentDM.
 
-[Templates for Common Print Jobs](https://metronashville.sharepoint.com/sites/NPLink/Pages/Knowledge.aspx?RootFolder=%2Fsites%2FNPLink%2FKnowledge%20Base%2FTemplates%20for%20Common%20Print%20Jobs&FolderCTID=0x012000DFB8185BE4651E4E916530593AF58837&View=%7B97FB1E57%2D4A3D%2D4891%2DAA21%2DA1AB965A87BA%7D)
+**[Templates for Common Print Jobs](https://metronashville.sharepoint.com/sites/NPLink/Pages/Knowledge.aspx?RootFolder=%2Fsites%2FNPLink%2FKnowledge%20Base%2FTemplates%20for%20Common%20Print%20Jobs&FolderCTID=0x012000DFB8185BE4651E4E916530593AF58837&View=%7B97FB1E57%2D4A3D%2D4891%2DAA21%2DA1AB965A87BA%7D)**
+
 - Templates are on INK (NPL intranet) at Resources > Knowledge Base > Templates for Common Print Jobs
 
-[Stock Photos](https://metronashville.sharepoint.com/sites/NPLink/MarCom%20Stock%20Photo%20Library/Forms/Thumbnails.aspx)
+**[Stock Photos](https://metronashville.sharepoint.com/sites/NPLink/MarCom%20Stock%20Photo%20Library/Forms/Thumbnails.aspx)**
+
 - Photos are on INK (NPL intranet) at Resources > Knowledge Base > MarCom >  Stock Photo Library
 
 ### Images from Other Websites (Not Owned by NPL)

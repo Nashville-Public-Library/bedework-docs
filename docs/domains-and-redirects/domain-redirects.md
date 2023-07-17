@@ -1,7 +1,3 @@
----
-sidebar_position: 5
----
-
 # Domain Redirects
 
 ## Redirect a Domain to a Wordpress Site
@@ -11,11 +7,11 @@ sidebar_position: 5
 1. Once the domain purchase is final, go to cpanel (see passwords for login info) and PARK the new domain.
 
 1. Set up a redirect from the new domain to the site on nashvillepubliclibrary.org:
-   1. You should be able to set up a redirection from the Parked Domains list by clicking Manage Redirection:
-   1. If that option is not available or if you are at the cpanel home menu, do this instead:
-      1. Click Domains from the list
-      1. Click Redirects from the list
-      1. Choose the domain we’re redirecting (it will be the one you purchased). Type in the URL of the nashvillepubliclibrary.org site you want the new domain to point to.
+      1. You should be able to set up a redirection from the Parked Domains list by clicking Manage Redirection:
+      1. If that option is not available or if you are at the cpanel home menu, do this instead:
+         1. Click Domains from the list
+         1. Click Redirects from the list
+         1. Choose the domain we’re redirecting (it will be the one you purchased). Type in the URL of the nashvillepubliclibrary.org site you want the new domain to point to.
 
 1. Email ITS and let them know you have redirected X domain to a new URL. Give ITS the host gator server IP (saved in passwords).
 
@@ -48,9 +44,9 @@ Route an owned domain name (like studionpl.org) to an internal page on the libra
 1. Make the change in Drupal settings.php file. We figured out how to do this from Pantheon Documentation. Cannot test on multidev (I dont' think) so push to production to verify the redirect works.
 
 1. Point the domain name(s) to Drupal.
-   1. Get the right URL from Pantheon.
-      1. For NPL site: Forward the domain to the live URL on our web host. This is the easiest option and what we recommend.
-      1. For LL site: Use the platform domain for the LL site.
+      1. Get the right URL from Pantheon.
+         1. For NPL site: Forward the domain to the live URL on our web host. This is the easiest option and what we recommend.
+         1. For LL site: Use the platform domain for the LL site.
 
 1. Send ITS with a DNS service request with the associated domains and the IP address you want them sent to.
 
@@ -76,6 +72,6 @@ Thanks,
 ```
 
 1. Test to verify that the redirect works.
-   1. If you run into trouble, double check that there aren’t any redirects in Drupal that need to be deleted or changed.
-   1. If this was a domain name we used with Wordpress, log in to Hostgator and make sure the domain isn’t parked / redirected.
-   1. If there aren’t conflicting redirects in Drupal, report issues to ITS.
+      1. If you run into trouble, double check that there aren’t any redirects in Drupal that need to be deleted or changed.
+      1. If this was a domain name we used with Wordpress, log in to Hostgator and make sure the domain isn’t parked / redirected.
+      1. If there aren’t conflicting redirects in Drupal, report issues to ITS.

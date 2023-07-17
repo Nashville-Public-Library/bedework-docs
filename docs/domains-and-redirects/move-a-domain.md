@@ -1,12 +1,8 @@
----
-sidebar_position: 4
----
-
 # Move a Domain to ITS
 
 1. Email ITS with the following info and make sure we’re good to get started.
-   1. What is the domain name?
-   1. What is the current DNS configuration? If you cannot log in to the domain registrar, ask the person who CAN log in what the configuration is.
+      1. What is the domain name?
+      1. What is the current DNS configuration? If you cannot log in to the domain registrar, ask the person who CAN log in what the configuration is.
 
 1. Get the authorization code in the domain registrar admin panel. If you cannot log in to the registrar, ask the person who CAN log in to start a transfer and send you the authorization code.
 
@@ -20,5 +16,5 @@ Can you help?
 ```
 
 1. After ITS verifies that the move is complete, test the domain to make sure it still works.
-   1. If the domain isn't sending users to the right place, email ITS.
-   1. If the domain is sending users to the right place, you're done.  
+      1. If the domain isn't sending users to the right place, email ITS.
+      1. If the domain is sending users to the right place, you're done.  

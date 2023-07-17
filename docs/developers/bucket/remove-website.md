@@ -1,7 +1,3 @@
----
-sidebar_position: 4
----
-
 # Removing a Website from Bucket
 
 What steps do we need to complete on the server to shut down a website?

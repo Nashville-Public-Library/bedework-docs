@@ -1,7 +1,3 @@
----
-sidebar_position: 5
----
-
 # Redirecting a Subdomain on Bucket
 
 ## View the Stanza for the HTTP version of the Site
@@ -24,8 +20,8 @@ sidebar_position: 5
 1. Test on the web to see if the http redirect works.
 
 1. Test other sites on Bucket to make sure you didn’t kill them.
-- https://salon.library.nashville.org
-- https://assets.library.nashville.org/css/aspen-widgets.css
+      1. [https://salon.library.nashville.org](https://salon.library.nashville.org)
+      1. [https://assets.library.nashville.org/css/aspen-widgets.css](https://assets.library.nashville.org/css/aspen-widgets.css)
 
 1. Make sure that the Virtual Host settings here match what is in the ssl.conf file.
 
@@ -42,8 +38,8 @@ sidebar_position: 5
 1. Test on the web to see if the http redirect works.
 
 1. Test other sites on Bucket to make sure you didn’t kill them.
-https://salon.library.nashville.org
-https://assets.library.nashville.org/css/aspen-widgets.css
+      1. [https://salon.library.nashville.org](https://salon.library.nashville.org)
+      1. [https://assets.library.nashville.org/css/aspen-widgets.css](https://assets.library.nashville.org/css/aspen-widgets.css)
 
 1. Update the stanza to add “Redirect permanent / [URL for the redirect to point to.”
 ![bucket image 1](/img/bucket-1.jpg)
@@ -57,7 +53,7 @@ https://assets.library.nashville.org/css/aspen-widgets.css
 1. Test on the web to see if the https redirect works.
 
 1. Test other sites on Bucket to make sure you didn’t kill them.
-- https://salon.library.nashville.org
-- https://assets.library.nashville.org/css/aspen-widgets.css
+      1. [https://salon.library.nashville.org](https://salon.library.nashville.org)
+      1. [https://assets.library.nashville.org/css/aspen-widgets.css](https://assets.library.nashville.org/css/aspen-widgets.css)
 
 1. Make sure that the Virtual Host settings here match what is in the httpd.conf file.

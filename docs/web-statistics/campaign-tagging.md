@@ -47,8 +47,8 @@ Use lowercase for all parameters. Parameters are case sensitive. Tagging somethi
 - Format dates as **yyyy**%2D**mm**%2D**dd**.
 - Only add dates to the utm_content field, like adding the date to the newsletter.
 - If you must add additional punctuation to a URL (like parentheses or a slash), use this guide to find additional [encoding symbols](https://www.w3schools.com/tags/ref_urlencode.asp): https://www.w3schools.com/tags/ref_urlencode.asp
-   - Example Name: Out of Print Master Engaged Segment - 120 days (no purchases after 8/31)
-   - Encoded Name: Out+of+Print+Master+Engaged+Segment+-+120+days+%28no+purchases+after+8%2F31%29
+      - Example Name: Out of Print Master Engaged Segment - 120 days (no purchases after 8/31)
+      - Encoded Name: Out+of+Print+Master+Engaged+Segment+-+120+days+%28no+purchases+after+8%2F31%29
 
 ## Campaign Tagging Process
 
@@ -70,8 +70,8 @@ Put all tags in the Tracking Worksheet so you can double check each other’s sy
 1. Double check the list of campaign URLs as a group to make sure there are no syntax errors.
 1. Take the tagged URL from column L and create a bit.ly link. You must make the bit.ly link from the tagged URL from column L.
 1. Paste the bit.ly link in column M.
-   1. This helps keep all the bit.ly links straight so you don’t use a link in the wrong place.
-   1. You can make all your bit.ly links in one sitting, then come back and grab the right one when you actually make the post or email or QR code.
+      1. This helps keep all the bit.ly links straight so you don’t use a link in the wrong place.
+      1. You can make all your bit.ly links in one sitting, then come back and grab the right one when you actually make the post or email or QR code.
 1. Note in column N the date the bit.ly link was created. We’re trying this field for now, but we can lose this column later if it doesn’t turn out to be useful.  
 1. Remember: Never add campaign parameters to a link that lives on the NPL site (a link in a home promo, on a basic page, etc.) or you will wreck our data.
 
@@ -80,12 +80,12 @@ Put all tags in the Tracking Worksheet so you can double check each other’s sy
 
 1. Open up the Open the [Campaign Tracking Worksheet](http://bit.ly/npl-ga-campaign-worksheet), because this is where you stashed your bit.ly links.
 1. Create a QR code using the bit.ly link saved in column M. You must make the QR code with the bit.ly link!
-   1. The bit.ly link contains the tagged-URL.
-   1. The bit.ly link will make a much prettier / easier to scan QR code.
+      1. The bit.ly link contains the tagged-URL.
+      1. The bit.ly link will make a much prettier / easier to scan QR code.
 1. IF QR CODE: Save the QR code file in the correct folder on Z > Communications.
 1. IF QR CODE: Note the folder path to the QR code in column O, like this: Z > Communications > [folder name] > [folder name] > filename.jpg
-   1. Everyone will know where to find the QR code for a specific piece of collateral.
-   1. You won’t get QR codes mixed up (you’ll know which is the bookmark QR code vs which is the poster QR code).
+      1. Everyone will know where to find the QR code for a specific piece of collateral.
+      1. You won’t get QR codes mixed up (you’ll know which is the bookmark QR code vs which is the poster QR code).
 1. IF QR CODE: Share the print-ready QR code file with whoever needs it.  
 1. Remember: Never add campaign parameters to a link that lives on the NPL site (a link in a home promo, on a basic page, etc.) or you will wreck our data.
 
@@ -102,17 +102,12 @@ Add the campaign-tagged links to messages we’re sending out: email, twitter, e
 1. Log in to [Google Analytics](https://analytics.google.com/analytics/web/).
 1. Select the property where users were being sent (NPL site, Calendar, Catalog, etc.)
 1. Click on Acquisition > Campaigns > All Campaigns
-   1. Campaigns will be listed by the value entered in utm_campaign.
-   1. You will be able to see sessions, users, pages viewed per session, and average session duration. You will not see conversion data unless/until we set up goals.
+      1. Campaigns will be listed by the value entered in utm_campaign.
+      1. You will be able to see sessions, users, pages viewed per session, and average session duration. You will not see conversion data unless/until we set up goals.
 1. Click on Acquisition > Source / Medium
-   1. Source / Medium will be listed by the value entered in utm_source and utm_medium.
-   1. You will be able to see how many sessions we got from each source / medium, etc.
-
-### Get data from Data Studio (beta test)
-
-1. Go to [Data Studio report](https://datastudio.google.com/open/191-vkvNXf6qQUDALA4yEv0-LCHN9cfI7): https://datastudio.google.com/open/191-vkvNXf6qQUDALA4yEv0-LCHN9cfI7
-1. Send feedback / questions to Web Services so we can make Data Studio reports better.
+      1. Source / Medium will be listed by the value entered in utm_source and utm_medium.
+      1. You will be able to see how many sessions we got from each source / medium, etc.
 
 ## Demonstration
 
-See the [Campaign Tagging presentation](https://docs.google.com/presentation/d/1gpEPYTKbwNhUpbDbms1AUTQFuxwplSxU/edit?usp=sharing&ouid=100711184815519661331&rtpof=true&sd=true) for an overview with slides. 
+See the [Campaign Tagging presentation](https://docs.google.com/presentation/d/1gpEPYTKbwNhUpbDbms1AUTQFuxwplSxU/edit?usp=sharing&ouid=100711184815519661331&rtpof=true&sd=true) for an overview with slides.

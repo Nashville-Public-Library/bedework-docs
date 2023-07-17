@@ -1,7 +1,3 @@
----
-sidebar_position: 7
----
-
 # Example Book List
 
 The book list template is good when you want to recommend a lot of titles without writing a full book review.
@@ -11,6 +7,7 @@ Write a sentence or two about each book. Write a paragraph overview and display 
 In this example, we’re showing off the favorite Newbery Award nominees for 3 different NPL children’s staff members. The content comes from [Lindsay’s Newbery Awards blog post](https://library.nashville.org/blog/2015/01/2015-newbery-awards).
 
 Our post will include the following 3 components:
+
 - Text: Headings and body text
 - Catalog Promos: Each recommended book in the body of the post
 - Catalog Widget: List of all Newbery winners
@@ -18,19 +15,20 @@ Our post will include the following 3 components:
 ## Create a new Blog Entry in Drupal
 
 We’ll start by creating a blog post and adding our main content.
+
 1. Log in to Drupal with your username and password.
 1. In the menu bar, select Content > Add Content > Blog Entry.
 1. Add a Title. Choose an engaging title that tells the reader what the post is about.
 1. Add a Posted Date for your post. This should be the same date you use for scheduling your post.
 1. Add Blog Author. Type a first or last name in the author box. Then select the correct name from the list.
 1. In the Content tab, use the dropdown menu to add a text block.
-   1. Type the heading and text that introduces a catalog promo. We’ve got a short paragraph to introduce the post, then a heading to denote the Top Pick section, then the text that falls between the heading and catalog promo.
+      1. Type the heading and text that introduces a catalog promo. We’ve got a short paragraph to introduce the post, then a heading to denote the Top Pick section, then the text that falls between the heading and catalog promo.
 1. In the Content tab, use the dropdown menu to add a catalog promo.
-   1. Fill out the catalog promo in formation.
+      1. Fill out the catalog promo in formation.
 1. In the Content tab, use the dropdown menu to add a text block.
-   1. Type the heading and text that introduces a catalog promo. Because this is a new section, we should use a Heading 2.
+      1. Type the heading and text that introduces a catalog promo. Because this is a new section, we should use a Heading 2.
 1. In the Content tab, use the dropdown menu to add a catalog promo.
-   1. Fill out the catalog promo in form.
+      1. Fill out the catalog promo in form.
 1. Save your post. We’ll finish it up in a moment.
 
 ## Create a Catalog Widget/Spotlight
@@ -40,10 +38,10 @@ We’ll start by creating a blog post and adding our main content.
 1. Create a list. If you already have a list, skip this step.
 
 1. Go to the lists page:
-   1. Click the user icon in the upper right.
-   ![block image 1](/img/catalog-widget-2.png)
-   1. Select “lists” from the menu.
-   ![block image 1](/img/catalog-widget-3.png)
+      1. Click the user icon in the upper right.
+      ![block image 1](/img/catalog-widget-2.png)
+      1. Select “lists” from the menu.
+      ![block image 1](/img/catalog-widget-3.png)
 
 1. On the list page, click the Edit button.
 ![block image 1](/img/catalog-widget-4.png)
@@ -64,35 +62,35 @@ We’ll start by creating a blog post and adding our main content.
 ![block image 1](/img/catalog-widget-9.png)
 
 1. Fill out the following fields:
-   1. Name: Give your widget a name.
-   ![block image 1](/img/catalog-widget-10.png)
+      1. Name: Give your widget a name.
+      ![block image 1](/img/catalog-widget-10.png)
 
-   1. Description: Add a note about where the widget is used. If you’re adding to a blog post, type something like “widget for newbery winners blog post 2015.”
-   ![block image 1](/img/catalog-widget-11.png)
+      1. Description: Add a note about where the widget is used. If you’re adding to a blog post, type something like “widget for newbery winners blog post 2015.”
+      ![block image 1](/img/catalog-widget-11.png)
 
-   1. Number of Titles: Default is 25, which is generally a good number. You can make this smaller if you like.
-   ![block image 1](/img/catalog-widget-12.png)
+      1. Number of Titles: Default is 25, which is generally a good number. You can make this smaller if you like.
+      ![block image 1](/img/catalog-widget-12.png)
 
-   1. Uncheck the next three boxes. We do not want to show the title, author, or ratings for titles.
-   ![block image 1](/img/catalog-widget-13.png)
+      1. Uncheck the next three boxes. We do not want to show the title, author, or ratings for titles.
+      ![block image 1](/img/catalog-widget-13.png)
 
-   1. Style When Displaying List Widget: Choose Horizontal Carousel.
-   ![block image 1](/img/catalog-widget-14.png)
+      1. Style When Displaying List Widget: Choose Horizontal Carousel.
+      ![block image 1](/img/catalog-widget-14.png)
 
-   1. Cover Size to Use: Choose Medium.
-   ![block image 1](/img/catalog-widget-15.png)
+      1. Cover Size to Use: Choose Medium.
+      ![block image 1](/img/catalog-widget-15.png)
 
-   1. Custom CSS File: Use https://assets.library.nashville.org/css/aspen-widgets.css
-   ![block image 1](/img/catalog-widget-16.png)
+      1. Custom CSS File: Use https://assets.library.nashville.org/css/aspen-widgets.css
+      ![block image 1](/img/catalog-widget-16.png)
 
-   1. Cover Size to Use: Medium
-   ![block image 1](/img/catalog-widget-17.png)
+      1. Cover Size to Use: Medium
+      ![block image 1](/img/catalog-widget-17.png)
 
-   1. For the next two boxes: Uncheck “show list widget title bar.” But DO check “show the view more link.”
-   ![block image 1](/img/catalog-widget-18.png)
+      1. For the next two boxes: Uncheck “show list widget title bar.” But DO check “show the view more link.”
+      ![block image 1](/img/catalog-widget-18.png)
 
-   1. Display Mode for Search Results: Choose Covers.
-   ![block image 1](/img/catalog-widget-19.png)
+      1. Display Mode for Search Results: Choose Covers.
+      ![block image 1](/img/catalog-widget-19.png)
 
 1. Click Save Changes and Return.
 ![block image 1](/img/catalog-widget-21.png)
@@ -107,9 +105,9 @@ We’ll start by creating a blog post and adding our main content.
 
 1. Fill out the form:
 ![block image 1](/img/catalog-widget-22.png)
-   1. Title and iFrame Title: The type title for your widget that will display to the user.
-   1. iFrame URL: Paste the iFrame URL from the widget code in catalog.
-   1. iFrame Title: Use the same title in both the Title and iFrame Title fields.
+      1. Title and iFrame Title: The type title for your widget that will display to the user.
+      1. iFrame URL: Paste the iFrame URL from the widget code in catalog.
+      1. iFrame Title: Use the same title in both the Title and iFrame Title fields.
 
 1. Review and verify that the widget looks correct. If anything looks weird, check your widget settings.
 

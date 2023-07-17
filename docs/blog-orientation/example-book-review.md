@@ -1,7 +1,3 @@
----
-sidebar_position: 6
----
-
 # Example Book/Movie/Music Review
 
 A review generally has several paragraphs of text that highlight a single title. A review must include a catalog promo. It can also include images and additional recommendations.
@@ -9,6 +5,7 @@ A review generally has several paragraphs of text that highlight a single title.
 In this example, we’re reviewing a book called *Nashville Food Trucks*. The content comes from [Amanda’s Savor Summer blog post](https://library.nashville.org/blog/2015/07/savor-summer-nashville-food-trucks).
 
 Our post will include the following 3 components:
+
 - Text: Headings and body text
 - Media: Image at the top of the post
 - Catalog Promos: Promo at the top of the post for the item that is being reviewed. Additional promos a the end of the post in the You Might Also Like section.
@@ -16,24 +13,25 @@ Our post will include the following 3 components:
 ## Create New Blog Post
 
 We’ll start by creating a blog post and adding our main content.
+
 1. Log in to Drupal with your username and password.
 1. In the menu bar, select Content > Add Content > Blog Entry.
 1. Add a Title. Choose an engaging title that tells the reader what the post is about.
 1. Add a Posted Date for your post. This should be the same date you use for scheduling your post.
 1. Add Blog Author. Type a first or last name in the author box. Then select the correct name from the list.
 1. In the Content tab, click Add Text.
-   1. Leave Display Mode set to default. Paste your first section of text from your draft. I pasted in all the text that appears before the image in my blog post.
+      1. Leave Display Mode set to default. Paste your first section of text from your draft. I pasted in all the text that appears before the image in my blog post.
 1. In the Content tab, click Add Media.
-   1. Leave Display Mode set to default.
-   1. Click Select Media to upload your image.
-   1. Click the Add Image link at the top. Then choose the file to upload.
-   1. Add alt text to describe your image. Then save.
+      1. Leave Display Mode set to default.
+      1. Click Select Media to upload your image.
+      1. Click the Add Image link at the top. Then choose the file to upload.
+      1. Add alt text to describe your image. Then save.
 1. In the Content tab, click Add Text. I’m adding the text that comes after the image, but before the catalog promo. I’m stacking LEGOs on top of one another.
-   1. Paste in your next section of text from your draft blog post.
+      1. Paste in your next section of text from your draft blog post.
 1. Use the component dropdown to select a Catalog Promo.
-   1. Fill out the form to add the book Title, Record ID, and Author.
+      1. Fill out the form to add the book Title, Record ID, and Author.
 1. At this point, you may decide you want the image at the top of your post. No problem. Click the “Collapse All” button.
-   1. Then use the plus sign to rearrange the components.
+      1. Then use the plus sign to rearrange the components.
 
 ## Add Titles to You Might Also Like
 

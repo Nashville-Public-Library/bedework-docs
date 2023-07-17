@@ -1,7 +1,3 @@
----
-sidebar_position: 1
----
-
 # WordPress Redirects
 
 ## 301 Redirect Using cPanel
