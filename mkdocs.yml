@@ -1,4 +1,5 @@
 site_name: Website Guide
+site_url: https://nashville-public-library.github.io/mkdocsuaurus/
 
 theme:
   name: material
