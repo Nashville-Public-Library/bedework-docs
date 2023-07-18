@@ -1,6 +1,13 @@
-site_name: Website Guide
+# Project information
+site_name: NPL Website Guide
 site_url: https://nashville-public-library.github.io/mkdocsuaurus/
+site_description: Content creator and developer documentation for NPL websites.
 
+# Repository
+repo_name: Nashville-Public-Library/mkdocsuaurus
+repo_url: https://github.com/Nashville-Public-Library/mkdocsuaurus
+
+# Configuration
 theme:
   name: material
   features:
@@ -14,25 +21,30 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
-  font: false
-  language: en
   palette:
     - scheme: default
+      primary: indigo
+      accent: light blue
       toggle:
         icon: material/brightness-7
         name: Switch to Dark Mode
-      primary: indigo
-      accent: light blue
     - scheme: slate
+      primary: black
+      accent: yellow
       toggle:
         icon: material/brightness-4
         name: Switch to Light Mode
-      primary: black
-      accent: yellow
+  font: false
 
+docs_dir:
+  - docs
+
+# Plugins
 plugins:
   - search
+    separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
 
+# Extensions
 markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
@@ -49,6 +61,7 @@ markdown_extensions:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
+# Page tree
 nav:
   - Overview: index.md
   - Update Content:

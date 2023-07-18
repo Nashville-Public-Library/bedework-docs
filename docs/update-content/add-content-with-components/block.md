@@ -14,13 +14,13 @@ Before you can add a custom block to content, it has to be made available to the
 1. Create your custom block in views, Components JS, or elsewhere in Drupal.  
 
 1. Go to Structure > Paragraph Types > Block > Manage Fields  
-![block image 1](/img/block-image-1a.png)
+![block image 1](img/block-image-1a.png)
 
 1. Click Edit next to the Block Widget field.  
-![block image 2](/img/block-image-2.png)
+![block image 2](img/block-image-2.png)
 
 1. Click the checkbox next to the block you need to make available to the block paragraph type.  
-![block image 3](/img/block-image-3.png)
+![block image 3](img/block-image-3.png)
 
 1. Save.
 
