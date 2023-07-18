@@ -2,7 +2,7 @@
 
 Statistics are pulled monthly for any podcaster that requests regular updates.
 
-Statistics are saved in a Google Sheet: https://docs.google.com/spreadsheets/d/1zLBTMUyBbnCFU1A8AbuNbVxxV2rpMtuHvQK3Nap4TmA/edit?usp=sharing
+Statistics are saved in a [Google Sheet](https://docs.google.com/spreadsheets/d/1zLBTMUyBbnCFU1A8AbuNbVxxV2rpMtuHvQK3Nap4TmA/edit?usp=sharing). 
 
 ## Google Analytics
 
