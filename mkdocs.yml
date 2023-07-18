@@ -36,9 +36,6 @@ theme:
         name: Switch to Light Mode
   font: false
 
-docs_dir:
-  - docs
-
 # Plugins
 plugins:
   - search
