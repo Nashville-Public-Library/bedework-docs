@@ -7,12 +7,12 @@ When adding a new term to the database age or database topic taxonomies, we have
 1. Go to the relevant taxonomy: Structure > Taxonomies > Database Age / Database Topic
 1. Add your new term.
 1. On the term page, locate the taxonomy views integrator settings box.
-![Local Settings](/img/term-page-update-1.jpg)
+![Local Settings](../../img/term-page-update-1.jpg)
 1. Check the box and a new set of options will appear.
-![Local Settings](/img/term-page-update-2.jpg)
+![Local Settings](../../img/term-page-update-2.jpg)
       1. Under “using the view” select Databases Term Pages.
-      ![Local Settings](/img/term-page-update-3.jpg)
+      ![Local Settings](../../img/term-page-update-3.jpg)
       1. Under “with this view display” select Databases Term Pages.
-      ![Local Settings](/img/term-page-update-4.jpg)
+      ![Local Settings](../../img/term-page-update-4.jpg)
 1. Save the taxonomy term.
 1. View the term page and verify that the database cards are displaying in A-Z order by database title.

@@ -64,7 +64,7 @@ Below is an overview of requirements and how they're used. Download by following
 
 1. Check the database settings to verify the local-setup command worked.
     1. If you see settings below, all is correct.
-    ![Local Settings](/img/local-setup-database-settings.jpg)
+    ![Local Settings](../../img/local-setup-database-settings.jpg)
     1. If the settings do not match the image, delete the settings.local.php file then run the `px drupal:local-setup` command again.
     1. Check to see that the database settings now match the image above.  
 
@@ -134,7 +134,7 @@ Error: “An unexpected error occurred during the `brew link` step. The formula 
 ### Issue Bringing Up Environment
 
 1. If you see an error that says "/usr/bin/python3: no such file," this is a problem with DrupalVM that isn't a big deal. Same with "Ansible failed to complete" error. You can ignore the error.
-![Local Settings](/img/local-setup-not-a-problem.jpg)
+![Local Settings](../../img/local-setup-not-a-problem.jpg)
 
 1. If issues with bringing up the local environment persiset, try ininstalling and reinstalling Ansible:
     1. Uninstall Ansible:  

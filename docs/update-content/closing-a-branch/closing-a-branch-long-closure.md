@@ -13,13 +13,13 @@ Use this guide to update NPL website properties for planned closures lasting mor
 1. Log in to LibCal.  
 1. In the Admin menu (gear icon), select Hours: https://nashvillepl.libcal.com/admin/hours   
 1. Find the branch whose hours are changing. Click the "Edit Hours" link.  
-![Edit Hours](/img/libcal-1.jpg)  
+![Edit Hours](../../img/libcal-1.jpg)  
 1. In the lightbox, you'll see a list of hours with a start date and end date. Update the end date to be the day before the closure. Pay close attention to the year! Then click "Update."  
-![Edit Hours](/img/libcal-2.jpg)  
+![Edit Hours](../../img/libcal-2.jpg)  
 1. Add a new line for hours. Use the date of the closure for start and end dates. Set the template to "fully closed."  
-![Edit Hours](/img/libcal-3.jpg)  
+![Edit Hours](../../img/libcal-3.jpg)  
 1. Add a new line for hours. Use the day *after* the closure date for the start date. This is the first day the branch will be open following the closure. Set the end date to Dec 31, 2037. Use the same hours template from the original hours list. In our example, it's the 30 Min Open Close template for regional branches. Click Add.   
-![Edit Hours](/img/libcal-4.jpg)  
+![Edit Hours](../../img/libcal-4.jpg)  
 1. Verify in the hours preview (top of the hours lightbox) that everything looks okay for the duration of the closure.  
 
 #### Mark Meeting Rooms Unavailable During Closure (LibCal)

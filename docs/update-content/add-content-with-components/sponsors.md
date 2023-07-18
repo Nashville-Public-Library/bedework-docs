@@ -9,7 +9,7 @@ Sponsors are added as taxonomy terms so that images, links, and text are updated
 - Sponsors: Donors who can be listed together with equal-size logos.
 - Sponsors by Name Only: Lists sponsors by name and does not show a logo.
 
-![block image 1](/img/sponsors-1.png)
+![block image 1](../../img/sponsors-1.png)
 
 ## Add a New Sponsor to the Sponsor Taxonomy
 
@@ -32,9 +32,9 @@ You must be a site admin to add items to any taxonomy.
 Sponsors are added using a component. On most pages, the sponsor is pulled out into its own tab.
 
 1. Select the Sponsors tab.
-![block image 1](/img/sponsors-2.png)
+![block image 1](../../img/sponsors-2.png)
 
 1. Type the name of the sponsor(s) in the appropriate section. Most sponsors will fall in the Sponsors field, rather than the Featured Sponsors or Name Only list.
-![block image 1](/img/sponsors-3.png)
+![block image 1](../../img/sponsors-3.png)
 
 1. Save page.

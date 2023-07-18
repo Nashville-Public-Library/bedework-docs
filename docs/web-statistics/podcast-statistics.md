@@ -29,7 +29,7 @@ Waldo > library.nashville.org - NPL Website Production > NPL Site Master (Use fo
 1. In the left menu, select Behavior > Site Content > Content Drilldown.
 1. Click on the /podcasts folder.
 1. Click on the podcast's series *page* (chose the link with the page icon, not the folder icon).
-![podcasts folder](/img/podcast-1.png)
+![podcasts folder](../img/podcast-1.png)
 1. Record the pageview numbers for the required time period.
 
 ### Pull Pageviews for Specific Podcast Episodes
@@ -41,9 +41,9 @@ Waldo > library.nashville.org - NPL Website Production > NPL Site Master (Use fo
 1. In the left menu, select Behavior > Site Content > Content Drilldown.
 1. Click on the /podcasts folder.
 1. Click on the podcast's series folder (chose the link with the folder icon, not the page icon).
-![podcasts folder](/img/podcast-2.png)
+![podcasts folder](../img/podcast-2.png)
 1. Search for an episode by typing a term in the filter box.
-![podcasts folder](/img/podcast-3.png)
+![podcasts folder](../img/podcast-3.png)
 1. Record the pageview numbers for the required time period.
 
 ## Podcast Services

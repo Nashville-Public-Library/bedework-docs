@@ -9,13 +9,13 @@ Use the banner component to add a large banner image to the top of a page. The b
 - The hero component is required on event and collection pages.
 - The hero component is optional on landing page, basic page, and services Pages.
 
-![block image 1](/img/banner-1.png)
+![block image 1](../../img/banner-1.png)
 
 ## Add a Banner to a Page
 
 1. Select the banner/hero tab. On basic page, collection, event, and service, the banner component is its own tab.
 
-![block image 1](/img/banner-2.png)
+![block image 1](../../img/banner-2.png)
 
 1. Select Add Banner.
 

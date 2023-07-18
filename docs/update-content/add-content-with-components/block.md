@@ -29,13 +29,13 @@ Before you can add a custom block to content, it has to be made available to the
 Add any available block to your content.
 
 1. In your content area, select the block component from the list.  
-![block image 4](/img/block-image-4.png)
+![block image 4](../../img/block-image-4.png)
 
 1. Use the dropdown menu to see the available blocks.  
-![block image 5](/img/block-image-5.png)
+![block image 5](../../img/block-image-5.png)
 
 1. Select the block you want to add to the content area. In this example, we’re adding the Database A-Z block to the databases landing page.  
-![block image 6](/img/block-image-6.png)
+![block image 6](../../img/block-image-6.png)
 
 1. Save.
 

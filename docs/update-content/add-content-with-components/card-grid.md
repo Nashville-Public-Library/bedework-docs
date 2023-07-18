@@ -15,20 +15,20 @@ Available for use on basic page, service, and sub-page.
 ## Examples
 
 ### Text Component above a Card Grid Component
-![block image 1](/img/card-grid-1.jpg)
+![block image 1](../../img/card-grid-1.jpg)
 
 ### Card Grid Component
-![block image 1](/img/card-grid-2.jpg)
+![block image 1](../../img/card-grid-2.jpg)
 
 ## Add a Catalog Widget Grid to the Website
 
 1. Create a new basic page, service, or sub-page.
 
 1. Add the Card Grid component to your page.
-![block image 1](/img/card-grid-3.jpg)
+![block image 1](../../img/card-grid-3.jpg)
 
 1. Select your display mode and number of columns.
-![block image 1](/img/card-grid-4.jpg)
+![block image 1](../../img/card-grid-4.jpg)
       1. Display mode denotes which card design is displayed. There are two options:
          1. Image + Title + Text will display the image at the top of the card, followed by the title, then content.
          1. Title + Image + Text will display the title first, followed by the image, then content.

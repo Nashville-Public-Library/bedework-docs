@@ -24,7 +24,7 @@ A site alert is shown site-wide in the yellow bar at the top of the website.
 1. Fill out the form:
       1. Label: Displays in the admin UI and as the page title in the browser tab. Does not display to the user on the actual webpage.
       1. Headline: Displays as the alert text in the yellow bar at the top of every page on the site.
-      ![home page components](/img/site-orientation-13.png)
+      ![home page components](../../img/site-orientation-13.png)
       1. Read More URL (optional):
          1. If the alert points to a specific blog post or website, put that link here. You must include the full URL, not a relative path.
          1. If the Read More URL is left blank, the user will be taken to the notification page and will see content added to the Message field.
@@ -35,7 +35,7 @@ A site alert is shown site-wide in the yellow bar at the top of the website.
       1. Notification Conditions: Ignore for site wide alerts.
       1. Notification Options: Schedule your alert (message publish) or change authoring information (message information).
          1. Message Publish: Select the start and end date for your alert.
-         ![home page components](/img/site-orientation-14.png)
+         ![home page components](../../img/site-orientation-14.png)
          1. Message Information: Do not change unless absolutely necessary.
 1. Select time period the notification will be active.
 1. Save.
@@ -50,7 +50,7 @@ A contextual alert is shown on individual pages or types of content. For example
 1. Fill out the form:
       1. Label: Displays in the admin UI and as the page title in the browser tab. Does not display to the user on the actual webpage.
       1. Headline: Displays as the alert text in the yellow bar above the content on a specific page. The example below is on the ABC-CLIO database page.
-      ![home page components](/img/site-orientation-15.png)
+      ![home page components](../../img/site-orientation-15.png)
       1. Read More URL (optional): Displayed to the user only if they click the “read more” link.
          1. If the alert points to a specific blog post or website, put that link here. You must include the full URL, not a relative path.
          1. If the Read More URL is left blank, the user will be taken to the notification page and will see content added to the Message field.
@@ -66,7 +66,7 @@ A contextual alert is shown on individual pages or types of content. For example
          1. Current Theme: Ignore.
       1. Notification Options: Schedule your alert (message publish) or change authoring information (message information).
          1. Message Publish: Select the start and end date for your alert.
-         ![home page components](/img/site-orientation-14.png)
+         ![home page components](../../img/site-orientation-14.png)
          1. Message Information: Do not change unless absolutely necessary.
 1. Select time period the notification will be active.
 1. Save.
@@ -76,9 +76,9 @@ A contextual alert is shown on individual pages or types of content. For example
 1. Log in to the web site at https://library.nashville.org/user with your username and password.
 1. Go to Content > Notification Message
 1. You should see a list of notifications. Select Edit next to the notification. Or use the dropdown arrow to delete an alert.
-![home page components](/img/site-orientation-16.png)
+![home page components](../../img/site-orientation-16.png)
 1. Make your changes and save. Your alert will only be visible to users if you update the publish start and end dates.
-![home page components](/img/site-orientation-17.png)
+![home page components](../../img/site-orientation-17.png)
 1. Save your changes.
 
 ## Add Extended Closure Notice

@@ -14,7 +14,7 @@ The NPL website has an internship landing page and individual internship posts.
 1. Log in to the web site at https://library.nashville.org/user with your username and password.
 
 1. In the menu bar, select Content > Add Content > Internship Opportunity.
-![home page components](/img/site-orientation-12.png)
+![home page components](../../img/site-orientation-12.png)
 
 1. Fill Out the Form
 

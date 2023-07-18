@@ -7,20 +7,20 @@ sidebar_position: 4
 
 Promo blocks and the promotion component work together to form rows of promo content. Designed for use on the homepage, but can be used anywhere that you plan to use promo blocks.
 
-![block image 1](/img/promotion-0.png)
+![block image 1](../../img/promotion-0.png)
 
 ## Add a Promotion Layout Component
 
 The promotion component is a layout tool that organizes promo blocks in 3-column rows. If you're using promo blocks, the promotion component must be added to the page first, then you can add promos inside this component. If you're page already has this component, skip to the other sections to learn how to add or swap out promos.
 
 1. Add a promotion component to your page.
-![block image 1](/img/promotion-1.png)
+![block image 1](../../img/promotion-1.png)
 
 1. In the columns dropdown menu, select 3. This will give you 3 columns, or 3 promotions across the page.
-![block image 1](/img/promotion-2.png)
+![block image 1](../../img/promotion-2.png)
 
 1. Select an option for adding a block: make a new block or add an existing block. Note: See the info for the promo block for step-by-step help on creating promo blocks.
-![block image 1](/img/promotion-3.png)
+![block image 1](../../img/promotion-3.png)
 
 1. Add promo blocks. See details on adding blocks in the next section, below.
 
@@ -43,10 +43,10 @@ The promotion component is a layout tool that organizes promo blocks in 3-column
 1. Go to Content > Filter for “homepage” > Once you find the Homepage, click **Edit**.
 
 1. Select the Promotion row you want to update by clicking the **Edit** button.
-![home page components](/img/site-orientation-4.png)
+![home page components](../../img/site-orientation-4.png)
 
 1. Click **Add New Custom Block** (that’s the inline entity form).
-![home page components](/img/site-orientation-5.png)
+![home page components](../../img/site-orientation-5.png)
 
 1. Fill out the form:
       1. Block Description: Type the Block Description. This will NOT be seen by the user. This is for a staff-facing description to help you find reusable promos later on.
@@ -61,10 +61,10 @@ The promotion component is a layout tool that organizes promo blocks in 3-column
       1. Also note: We have some tidying to do before we can save the page.
 
 1. Our row should now have 4 promo blocks. But, this row is only allowed to have 3 promo blocks. Click **Remove** next to one of the other promo blocks to get back to 3 for this row.
-![home page components](/img/site-orientation-6.png)
+![home page components](../../img/site-orientation-6.png)
 
 1. You’ll get a prompt to double check if you want the block removed. If you might use the block again in the future, just click **remove**. If you will never use the promo again and want to delete it from the block library, check the box next to **delete this custom block from the system.**
-![home page components](/img/site-orientation-7.png)
+![home page components](../../img/site-orientation-7.png)
 
 1. You should be back down to 3 blocks. On the right side of the screen, add a revision message to document the changes.
 
@@ -79,16 +79,16 @@ The promotion component is a layout tool that organizes promo blocks in 3-column
 1. Go to **Content** > Filter for **homepage** > Once you find the Homepage, click **Edit**.
 
 1. Select the Promotion row you want to update by clicking the **Edit** button.
-![home page components](/img/site-orientation-4.png)
+![home page components](../../img/site-orientation-4.png)
 
 1. Click **Add Existing Custom Block**.
-![home page components](/img/site-orientation-8.png)
+![home page components](../../img/site-orientation-8.png)
 
 1. Click **Select Promotions**.
-![home page components](/img/site-orientation-9.png)
+![home page components](../../img/site-orientation-9.png)
 
 1. Check the box next to the promo block you want to add, then click the **select content** button. Use Title and Description at the top of the form to limit your list of promos.
-![home page components](/img/site-orientation-10.png)
+![home page components](../../img/site-orientation-10.png)
 
 1. Our row should now have 4 promo blocks. Click **Remove** next to one of the other promo blocks to get back to 3 for this row.  
 

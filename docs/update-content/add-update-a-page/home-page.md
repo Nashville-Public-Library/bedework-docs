@@ -11,7 +11,7 @@ Click **edit** next to one of the rows to see all of your editing options for th
 - Promos: Edit or remove the promo content already present on the page. Add a new custom block (that’s the inline entity form). Or add an existing custom block already saved in the block library.
 - Catalog Widgets: Swap out catalog widgets by updating the title and the widget ID. No need to delete the component.
 
-![home page components](/img/site-orientation-1.png)
+![home page components](../../img/site-orientation-1.png)
 
 ## Home Promos
 
@@ -39,7 +39,7 @@ Click **edit** next to one of the rows to see all of your editing options for th
 1. Click Edit.
 1. Edit or remove the promo content already present on the page.
 Add a new custom block (that’s the inline entity form). Or add an existing custom block already saved in the block library.  
-![home page components](/img/site-orientation-2.png)
+![home page components](../../img/site-orientation-2.png)
 
 ### Translate Promo to Spanish or Arabic (Coming Soon)
 
@@ -71,7 +71,7 @@ There is one List Widget that takes these 5 individual widgets and makes a tabbe
       1. Find “Drupal Home Page - 5 Format Catalog Widget”
 1. Edit the existing Drupal Home Page - 5 Format Catalog Widget.
 1. Swap out catalog widgets by updating the title and the widget ID.   
-![home page components](/img/site-orientation-3.png)
+![home page components](../../img/site-orientation-3.png)
 1. Save.
 1. Double check the homepage to verify the widget updated correctly.
 
@@ -86,7 +86,7 @@ There is one List Widget that takes these 5 individual widgets and makes a tabbe
 1. Select the row that contains the topical catalog widget.
 1. Click Edit.
 1. Swap out catalog widgets by updating the title and the widget ID.   
-![home page components](/img/site-orientation-3.png)
+![home page components](../../img/site-orientation-3.png)
 1. Save.
 1. Double check the homepage to verify the widget updated correctly.
 
@@ -97,7 +97,7 @@ There is one List Widget that takes these 5 individual widgets and makes a tabbe
 1. Select the row that contains the topical catalog widget.
 1. Click Edit.
 1. Swap out catalog widgets by updating the title and the widget ID.   
-![home page components](/img/site-orientation-3.png)
+![home page components](../../img/site-orientation-3.png)
 1. Save.
 1. Double check the homepage to verify the widget updated correctly.
 

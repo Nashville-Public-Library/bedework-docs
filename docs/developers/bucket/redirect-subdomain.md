@@ -9,7 +9,7 @@
 1. Go to the bottom of the file where the virtual hosts stanzas are.
 
 1. Update the stanza to change the “Redirect Permanent URL” to the correct URL.
-![bucket image 2](/img/bucket-2.jpg)
+![bucket image 2](../../img/bucket-2.jpg)
 
 1. Save.
 
@@ -42,7 +42,7 @@
       1. [https://assets.library.nashville.org/css/aspen-widgets.css](https://assets.library.nashville.org/css/aspen-widgets.css)
 
 1. Update the stanza to add “Redirect permanent / [URL for the redirect to point to.”
-![bucket image 1](/img/bucket-1.jpg)
+![bucket image 1](../../img/bucket-1.jpg)
 
 1. Save
 

@@ -36,9 +36,9 @@ After you've created a new page from a content type (blog post, podcast, etc.), 
 
 1. In the content entry form, fill out any required fields.  
 1. To add additional content, look for a "Component" drop down. Some content entry forms will have two component sections, one for main content and one for a right sidebar.  
-![block image 6](/img/block-image-7.png)  
+![block image 6](../img/block-image-7.png)  
 1. Click the arrow on the side of the button to see the available components.   
-![block image 6](/img/components-image-2.png)  
+![block image 6](../img/components-image-2.png)  
 1. Click on a component to add it to your post.  
 1. After you save your component, they’ll show in a list.  
       1. Use the plus sign to reorder content.  

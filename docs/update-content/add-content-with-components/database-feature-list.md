@@ -6,12 +6,12 @@ sidebar_position: 2
 
 Use the Database Feature List when you want to add a topical list of databases that directly relate to the content of a page.
 
-![block image 1](/img/database-feature-1.png)
+![block image 1](../../img/database-feature-1.png)
 
 ## Add a Database Feature List
 
 1. In the content area, add the Database Feature List to your page.
-![block image 1](/img/database-feature-2.png)
+![block image 1](../../img/database-feature-2.png)
 
 1. Fill out the form.  
 

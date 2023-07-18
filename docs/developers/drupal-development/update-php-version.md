@@ -12,11 +12,11 @@
 
 1. Change the php version in the files, then save.  
     1. Update php in pantheon.yml   
-    ![Local Settings](/img/php-update-1.png)
+    ![Local Settings](../../img/php-update-1.png)
     1. Update php in project-x.yml  
-    ![Local Settings](/img/php-update-2.png)
+    ![Local Settings](../../img/php-update-2.png)
     1. Update php in .circleci/config.yml    
-    ![Local Settings](/img/php-update-3.png)
+    ![Local Settings](../../img/php-update-3.png)
     1. Update php in .ddev/config.yaml  
 
 1. Open the composer.json file. Update php under config>platform. Save.  
