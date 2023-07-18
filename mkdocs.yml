@@ -3,10 +3,6 @@ site_name: NPL Website Guide
 site_url: https://nashville-public-library.github.io/mkdocsuaurus/
 site_description: Content creator and developer documentation for NPL websites.
 
-# Repository
-repo_name: Nashville-Public-Library/mkdocsuaurus
-repo_url: https://github.com/Nashville-Public-Library/mkdocsuaurus
-
 # Configuration
 theme:
   name: material
