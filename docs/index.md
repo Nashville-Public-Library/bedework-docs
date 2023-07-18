@@ -1,16 +1,6 @@
 # NPL Website Guide
 
-## Who is this guide for?
-
-The website guide is for bloggers, marketing staff, and developers.
-
-- Bloggers: NPL blog writers make new blog pages and add content using components.
-- Marketing Editors: MarCom staff make new pages, blog posts, home promos, etc.
-- Developers: Shared Systems staff make new content pages, and build new functionality.
-
-## What does this guide cover?
-
-This guide covers:
+The website guide is for bloggers, marketing staff, and developers. This guide covers:
 
 - Content Updates: Adding and updating content on any of the above platforms.
 - Writing for the Web: Learning to use headings, writing for skim-ability, etc.
@@ -19,3 +9,9 @@ This guide covers:
 - Podcast Orientation: Introduction and and orientation for new podcasters, as well as procedures for starting a new podcast series.
 - Redirects and Aliases: When to use a redirect, bit.ly link, or buy a domain name.
 - Developer Documentation: Overview of developer workflow and step-by-step instructions.
+
+## Other Guides / Documentation
+
+[Bedework Guide](https://nashville-public-library.github.io/bedework-guide/){ .md-button .md-button--primary }
+
+[GitHub Documentation Repo](https://github.com/Nashville-Public-Library/documentation){ .md-button .md-button--primary }
