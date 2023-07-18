@@ -42,7 +42,6 @@ docs_dir:
 # Plugins
 plugins:
   - search
-    separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
 
 # Extensions
 markdown_extensions:
