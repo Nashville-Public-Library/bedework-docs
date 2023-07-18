@@ -49,130 +49,130 @@ markdown_extensions:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
-# nav:
-#   - Overview: index.md
-#   - Update Content:
-#     - update-content/index.md
-#     - Add Content to a Page (Drupal):
-#       - update-content/add-content-with-components/index.md
-#       - update-content/add-content-with-components/block.md
-#       - update-content/add-content-with-components/blog-swim.md
-#       - update-content/add-content-with-components/calendar-widget.md
-#       - update-content/add-content-with-components/call-to-action.md
-#       - update-content/add-content-with-components/card-grid.md
-#       - update-content/add-content-with-components/catalog-promo.md
-#       - update-content/add-content-with-components/catalog-widget.md
-#       - update-content/add-content-with-components/catalog-widget-grid.md
-#       - update-content/add-content-with-components/contact-info.md
-#       - update-content/add-content-with-components/database-feature-list.md
-#       - update-content/add-content-with-components/hero.md
-#       - update-content/add-content-with-components/iFrame.md
-#       - update-content/add-content-with-components/jump-menu-grid.md
-#       - update-content/add-content-with-components/media-photos-video-audio.md
-#       - update-content/add-content-with-components/media-editing-images.md
-#       - update-content/add-content-with-components/poll.md
-#       - update-content/add-content-with-components/sponsors.md
-#       - update-content/add-content-with-components/table.md
-#       - update-content/add-content-with-components/text.md
-#       - update-content/add-content-with-components/text-image.md
-#       - update-content/add-content-with-components/promotion.md
-#       - update-content/add-content-with-components/one-column.md
-#       - update-content/add-content-with-components/two-column.md
-#     - Special Content (Drupal, Bucket, etc.):
-#       - update-content/special-content-updates/index.md
-#       - update-content/add-update-a-page/notifications.md
-#       - update-content/special-content-updates/library-board-agenda.md
-#       - update-content/special-content-updates/talking-library-schedule.md
-#       - update-content/special-content-updates/read-to-rise-site.md
-#       - update-content/special-content-updates/seed-exchange-google.md
-#       - update-content/special-content-updates/summer-challenge.md
-#       - update-content/special-content-updates/taxonomy-term-addition.md
-#       - update-content/special-content-updates/bucket-sites.md
-#     - Closing a Branch:
-#       - update-content/closing-a-branch/index.md
-#       - update-content/closing-a-branch/holidays.md
-#       - update-content/closing-a-branch/closing-a-branch-spontaneous.md
-#       - update-content/closing-a-branch/closing-a-branch-long-closure.md
-#       - update-content/closing-a-branch/reopen-a-branch.md
-#     - Page Details (Drupal):
-#       - update-content/add-update-a-page/index.md
-#       - update-content/add-update-a-page/home-page.md
-#       - update-content/add-update-a-page/menu-links-promos.md
-#       - update-content/add-update-a-page/basic-page.md
-#       - update-content/add-update-a-page/blog-post.md
-#       - update-content/add-update-a-page/books-movies-music-pages.md
-#       - update-content/add-update-a-page/collection-page.md
-#       - update-content/add-update-a-page/collection-topic-page.md
-#       - update-content/add-update-a-page/database-a-z-page.md
-#       - update-content/add-update-a-page/database-page.md
-#       - update-content/add-update-a-page/edu-res-landing-page.md
-#       - update-content/add-update-a-page/events-landing-page.md
-#       - update-content/add-update-a-page/event-page.md
-#       - update-content/add-update-a-page/internship-page.md
-#       - update-content/add-update-a-page/locations-landing-page.md
-#       - update-content/add-update-a-page/location-pages.md
-#       - update-content/add-update-a-page/news-landing-page.md
-#       - update-content/add-update-a-page/news-item.md
-#       - update-content/add-update-a-page/person.md
-#       - update-content/add-update-a-page/podcast-episode.md
-#       - update-content/add-update-a-page/service-page.md
-#       - update-content/add-update-a-page/sponsors.md
-#   - Writing for the Web:
-#     - writing-for-the-web/writing-for-web.md
-#   - Blog Orientation:
-#     - blog-orientation/overview.md
-#     - blog-orientation/blog-entry-form.md
-#     - blog-orientation/images.md
-#     - blog-orientation/what-to-write.md
-#     - blog-orientation/plan-your-post.md
-#     - blog-orientation/example-book-list.md
-#     - blog-orientation/example-book-review.md
-#   - Podcast Orientation:
-#     - podcast-orientation/overview.md
-#     - podcast-orientation/add-epsisode-to-website.md
-#     - podcast-orientation/start-new-podcast-series.md
-#     - podcast-orientation/publish-rss.md
-#   - Statistics:
-#     - web-statistics/blog-statistics.md
-#     - web-statistics/podcast-statistics.md
-#     - web-statistics/campaign-tagging.md
-#   - Redirects and Aliases:
-#     - domains-and-redirects/when-to-use.md
-#     - domains-and-redirects/url-aliases.md
-#     - domains-and-redirects/url-redirects.md
-#     - domains-and-redirects/move-a-domain.md
-#     - domains-and-redirects/domain-redirects.md
-#   - Developers:
-#     - developers/index.md
-#     - Drupal Development:
-#       - developers/drupal-development/technical-overview.md
-#       - developers/drupal-development/set-up-npld8-staff-machine-mac.md
-#       - developers/drupal-development/set-up-npld8-staff-machine-pc.md
-#       - developers/drupal-development/onboarding-developers.md
-#       - developers/drupal-development/start-stop-local.md
-#       - developers/drupal-development/refresh-database.md
-#       - developers/drupal-development/working-on-ticket.md
-#       - developers/drupal-development/code-review-github.md
-#       - developers/drupal-development/deploy-code-production.md
-#       - developers/drupal-development/update-drupal-core.md
-#       - developers/drupal-development/update-modules.md
-#       - developers/drupal-development/update-php-version.md
-#       - developers/drupal-development/work-on-css-gulp.md
-#       - developers/drupal-development/troubleshooting.md
-#       - developers/drupal-development/set-up-new-drupal-project.md
-#       - developers/drupal-development/user-roles.md
-#     - Site Building Notes (Drupal):
-#       - developers/site-building-notes/news-landing-page.md
-#       - developers/site-building-notes/podcast-pages-and-feeds.md
-#     - Wordpress:
-#       - developers/wordpress/redirect-wordpress-site.md
-#     - Bucket (Assets):
-#       - developers/bucket/overview.md
-#       - developers/bucket/technical-overview.md
-#       - developers/bucket/add-update-content.md
-#       - developers/bucket/add-new-website.md
-#       - developers/bucket/remove-website.md
-#       - developers/bucket/redirect-subdomain.md
-#     - Domain Names and DNS:
-#       - developers/domain-name-dns/redirect-domain.md
-#       - developers/domain-name-dns/move-domain-its.md
+nav:
+  - Overview: index.md
+  - Update Content:
+    - update-content/index.md
+    - Add Content to a Page (Drupal):
+      - update-content/add-content-with-components/index.md
+      - update-content/add-content-with-components/block.md
+      - update-content/add-content-with-components/blog-swim.md
+      - update-content/add-content-with-components/calendar-widget.md
+      - update-content/add-content-with-components/call-to-action.md
+      - update-content/add-content-with-components/card-grid.md
+      - update-content/add-content-with-components/catalog-promo.md
+      - update-content/add-content-with-components/catalog-widget.md
+      - update-content/add-content-with-components/catalog-widget-grid.md
+      - update-content/add-content-with-components/contact-info.md
+      - update-content/add-content-with-components/database-feature-list.md
+      - update-content/add-content-with-components/hero.md
+      - update-content/add-content-with-components/iFrame.md
+      - update-content/add-content-with-components/jump-menu-grid.md
+      - update-content/add-content-with-components/media-photos-video-audio.md
+      - update-content/add-content-with-components/media-editing-images.md
+      - update-content/add-content-with-components/poll.md
+      - update-content/add-content-with-components/sponsors.md
+      - update-content/add-content-with-components/table.md
+      - update-content/add-content-with-components/text.md
+      - update-content/add-content-with-components/text-image.md
+      - update-content/add-content-with-components/promotion.md
+      - update-content/add-content-with-components/one-column.md
+      - update-content/add-content-with-components/two-column.md
+    - Special Content (Drupal, Bucket, etc.):
+      - update-content/special-content-updates/index.md
+      - update-content/add-update-a-page/notifications.md
+      - update-content/special-content-updates/library-board-agenda.md
+      - update-content/special-content-updates/talking-library-schedule.md
+      - update-content/special-content-updates/read-to-rise-site.md
+      - update-content/special-content-updates/seed-exchange-google.md
+      - update-content/special-content-updates/summer-challenge.md
+      - update-content/special-content-updates/taxonomy-term-addition.md
+      - update-content/special-content-updates/bucket-sites.md
+    - Closing a Branch:
+      - update-content/closing-a-branch/index.md
+      - update-content/closing-a-branch/holidays.md
+      - update-content/closing-a-branch/closing-a-branch-spontaneous.md
+      - update-content/closing-a-branch/closing-a-branch-long-closure.md
+      - update-content/closing-a-branch/reopen-a-branch.md
+    - Page Details (Drupal):
+      - update-content/add-update-a-page/index.md
+      - update-content/add-update-a-page/home-page.md
+      - update-content/add-update-a-page/menu-links-promos.md
+      - update-content/add-update-a-page/basic-page.md
+      - update-content/add-update-a-page/blog-post.md
+      - update-content/add-update-a-page/books-movies-music-pages.md
+      - update-content/add-update-a-page/collection-page.md
+      - update-content/add-update-a-page/collection-topic-page.md
+      - update-content/add-update-a-page/database-a-z-page.md
+      - update-content/add-update-a-page/database-page.md
+      - update-content/add-update-a-page/edu-res-landing-page.md
+      - update-content/add-update-a-page/events-landing-page.md
+      - update-content/add-update-a-page/event-page.md
+      - update-content/add-update-a-page/internship-page.md
+      - update-content/add-update-a-page/locations-landing-page.md
+      - update-content/add-update-a-page/location-pages.md
+      - update-content/add-update-a-page/news-landing-page.md
+      - update-content/add-update-a-page/news-item.md
+      - update-content/add-update-a-page/person.md
+      - update-content/add-update-a-page/podcast-episode.md
+      - update-content/add-update-a-page/service-page.md
+      - update-content/add-update-a-page/sponsors.md
+  - Writing for the Web:
+    - writing-for-the-web/writing-for-web.md
+  - Blog Orientation:
+    - blog-orientation/overview.md
+    - blog-orientation/blog-entry-form.md
+    - blog-orientation/images.md
+    - blog-orientation/what-to-write.md
+    - blog-orientation/plan-your-post.md
+    - blog-orientation/example-book-list.md
+    - blog-orientation/example-book-review.md
+  - Podcast Orientation:
+    - podcast-orientation/overview.md
+    - podcast-orientation/add-epsisode-to-website.md
+    - podcast-orientation/start-new-podcast-series.md
+    - podcast-orientation/publish-rss.md
+  - Statistics:
+    - web-statistics/blog-statistics.md
+    - web-statistics/podcast-statistics.md
+    - web-statistics/campaign-tagging.md
+  - Redirects and Aliases:
+    - domains-and-redirects/when-to-use.md
+    - domains-and-redirects/url-aliases.md
+    - domains-and-redirects/url-redirects.md
+    - domains-and-redirects/move-a-domain.md
+    - domains-and-redirects/domain-redirects.md
+  - Developers:
+    - developers/index.md
+    - Drupal Development:
+      - developers/drupal-development/technical-overview.md
+      - developers/drupal-development/set-up-npld8-staff-machine-mac.md
+      - developers/drupal-development/set-up-npld8-staff-machine-pc.md
+      - developers/drupal-development/onboarding-developers.md
+      - developers/drupal-development/start-stop-local.md
+      - developers/drupal-development/refresh-database.md
+      - developers/drupal-development/working-on-ticket.md
+      - developers/drupal-development/code-review-github.md
+      - developers/drupal-development/deploy-code-production.md
+      - developers/drupal-development/update-drupal-core.md
+      - developers/drupal-development/update-modules.md
+      - developers/drupal-development/update-php-version.md
+      - developers/drupal-development/work-on-css-gulp.md
+      - developers/drupal-development/troubleshooting.md
+      - developers/drupal-development/set-up-new-drupal-project.md
+      - developers/drupal-development/user-roles.md
+    - Site Building Notes (Drupal):
+      - developers/site-building-notes/news-landing-page.md
+      - developers/site-building-notes/podcast-pages-and-feeds.md
+    - Wordpress:
+      - developers/wordpress/redirect-wordpress-site.md
+    - Bucket (Assets):
+      - developers/bucket/overview.md
+      - developers/bucket/technical-overview.md
+      - developers/bucket/add-update-content.md
+      - developers/bucket/add-new-website.md
+      - developers/bucket/remove-website.md
+      - developers/bucket/redirect-subdomain.md
+    - Domain Names and DNS:
+      - developers/domain-name-dns/redirect-domain.md
+      - developers/domain-name-dns/move-domain-its.md
