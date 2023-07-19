@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+title: Preview Catalog Widget Grid
 ---
 
 # Collection Spotlight Grid

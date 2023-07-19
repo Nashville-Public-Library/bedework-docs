@@ -1,7 +1,7 @@
 # Project information
-site_name: NPL Website Guide
-site_url: https://nashville-public-library.github.io/mkdocsuaurus/
-site_description: Content creator and developer documentation for NPL websites.
+site_name: Bedework Guide
+site_url: https://nashville-public-library.github.io/bedework-docs/
+site_description: Content creator and developer documentation for NPL Bedework Enterprise Calendar.
 
 # Configuration
 theme:

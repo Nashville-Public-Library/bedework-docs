@@ -1,6 +1,6 @@
 # Website Guide made with MkDocs and Material for MkDocs
 
-The website guide is made with MkDocs and Material for MkDocs. Documentation is written in markdown. All markdown files are saved in the /docs directory. Images are saved in the /img folder inside /docs.  
+The website guide is made with MkDocs and Material for MkDocs. Documentation is written in markdown. All markdown files are saved in the /docs directory. Images are saved in the /img folder inside /docs. [See Material for MkDocs](https://squidfunk.github.io/mkdocs-material) 
 
 There's an excellent overview video on installing and setting up MkDocs and Material for MkDocs, in general, on YouTube: [How To Create STUNNING Code Documentation With MkDocs Material Theme](https://www.youtube.com/watch?v=Q-YA_dA8C20).  
 
