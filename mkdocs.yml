@@ -56,33 +56,9 @@ markdown_extensions:
 # Page tree
 nav:
   - Introduction: index.md
-  - Update Content:
-    - update-content/index.md
   - Add Events:
-      - update-content/add-content-with-components/index.md
-      - update-content/add-content-with-components/block.md
-      - update-content/add-content-with-components/blog-swim.md
-      - update-content/add-content-with-components/calendar-widget.md
-      - update-content/add-content-with-components/call-to-action.md
-      - update-content/add-content-with-components/card-grid.md
-      - update-content/add-content-with-components/catalog-promo.md
-      - update-content/add-content-with-components/catalog-widget.md
-      - update-content/add-content-with-components/catalog-widget-grid.md
-      - update-content/add-content-with-components/contact-info.md
-      - update-content/add-content-with-components/database-feature-list.md
-      - update-content/add-content-with-components/hero.md
-      - update-content/add-content-with-components/iFrame.md
-      - update-content/add-content-with-components/jump-menu-grid.md
-      - update-content/add-content-with-components/media-photos-video-audio.md
-      - update-content/add-content-with-components/media-editing-images.md
-      - update-content/add-content-with-components/poll.md
-      - update-content/add-content-with-components/sponsors.md
-      - update-content/add-content-with-components/table.md
-      - update-content/add-content-with-components/text.md
-      - update-content/add-content-with-components/text-image.md
-      - update-content/add-content-with-components/promotion.md
-      - update-content/add-content-with-components/one-column.md
-      - update-content/add-content-with-components/two-column.md
+      - add-events/title.md
+      - add-events/date-time.md
   - Using Images:
       - update-content/special-content-updates/index.md
       - update-content/add-update-a-page/notifications.md
