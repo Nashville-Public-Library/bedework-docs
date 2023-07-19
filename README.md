@@ -1,8 +1,10 @@
-# Website Guide made with MkDocs and Material for MkDocs
+# Bedework Guide made with MkDocs and Material for MkDocs
 
-The website guide is made with MkDocs and Material for MkDocs. Documentation is written in markdown. All markdown files are saved in the /docs directory. Images are saved in the /img folder inside /docs. [See Material for MkDocs](https://squidfunk.github.io/mkdocs-material) 
+The Bedework guide is made with MkDocs and Material for MkDocs. Documentation is written in markdown. All markdown files are saved in the /docs directory. Images are saved in the /img folder inside /docs. [See Material for MkDocs](https://squidfunk.github.io/mkdocs-material) 
 
 There's an excellent overview video on installing and setting up MkDocs and Material for MkDocs, in general, on YouTube: [How To Create STUNNING Code Documentation With MkDocs Material Theme](https://www.youtube.com/watch?v=Q-YA_dA8C20).  
+
+View the current Bedework Guide on Github.io [Bedework Guide](https://nashville-public-library.github.io/bedework-docs/)
 
 ## MkDocks Set Up (Edit Existing Project)
 
@@ -31,7 +33,7 @@ There's an excellent overview video on installing and setting up MkDocs and Mate
 
 1. Install / upgrade Python.  
 1. Set the alias for python3.  
-1. Open terminal with the Homebrew profile: Shell > New Window > Homebrew  
+1. Open Cmd Line.
 1. Install pip.  
 1. Install MkDocs.   
 1. Install Material for MkDocs.  
