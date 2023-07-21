@@ -59,6 +59,9 @@ nav:
   - Add Events:
       - add-events/title.md
       - add-events/date-time.md
+      - add-events/recurrence-pattern.md
+      - add-events/recurrence.md
+      - add-events/description.md
   - Using Images:
       - update-content/special-content-updates/index.md
       - update-content/add-update-a-page/notifications.md
