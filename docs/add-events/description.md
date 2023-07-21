@@ -15,25 +15,32 @@ Entries that do not meet these criteria will be rewritten. Whenever possible, us
 Describe what to expect at program – set user expectations about the event. Begin descriptions with what the guest will do and/or discuss. Avoid long passages of names or credentials—a single sentence is sufficient. Use short sentences that convey one idea apiece.
 
 Focus on a call to action/invitation.
+
     - YES: Come make a pine cone birdhouse with us, then take it home with you.
     - NO: Participants will learn to make a birdhouse out of pinecones. Participants will take their birdhouses home with them.
 
 Use appropriate calls to action (CTAs), and vary them appropriately.  Don’t use “Join us...” for everything.
+
     - Visit, Don’t miss, Drop by, Come see, Learn, Make
 
 Use present tense in descriptions, not future tense. Present tense is appropriate in the online events calendar contexts.  
+
     - YES: We dance, play, and sing.
     - NO: We will dance, play and sing.
+
     - YES: Jane Doe presents
     - NO: Jane Doe will present
 
 Use active voice; avoid passive voice whenever possible.
+
     - YES: Tori demonstrates how to make a kite.
     - NO: Kite making is explained by Tori.
+
     - YES: Our guest speaker discusses the history of music in Nashville.
     - NO: The history of music in Nashville is discussed by our guest.
 
 Use good keywords. Name items to be discussed. All book sales should have the words "book sale" in the description.
+
     - eBooks
     - Microsoft Word
     - Gardening
@@ -57,7 +64,7 @@ Put this language at the end of the event description
 ### Seed Exchange
 Append this Seed Exchange pitch to all gardening events.
 
-    This program is brought to you by Nashville Public Library Seed Exchange. Borrow seeds, grow plants, return seeds. Seeds are available for check out at select branches. For more information, see facebook.com/NashvillePublicLibrarySeedExchange or library.nashville.org/event/seed-exchange.
+    This program is brought to you by Nashville Public Library Seed Exchange. Borrow seeds, grow plants, return seeds. Seeds are available for check out at select branches. For more information, see https://library.nashville.org/event/seed-exchange.
 
 ## Common Errors
 - Don't include a recurrence pattern (e.g., “Every Tuesday”) in your event descriptions.
