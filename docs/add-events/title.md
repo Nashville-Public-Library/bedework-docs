@@ -10,36 +10,42 @@ title: Title
 Make your titles clear. Make it obvious what will happen at the event.
 
 **Add Context**
-- :white_check_mark: Art Group
-- :x: Art Group: Watercolor Painting
+
+  - :white_check_mark: Art Group: Watercolor Painting
+  - :x: Art Group
 
 **Convey What Happens**
-- :white_check_mark: Make a Turkey Noisemaker
-- :x: Turkey Noisemakers
+
+ - :white_check_mark: Make a Turkey Noisemaker
+ - :x: Turkey Noisemakers
 
 **Book Sale Denotes Location**
-- :white_check_mark: Hadley Park Book Sale
-- :x: Fall Book Sale
+
+ - :white_check_mark: Hadley Park Book Sale
+ - :x: Fall Book Sale
 
 **Loosely-defined Activities**
-- :white_check_mark: Teen Time
-- :x: Teen Hangout
-- :x: Teen Mess Around
+
+ - :white_check_mark: Teen Time
+ - :x: Teen Hangout
+ - :x: Teen Mess Around
 
 **Avoid Acronyms**
-- :white_check_mark: GED for English Language
-- :white_check_mark: English Conversation Club
+
+ - :white_check_mark: GED for English Language
+ - :white_check_mark: English Conversation Club
 - :x: GED for EL by TCAT
 
 **Cutesy misspellings**
+
 - :x: Kraft Korner
 - :x: Krayon Kids
 - :x: Game Daze
 
 **Capital Letters**
+
 - :white_check_mark: Mindfulness Meditation  
 - :x:Come for FREE meditation sessions!
-
 ## Children
 Use these standard titles for all children's series. Any other special programs that are not in the age ranges below keep the original names.
 
@@ -68,12 +74,14 @@ Add "(Online)" to the end of your title.
 
 ## Off-Site Events
 If an event is held off-site, denote it in the title. If you need to shorten an event title to add a location, then do so.
+
 - :white_check_mark: Crayon Kids at Bellevue Community Center
 - :white_check_mark: Books and Brews at Black Abbey Brewing Company
 - :white_check_mark: String City at Country Music Hall of Fame and Museum
 
 ## Titles for Theme Events
 If a story time (or other regularly recurring event) will have an “in-house” special theme (i.e., not an outside special guest or performer), e.g., for Artober or Father’s Day, always include the regular recurring event name. Append special theme name to regular event name, following a colon.
+
 - :white_check_mark: Preschool Story Time: Father’s Day
 - :white_check_mark: Family Story Time: Spooky Tales
 - :white_check_mark: Family Story Time: Springtime
@@ -83,6 +91,7 @@ If a story time (or other regularly recurring event) will have an “in-house”
 
 ## Story Times with Special Performers
 Story times with special performers do NOT include the story time title, to ensure consistency across locations for searching and scanning, and so that we don’t bury the lead.
+
 - :white_check_mark: The Hermitage presents I Spy the Past
 - :x: Adventure Club: The Hermitage presents I Spy the Past
 - :white_check_mark: Nashville Ballet presents Ferdinand the Bull
@@ -93,6 +102,7 @@ Use this capital spelling and title for all READing Paws programs.
 
 ## By Appointment Only
 Events should suggest that they are such in their titles.
+
 - :white_check_mark: One-on-One Job Help
 - :white_check_mark: One-on-One Tech Help
 - :white_check_mark: Tech Help (By Appointment Only)
