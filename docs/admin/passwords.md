@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+title: Users and Passwords
 ---
 
 # Users and Passwords

@@ -1,8 +1,8 @@
 ---
-sidebar_position: 3
+title: Wishing Chair Productions Image Library
 ---
 
-# Wishing Chair Productions Images
+# Wishing Chair Productions Image Library
 ### Puppet Truck
 - For Image URL, use the use the Puppet Truck image.
 - For Thumbnail URL, use the Puppet Truck thumb image.

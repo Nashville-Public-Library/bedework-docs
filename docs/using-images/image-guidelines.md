@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+title: Image Guidelines
 ---
 # Image Guidelines
 If there is an existing graphic / logo (story time, studio, etc.), use the established image as the thumbnail image in Bedework. Please don’t create a new image.
