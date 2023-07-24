@@ -11,4 +11,4 @@ sidebar_position: 3
     1.	Click the title of your event.
     1.	If you are editing / deleting an instance, go ahead. If you need to edit / delete a recurring event, be sure to select “edit or publish master event”.
 1.	If your event is not in the Approval Queue:
-    1.	Contact Jenny Ellis or Kyle Cook for help.
+    1.	Contact Shared Systems for help.

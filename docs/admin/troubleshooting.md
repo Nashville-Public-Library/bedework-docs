@@ -80,6 +80,7 @@ Info: Bedework Vendor had a backup file saved somewhere and Bedework was trying 
 ## Event Stuck in Approval Queue
 
 Events stuck in approval queue that don’t really exist.
+
 1.	Reindex Bedework.
 1.	Test.
 1.	If event is still in the database, and it is a master event, open the master event, then clear the recurrence pattern and reset it. Save the master event. Find the event in Bedework admin console and try to delete an instance again.

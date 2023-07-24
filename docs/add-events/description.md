@@ -64,11 +64,13 @@ Put this language at the end of the event description
 ### Seed Exchange
 Append this Seed Exchange pitch to all gardening events.
 
-    This program is brought to you by Nashville Public Library Seed Exchange. Borrow seeds, grow plants, return seeds. Seeds are available for check out at select branches. For more information, see https://library.nashville.org/event/seed-exchange.
+    This program is brought to you by Nashville Public Library Seed Exchange. Borrow seeds, grow plants, return seeds. Seeds are available for check out at select branches. For more information, go to Seed Exchange website. 
+    
+Add to _Event URL_: https://library.nashville.org/event/seed-exchange
 
 ## Common Errors
 - Don't include a recurrence pattern (e.g., “Every Tuesday”) in your event descriptions.
 - Don't include event times in the description field.  
-- Don't include the branch name in the description field, e.g. “please call the Boisterous Branch to register” or “Come to the Boisterous Branch…”. This is redundant information in web events calendar context.
+- Don't include the branch name or phone number in the description field, e.g. “please call the Boisterous Branch to register” or “Come to the Boisterous Branch…”. This is redundant information in web events calendar context. The phone number is listed on every event from the Contact field.
 - Don't use "Call for more information." If there is any more information about the event, include it.
 -	Don’t use special characters in titles. ``(& ` ~ @)``

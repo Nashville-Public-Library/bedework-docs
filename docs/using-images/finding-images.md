@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ## Images Owned / Purchased by NPL
 
--	[Image Library](/docs/image-library/series-logos.md)
+-	Image Library
     - Add with URL.
     - Logo images
     - Grab the URL from the spreadsheet to use the image in a calendar listing.

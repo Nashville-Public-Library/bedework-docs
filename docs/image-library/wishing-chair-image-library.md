@@ -4,13 +4,16 @@ title: Wishing Chair Productions Image Library
 
 # Wishing Chair Productions Image Library
 ### Puppet Truck
+
 - For Image URL, use the use the Puppet Truck image.
 - For Thumbnail URL, use the Puppet Truck thumb image.
 - Pictures must match for events to display  correctly on the Wishing Chair home page.
 ### Main Library Children's Theatre
+
 - For Image URL, use show-specific image.
 - For Thumbnail, use show-specific thumbnail image.
 ### Wishing Chair Productions Story Time
+
 - Use Story Time image and thumb from [series logos](../docs/image-library/series-logos-code-block.md) list. Pictures must match for events to display correctly on Wishing Chair Productions home page.
 ## Aesop's Fables
 ```
@@ -127,17 +130,17 @@ illustration of library pete with a guitar
 ```
 ## Little Rabbit Who Wanted Red Wings
 ```
- /public/images/wishingchair_rabbitRedWings-201605030614.jpg 
- ```
- ```
- /public/images/wishingchair_rabbitRedWings-201605030614-thumb.png
- ```
- ``` 
- illustration of a rabbit with red wings
- ```
- ## Lorraine 
- ```
- /public/images/lorraine-book-cover-450-201906261204.jpg
+/public/images/wishingchair_rabbitRedWings-201605030614.jpg 
+```
+```
+/public/images/wishingchair_rabbitRedWings-201605030614-thumb.png
+```
+``` 
+illustration of a rabbit with red wings
+```
+## Lorraine 
+```
+/public/images/lorraine-book-cover-450-201906261204.jpg
 ```
 ```
 /public/images/lorraine-book-cover-450-201906261204-thumb.png                      
@@ -152,13 +155,6 @@ Lorraine book cover
 ```
 /public/images/manymoonsbookcover-202109290304-thumb.png    
 ```
-## Midsummer Night's Dream     
-```
-/public/images/momotarocolor small-201801240155.jpg                
- ```
- ```
- /public/images/momotarocolor small-201801240155-thumb.png 
-``` 
 ## Momatoro 
 ```
 /public/images/momotarocolor small-201801240155.jpg                
@@ -210,15 +206,15 @@ puss in boots
 ```
 /public/images/skybear.small-202003090956.jpg
 ```
- ```
- /public/images/skybear.small-202003090956-thumb.png         
- ```
- ## Stonecutter
- ```
- /public/images/Puppet-Truck_Stonecutter-201610270946.jpg
- ```
- ```
- /public/images/Puppet-Truck_Stonecutter-201610270946-thumb.png
+```
+/public/images/skybear.small-202003090956-thumb.png         
+```
+## Stonecutter
+```
+/public/images/Puppet-Truck_Stonecutter-201610270946.jpg
+```
+```
+/public/images/Puppet-Truck_Stonecutter-201610270946-thumb.png
 ```
 ```
 illustration of a man in red clothes and hat  

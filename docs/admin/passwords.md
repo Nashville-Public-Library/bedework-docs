@@ -15,6 +15,7 @@ Use this checklist when adding/editing/removing users from the JMX Console, Even
 https://docs.google.com/spreadsheets/d/15lZvfREpHoSwTy_n7Ix8KBJccKTY_E5mvqFNXrpHHSQ/edit?usp=sharing
 ## JMX Console Functions
 ### Access jmx-console:
+
 1.	The jmx console is now located at: https://events.library.nashville.org/hawtio/login
 1.	Log in with:
 1.	Click on `JMX` on LHS
@@ -22,11 +23,14 @@ https://docs.google.com/spreadsheets/d/15lZvfREpHoSwTy_n7Ix8KBJccKTY_E5mvqFNXrpH
 1.  Choose `config`
 1.	Click `Operations` from the tabs
 ### Check if user exists in db
+
 1. To list a user, click on `displayUser`. Type in account name in Account box. Click `Execute`
 ### Reset Password
+
 1.	Click `setUserPassword` and fill out the field.
 1.	Click `Invoke`.
 ### New User
+
 1.	Click `addUser` and fill out 5 fields:
     1. Account (username)
     1. First Name
@@ -34,16 +38,20 @@ https://docs.google.com/spreadsheets/d/15lZvfREpHoSwTy_n7Ix8KBJccKTY_E5mvqFNXrpH
     1. Email 1
     1. Password
 ## CalAdmin User Functions
+
 1.	Go to https://events.library.nashville.org/caladmin
 1.	Select correct calSuite.
 ### Grant User Permissions
+
 Now that user is added, you have to give user permissions:
+
 1.	Go to `Users` tab.
 1.	Click `Manage Admin Groups`.
 1.	Click setting to `show members` at the top.
 1.	Select `membership` next to the correct group.
 1.	In `add member` box, you can add users and groups. Make sure box is selected for “user” > type username > and click Add.
 ### Designate Users as Approvers
+
 1.	Go to Users tab.
 1.	Click Manage Admin Roles.
 1.	Click “edit” next to anyone we want to make an approver.

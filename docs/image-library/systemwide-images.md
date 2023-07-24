@@ -3,13 +3,6 @@ sidebar_position: 2
 ---
 
 # System-wide Programs
-## African American History Month                    
-```
-/public/images/AAHM_Web resized-202101260458.jpg
-```
-```
-/public/images/AAHM_Web resized-202101260458-thumb.png
-```
 ## Animal Tales            
 ```
 /public/images/animal-tales-logo-202105260617.png
@@ -25,10 +18,10 @@ sidebar_position: 2
 /public/images/resized_chamber-of-serpents-logo-final-202003240433-thumb.png
 ```
 ## Animal Tales - fantastic creatures
- ```
- /public/images/resized_Fantastic-Creatures-Logo-Final-1-202003240452.jpg
- ```        
- ```
+```
+/public/images/resized_Fantastic-Creatures-Logo-Final-1-202003240452.jpg
+```        
+```
 /public/images/resized_Fantastic-Creatures-Logo-Final-1-202003240452-thumb.png
 ```
 ## Artober                 
@@ -52,20 +45,6 @@ sidebar_position: 2
 ```
 /public/images/Beizar outside-202104080410-thumb.png
 ```
-## Belle Meade Plantation  
-```
-/public/images/bellemeadeplantation-201912190516.jpg
-```  
-```
-/public/images/bellemeadeplantation-201912190516-thumb.png
-```
-## Beizar Aradini          
-```
-/public/images/BeizarAradini_resized-202102230356.jpg
-```
-```
-/public/images/BeizarAradini_resized-202102230356-thumb.png
-```                           
 ## Ben Satterlee           
 ```
 /public/images/bensatterlee1_resized-201912190541.jpg
@@ -93,13 +72,6 @@ sidebar_position: 2
 ```         
 ```
 /public/images/Country_Music_Hall_of_Fame_logo_resized-201912200315-thumb.png
-```
-## Community of Many Faces
-```
-/public/images/CoManyFaces_Graphic(Black)_less-detail_bedework-202104080402.png
-```
-```
-/public/images/CoManyFaces_Graphic(Black)_less-detail_bedework-202104080402-thumb.png
 ```
 ## DBO Gallery             
 ```
@@ -133,7 +105,8 @@ sidebar_position: 2
 ```
 /public/images/resized_farmerjason2-202003240721.jpg
 ```  
-```/public/images/resized_farmerjason2-202003240721-thumb.png
+```
+/public/images/resized_farmerjason2-202003240721-thumb.png
 ```
 ## Freedom Songs           
 ```
@@ -372,7 +345,7 @@ sidebar_position: 2
 ```     
 ```   
 /public/images/lee_con_klem-mari promo picture_bedework2-202009150648-thumb.png
- ```
+```
 ## Nashville Reads Dreamers logo variant            
 ```
 /public/images/NashvilleReads2020Dreamers_variant-202102230256.jpg

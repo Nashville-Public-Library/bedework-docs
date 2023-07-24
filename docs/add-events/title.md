@@ -101,10 +101,5 @@ Story times with special performers do NOT include the story time title, to ensu
 Use this capital spelling and title for all READing Paws programs.
 
 ## By Appointment Only
-Events should suggest that they are such in their titles.
 
-- :white_check_mark: One-on-One Job Help
-- :white_check_mark: One-on-One Tech Help
-- :white_check_mark: Tech Help (By Appointment Only)
-- :white_check_mark: Tech Help (Appointment Required)
-- :x: Tech Help
+We’ve consolidated the listing for the One-on-One Tech Help events with all branches. There is one link to sign up for appointments there. We do not add these as individual events to the calendar. 

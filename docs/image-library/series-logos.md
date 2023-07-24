@@ -291,6 +291,13 @@ title: Series Logos
 ```
 /public/images/bedework-vote-large-201609291049.png
 ```
+## Your Mind Matters
+```
+/public/images/ymm_logo-clr-202307241240.jpg
+```
+```
+/public/images/ymm_logo-clr-202307241240-thumb.png
+```
 ## Zumba
 ```
 /public/images/zumba-201806140255-thumb.png

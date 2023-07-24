@@ -9,6 +9,7 @@ title: Theme
 To change wording / labels / longer text, go to: `.../wwwDocRoot/3.10/calrsrc.MainCampus/default/strings.xsl`
 
 Examples of what the strings file solves:
+
 -	Find the correct place to change the text for “today” and “upcoming” (or “reset date” and “grid view”)
 -	Find the correct place to change the text ONGOING to EXHIBITS
 
@@ -19,6 +20,7 @@ Share and Download icons for each event live in three places (I think, based on 
 -	eventListRange.xsl
 
 ## Change the Featured Images
+
 1.	Open Cyberduck
 1.	Double click on Bedework.
 1.	If an “unknown host key” or “unknown fingerprint” message appears, click Allow.

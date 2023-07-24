@@ -9,6 +9,7 @@ To build a link, you'll need to place the block number right after `bwNav`
 In the array, this is how it is written: First the bwNav block number, then a dash, then the alias OR view OR block name
 
 Here are your alias / view / block name examples:
+
 - 0 Age
     - Children - `useragrpcalsuiteMainCampusChildrens`
     - Teens - `useragrpcalsuiteMainCampusTeens`
@@ -44,6 +45,7 @@ The variable part is after `publicaliasesLocations`
 ## Browse by Topic
 
 The variable part is after `publicaliasesBrowseByTopic`
+
 - Arts and Crafts: https://events.library.nashville.org/cal/main/setSelectionList.do?b=de&listMode=true&setappvar=bwFilters(||bwNav2-publicaliasesBrowseByTopicArtsandCrafts|)&setappvar=bwQuery()
 - Music: https://events.library.nashville.org/cal/main/setSelectionList.do?b=de&listMode=true&setappvar=bwFilters(||bwNav2-publicaliasesBrowseByTopicMusic|)&setappvar=bwQuery()
 - Computers & Technology:
@@ -52,6 +54,7 @@ https://events.library.nashville.org/cal/main/setSelectionList.do?b=de&listMode=
 ## Series
 
 The variable part is after `useragrpcalsuiteMainCampusSeries`
+
 - Be Well at NPL:
 https://events.library.nashville.org/cal/main/setSelectionList.do?b=de&listMode=true&setappvar=bwFilters(|||bwNav3-useragrpcalsuiteMainCampusSeriesBeWellatNPL)&setappvar=bwQuery()
 - Salon@615:
@@ -60,9 +63,6 @@ https://events.library.nashville.org/cal/main/setSelectionList.do?b=de&listMode=
 https://events.library.nashville.org/cal/main/setSelectionList.do?b=de&listMode=true&setappvar=bwFilters(|||bwNav3-useragrpcalsuiteMainCampusSeriesStudioNPL)&setappvar=bwQuery()
 - Movies at Main
 https://events.library.nashville.org/cal/main/listEvents.do?b=de&listMode=true&setappvar=bwFilters(|||bwNav3-useragrpcalsuiteMainCampusSeriesMoviesatMain)&setappvar=bwQuery()
-- Series > Community of Many Faces
-https://events.library.nashville.org/cal/main/setSelectionList.do?b=de&listMode=true&setappvar=bwFilters(|||bwNav3-useragrpcalsuiteMainCampusSeriesCommunityofManyFaces)&setappvar=bwQuery()
-
 ## Example Links
 
 - Topic > Writing: https://events.library.nashville.org/cal/main/setSelectionList.do?b=de&listMode=true&setappvar=bwFilters(||bwNav2-publicaliasesBrowseByTopicWriting|)&setappvar=bwQuery()

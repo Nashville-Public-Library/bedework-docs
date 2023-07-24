@@ -6,7 +6,7 @@ If you are adding a single event that happens more than once, but at different d
 
 You can only copy an event if it is not recurring.
 
-![block image 1](../../src/img/copy-an-event.jpg)
+![copy event](../img/copy-an-event.jpg)
 
 1.	Go to the events calendar: [https://events.library.nashville.org](https://events.library.nashville.org)
 1.	Scroll to the bottom of the left menu.

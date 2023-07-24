@@ -8,7 +8,7 @@ Title: Image
 ### Option 1 - Add an image by using the image URL
 
 1.	Use an image from the Image Library.
-    1.	Click “here” to see if an image/logo already exists for a recurring or themed program.
+    1. Click “here” to see if an image/logo already exists for a recurring or themed program.
     1. Copy the Image URL from the spreadsheet and pinto the Image URL field on the form.
     1. Copy the Thumbnail URL from the spreadsheet and paste into the Thumbnail URL on the form.
     1. Add Alt Text. Alt text is read aloud by screen readers used by visually impaired users.
