@@ -67,36 +67,11 @@ nav:
       - add-events/image.md
       - add-events/location.md
       - add-events/contact.md
-      - add-events/topical-areas
+      - add-events/topical-areas.md
   - Image Library:
       - image-library/series-logos.md
       - image-library/systemwide-images.md
       - image-library/wishing-chair-images.md
-  - Orientation:
-      - update-content/add-update-a-page/index.md
-      - update-content/add-update-a-page/home-page.md
-      - update-content/add-update-a-page/menu-links-promos.md
-      - update-content/add-update-a-page/basic-page.md
-      - update-content/add-update-a-page/blog-post.md
-      - update-content/add-update-a-page/books-movies-music-pages.md
-      - update-content/add-update-a-page/collection-page.md
-      - update-content/add-update-a-page/collection-topic-page.md
-      - update-content/add-update-a-page/database-a-z-page.md
-      - update-content/add-update-a-page/database-page.md
-      - update-content/add-update-a-page/edu-res-landing-page.md
-      - update-content/add-update-a-page/events-landing-page.md
-      - update-content/add-update-a-page/event-page.md
-      - update-content/add-update-a-page/internship-page.md
-      - update-content/add-update-a-page/locations-landing-page.md
-      - update-content/add-update-a-page/location-pages.md
-      - update-content/add-update-a-page/news-landing-page.md
-      - update-content/add-update-a-page/news-item.md
-      - update-content/add-update-a-page/person.md
-      - update-content/add-update-a-page/podcast-episode.md
-      - update-content/add-update-a-page/service-page.md
-      - update-content/add-update-a-page/sponsors.md
-  - Admin Functions:
-    - writing-for-the-web/writing-for-web.md
   
 copyright:
   c 2023 Metropolitan Government of Nashville and Davidson County, GNU GENERAL PUBLIC LICENSE.
