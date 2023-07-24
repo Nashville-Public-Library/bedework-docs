@@ -64,6 +64,7 @@ nav:
       - add-events/description.md
       - add-events/cost.md
       - add-events/event-url.md
+      - add-events/image.md
   - Using Images:
       - update-content/special-content-updates/index.md
       - update-content/add-update-a-page/notifications.md
