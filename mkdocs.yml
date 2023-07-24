@@ -65,22 +65,13 @@ nav:
       - add-events/cost.md
       - add-events/event-url.md
       - add-events/image.md
-  - Using Images:
-      - update-content/special-content-updates/index.md
-      - update-content/add-update-a-page/notifications.md
-      - update-content/special-content-updates/library-board-agenda.md
-      - update-content/special-content-updates/talking-library-schedule.md
-      - update-content/special-content-updates/read-to-rise-site.md
-      - update-content/special-content-updates/seed-exchange-google.md
-      - update-content/special-content-updates/summer-challenge.md
-      - update-content/special-content-updates/taxonomy-term-addition.md
-      - update-content/special-content-updates/bucket-sites.md
+      - add-events/location.md
+      - add-events/contact.md
+      - add-events/topical-areas
   - Image Library:
-      - update-content/closing-a-branch/index.md
-      - update-content/closing-a-branch/holidays.md
-      - update-content/closing-a-branch/closing-a-branch-spontaneous.md
-      - update-content/closing-a-branch/closing-a-branch-long-closure.md
-      - update-content/closing-a-branch/reopen-a-branch.md
+      - image-library/series-logos.md
+      - image-library/systemwide-images.md
+      - image-library/wishing-chair-images.md
   - Orientation:
       - update-content/add-update-a-page/index.md
       - update-content/add-update-a-page/home-page.md
