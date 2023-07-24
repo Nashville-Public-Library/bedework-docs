@@ -2,7 +2,7 @@
 Title: Image
 ---
 #  Image
-![img "choose from library of images"](../docs/img/upload-image.jpg)
+![img "choose from library of images"](/docs/img/upload-image.jpg)
 ## Adding an Image (Two options, pick one)
 
 ### Option 1 - Add an image by using the image URL
