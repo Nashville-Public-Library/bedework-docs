@@ -13,15 +13,54 @@ All types of contributions are encouraged and valued. See the [Table of Contents
 <!-- omit in toc -->
 ## Table of Contents
 
+
+- [Your First Code Contribution](#your-first-code-contribution)
 - [I Have a Question](#i-have-a-question)
 - [I Want To Contribute](#i-want-to-contribute)
   - [Reporting Bugs](#reporting-bugs)
   - [Suggesting Enhancements](#suggesting-enhancements)
-  - [Your First Code Contribution](#your-first-code-contribution)
   - [Improving The Documentation](#improving-the-documentation)
 - [Styleguides](#styleguides)
   - [Commit Messages](#commit-messages)
 - [Join The Project Team](#join-the-project-team)
+## Your First Code Contribution
+<!-- TODO
+include Setup of env, IDE and typical getting started instructions?
+
+-->## MkDocks Set Up (Edit Existing Project)
+
+### Mac  
+
+1. Install / upgrade Python.  
+   1. See [Installing Python 3 on Mac OS X — The Hitchhiker's Guide to Python](https://docs.python-guide.org/starting/install3/osx/).  
+   1. Command: `brew install python`
+1. Set the alias for python3.  
+   1. Open zshrc and add this alias: `alias python=/usr/local/bin/python3`  
+   1. Save.
+1. Open terminal with the Homebrew profile: Shell > New Window > Homebrew  
+1. Install pip.  
+   1. See [Installation - pip documentation v23.1.2](https://pip.pypa.io/en/stable/installation/).  
+   1. Command: `python -m ensurepip --upgrade`  
+1. Install MkDocs.   
+   1. See [Getting Started - MkDocs](https://www.mkdocs.org/getting-started/#installation).
+   1. Command: `pip install mkdocs`  
+1. Install Material for MkDocs.  
+   1. See [Installation - Material for MkDocs](https://squidfunk.github.io/mkdocs-material/getting-started/).  
+   1. Command: `pip install mkdocs-material`  
+1. Go to Github and clone the repo you want to work on.  
+1. Type `mkdocs serve` to start the dev site.  
+
+### PC  
+
+1. Install / upgrade Python.  
+1. Set the alias for python3.  
+1. Open Cmd Line.
+1. Install pip.  
+1. Install MkDocs.   
+1. Install Material for MkDocs.  
+1. Go to Github and clone the repo you want to work on.  
+1. Type `mkdocs serve` to start the dev site.  
+
 
 
 
@@ -121,45 +160,6 @@ Enhancement suggestions are tracked as [GitHub issues](https://github.com/Nashvi
 - **Explain why this enhancement would be useful** to most Bedework Guide users. You may also want to point out the other projects that solved it better and which could serve as inspiration.
 
 <!-- You might want to create an issue template for enhancement suggestions that can be used as a guide and that defines the structure of the information to be included. If you do so, reference it here in the description. -->
-
-### Your First Code Contribution
-<!-- TODO
-include Setup of env, IDE and typical getting started instructions?
-
--->## MkDocks Set Up (Edit Existing Project)
-
-### Mac  
-
-1. Install / upgrade Python.  
-   1. See [Installing Python 3 on Mac OS X — The Hitchhiker's Guide to Python](https://docs.python-guide.org/starting/install3/osx/).  
-   1. Command: `brew install python`
-1. Set the alias for python3.  
-   1. Open zshrc and add this alias: `alias python=/usr/local/bin/python3`  
-   1. Save.
-1. Open terminal with the Homebrew profile: Shell > New Window > Homebrew  
-1. Install pip.  
-   1. See [Installation - pip documentation v23.1.2](https://pip.pypa.io/en/stable/installation/).  
-   1. Command: `python -m ensurepip --upgrade`  
-1. Install MkDocs.   
-   1. See [Getting Started - MkDocs](https://www.mkdocs.org/getting-started/#installation).
-   1. Command: `pip install mkdocs`  
-1. Install Material for MkDocs.  
-   1. See [Installation - Material for MkDocs](https://squidfunk.github.io/mkdocs-material/getting-started/).  
-   1. Command: `pip install mkdocs-material`  
-1. Go to Github and clone the repo you want to work on.  
-1. Type `mkdocs serve` to start the dev site.  
-
-### PC  
-
-1. Install / upgrade Python.  
-1. Set the alias for python3.  
-1. Open Cmd Line.
-1. Install pip.  
-1. Install MkDocs.   
-1. Install Material for MkDocs.  
-1. Go to Github and clone the repo you want to work on.  
-1. Type `mkdocs serve` to start the dev site.  
-
 
 ### Improving The Documentation
 <!-- TODO

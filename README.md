@@ -5,37 +5,8 @@ The Bedework guide is made with MkDocs and Material for MkDocs. Documentation is
 There's an excellent overview video on installing and setting up MkDocs and Material for MkDocs, in general, on YouTube: [How To Create STUNNING Code Documentation With MkDocs Material Theme](https://www.youtube.com/watch?v=Q-YA_dA8C20).  
 
 View the current Bedework Guide on Github.io [Bedework Guide](https://nashville-public-library.github.io/bedework-docs/)
+## Bedework Software
+[Bedework](https://github.com/Bedework/bedework) is an open-source enterprise calendar and scheduling system. It is highly extensible, translatable, and standards-compliant. Bedework is used widely throughout the world, primarily in academic settings, for which it was initially created. This guide details how staff at Nashville Public Library (Tennessee, USA) use the calendar to promote public events. It serves as their primary documentation hub.
 
-## MkDocks Set Up (Edit Existing Project)
-
-### Mac  
-
-1. Install / upgrade Python.  
-   1. See [Installing Python 3 on Mac OS X — The Hitchhiker's Guide to Python](https://docs.python-guide.org/starting/install3/osx/).  
-   1. Command: `brew install python`
-1. Set the alias for python3.  
-   1. Open zshrc and add this alias: `alias python=/usr/local/bin/python3`  
-   1. Save.
-1. Open terminal with the Homebrew profile: Shell > New Window > Homebrew  
-1. Install pip.  
-   1. See [Installation - pip documentation v23.1.2](https://pip.pypa.io/en/stable/installation/).  
-   1. Command: `python -m ensurepip --upgrade`  
-1. Install MkDocs.   
-   1. See [Getting Started - MkDocs](https://www.mkdocs.org/getting-started/#installation).
-   1. Command: `pip install mkdocs`  
-1. Install Material for MkDocs.  
-   1. See [Installation - Material for MkDocs](https://squidfunk.github.io/mkdocs-material/getting-started/).  
-   1. Command: `pip install mkdocs-material`  
-1. Go to Github and clone the repo you want to work on.  
-1. Type `mkdocs serve` to start the dev site.  
-
-### PC  
-
-1. Install / upgrade Python.  
-1. Set the alias for python3.  
-1. Open Cmd Line.
-1. Install pip.  
-1. Install MkDocs.   
-1. Install Material for MkDocs.  
-1. Go to Github and clone the repo you want to work on.  
-1. Type `mkdocs serve` to start the dev site.  
+## Contribute to Bedework Guide
+To add documentation, or make corrections, consult [CONTRIBUTING.md](/CONTRIBUTING.md)
