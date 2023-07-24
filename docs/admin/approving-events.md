@@ -17,7 +17,7 @@ title: Approving Events
 
 ## Checking Rules and Recurrence and Exception Dates
 
-![img "checking rules and exception dates"](../../src/img/checking-recurrence-rules.jpg)
+![img "checking rules and exception dates"](../img/checking-recurrence-rules.jpg)
 
 -	“Recurrence Dates” list displays recurrences added to an event.
 - “No exception dates” list displays instances that were deleted.

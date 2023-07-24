@@ -6,9 +6,9 @@ sidebar_position: 1
 
 ## Images Owned / Purchased by NPL
 
--	[Image Library](https://docs.google.com/spreadsheets/d/1g40w2ES4x0VxqgmdDq4APNG51L22nyNwBC5kCgpYuh0)
-    -	Add with URL.
-    -	Logo images
+-	[Image Library](/docs/image-library/series-logos.md)
+    - Add with URL.
+    - Logo images
     - Grab the URL from the spreadsheet to use the image in a calendar listing.
 -	[Library Catalog](http://catalog.library.nashville.org)
     - Add with URL.

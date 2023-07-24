@@ -21,8 +21,8 @@ A recurring event is an event that repeats several times during a quarter at the
       -	Event happens one time per month, but not on set schedule (repeats, no pattern). But, each movie event happens at a different time of day (NOT same time of day).
 
 ## Set the Recurrence Rules or Dates
-![recurrence rules exceptions](/img/recurrence-rules-exceptions.jpg)
-![blog entry form](/img/blog-1.jpg)
+![recurrence rules exceptions](../img/recurrence-rules-exceptions.jpg)
+![blog entry form](../img/blog-1.jpg)
 
 Choose your recurrence method. There are two ways to add recurrences. Choose Only One Option. Do not use both.
 

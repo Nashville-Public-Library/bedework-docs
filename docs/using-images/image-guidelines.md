@@ -11,8 +11,8 @@ Use the spreadsheet by going to Click here to choose from the library of images.
 
 ## Size and Text Specifications
 
-- 	Max width: 450px
-- 	Max height: 650px
+- 	Max width: 400px
+- 	Max height: 600px
 - Thumbnail is automatically created when you upload an image. You may also create a separate thumbnail image. If you want to use a separate thumbnail image, email the images to Web Services and we’ll add them for you.
 - Do not leave white space around the image. White space is added automatically by the calendar stylesheet.
 -	Words in icon-type images (“Movie Friday” or “Chocolate Worms”) should be readable at thumbnail-size, which is 80px wide.
@@ -24,7 +24,6 @@ Use the spreadsheet by going to Click here to choose from the library of images.
 -	Nashville Reads (add image URL from image spreadsheet)
 -	Mental Health Outreach (add image URL from image spreadsheet)
 -	Metro Social Services (add image URL from image spreadsheet)
--	Salon@615 (upload and resize author image)
 -	Seed Exchange (add image URL from image spreadsheet)
 -	Story Time (add image URL from image spreadsheet)
 -	Wishing Chair Productions (add image URL from image spreadsheet)
@@ -36,13 +35,15 @@ Use the spreadsheet by going to Click here to choose from the library of images.
 -	To find new images, see Finding Copyright Friendly Images
 
 ## Resizing an Image (on a Microsoft Windows PC)
+
 -	Open MS Paint
 -	Open the image you want to resize, or copy-and-paste an image
 -	Hit the resize button at the top
 
-![img "resize image"](../../src/img/paint-resize.jpg)
+![img "resize image"](../img/paint-resize.jpg)
 
 -	Click the button for "Pixels." Check "Maintain aspect ratio." Type what size you want the image to be, and click “OK.”
 
-![img "resize skew"](../../src/img/paint-resize-skew.jpg)
+![img "resize skew"](../img/paint-resize-skew.jpg)
+
 -	Save the image as a .png file.
