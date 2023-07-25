@@ -80,16 +80,18 @@ nav:
       - orientation/copy-event.md
       - orientation/edit-delete-event.md
       - orientation/get-to-bedework.md
+  - Linking:
+      - linking/custom.md
+      - linking/address-bar.md
   - Admin:
+      - admin/approving-events.md
       - admin/add-series.md
       - admin/cancel.md
       - admin/passwords.md
       - admin/reindex.md
       - admin/notifications.md
       - admin/theming.md
-      - admin/pixie-dust.md
       - admin/troubleshooting.md
-      - admin/approving-events.md
-      - admin/custom.md
+      - admin/pixie-dust.md
 copyright:
   c 2023 Metropolitan Government of Nashville and Davidson County, GNU GENERAL PUBLIC LICENSE.

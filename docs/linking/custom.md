@@ -4,7 +4,7 @@ title: Creating Custom URLs
 
 # Creating Custom URLs
 
-To build a link, you'll need to place the block number right after `bwNav`
+To build a link, you need to place the block number right after `bwNav`
 
 In the array, this is how it is written: First the bwNav block number, then a dash, then the alias OR view OR block name
 
