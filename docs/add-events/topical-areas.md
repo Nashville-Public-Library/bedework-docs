@@ -28,6 +28,10 @@ Select the appropriate topic. If there is not a topic that is appropriate, you c
 ###	Arts & Crafts
       
   -	Applies to all programs where arts or crafts will be made or discussed.
+### Book Sale
+
+  - Applies to any sale benefiting the library foundation or friends group. 
+  - Does not apply to author events where books are sold.
 ###	Computer Classes
 
   - _Do_ use for:
@@ -53,7 +57,7 @@ Select the appropriate topic. If there is not a topic that is appropriate, you c
   - Do not use for Story Times where puppets are used as props. Puppets must be the featured act.
 ###	Story Time
       
-  - Story Time only applies to traditional programs involving stories being read to children (infants, toddlers, preschool) accompanied by their parents. Does not include school-age learning, crafting or literature programs.
+  - Story Time applies only to traditional programs involving stories being read to children (infants, toddlers, preschool) accompanied by their parents. Does not include school-age learning, playing, crafting or literature programs.
 ### Studio NPL and STEAM 
 
   - Only use one or the other. Do not tag an event with both tags; this make the two less     useful as limiters.

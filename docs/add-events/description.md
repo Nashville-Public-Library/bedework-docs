@@ -3,7 +3,7 @@ Title: Description
 ---
 
 # Description
-Entries that do not meet these criteria will be rewritten. Whenever possible, use titles and descriptions from past events in the web calendar.
+Entries that do not meet these criteria will be revised or returned for editing. Whenever possible, use descriptions from past calendar entries.
 
 ## Order of Details
 
@@ -44,6 +44,9 @@ Use good keywords. Name items to be discussed. All book sales should have the wo
     - eBooks
     - Microsoft Word
     - Gardening
+
+### More Style Guide
+Refer to the [NPL Style Guide](https://docs.google.com/document/d/1GEg7vq-WWuBhZaVDM39cERYrDljqLXI5CUQngT1d694/edit?usp=sharing) for writing style rules governing all library communications.
 
 ## Required Content
 ### Main Library Childrens
