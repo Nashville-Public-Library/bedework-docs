@@ -7,23 +7,26 @@ Use Trello board to track and repeat all steps outlined, every quarter: https://
 
 ## Request Changes from Managers
 Send email to distribution lists: library branch managers, library main managers, library admin, Jenny Ellis, Jenny Lane, Allison Price
- 
-> Hi Everyone!
+``` 
+Hi Everyone!
 
->We are ready to add events for the [Winter/Spring/Summer/Fall] quarter to the events calendar. In preparation, we want to provide Bedework calendar training for anyone at your location who needs an introduction or refresher. 
+We are ready to add events for the [Winter/Spring/Summer/Fall] quarter to the events calendar. In preparation, we want to provide Bedework calendar training for anyone at your location who needs an introduction or refresher. 
  
->Please send me the names of employees who should attend online Bedework Orientation; and reserve off-desk time for them for one of these online sessions. Once practice assignments are complete, they will be added to your location.
->[Thursday, July 13. 3:00 p.m. CDT]
->[Friday, July 14. 09:30 a.m. CDT]
->Please notify me, if you have a new submitter at your location. (See List)
->Alert me, if there are any staff-submitters no longer at your location. I will update their access.
+Please send me the names of employees who should attend online Bedework Orientation; and reserve off-desk time for them for one of these online sessions. Once practice assignments are complete, they will be added to your location.
+[Thursday, July 13. 3:00 p.m. CDT]
+[Friday, July 14. 09:30 a.m. CDT]
+Please notify me, if you have a new submitter at your location. (See List)
 
->Due to vacancies and transfers, we are not removing anyone based on depth this quarter. Please notify Kyle Cook if you have any staff who are:
->* are a new submitter at your location. (See List) 
->* are no longer at your location; he will change/evoke their access. (See List)
->* would like to attend calendar training sessions, as a refresher.
+Alert me, if there are any staff-submitters no longer at your location. I will update their access.
+
+Due to vacancies and transfers, we are not removing anyone based on depth this quarter. Please notify Kyle Cook if you have any staff who are:
+* are a new submitter at your location. (See List) 
+* are no longer at your location; he will change/evoke their access. (See List)
+* would like to attend calendar training sessions, as a refresher.
  
->I will notify individuals and managers about the dates for [March, 2022] event submission training sessions.  Please contact me with any questions.
+I will notify individuals and managers about the dates for [March, 2022] event submission training sessions.  Please contact me with any questions.
+(attach list of current submitters)
+```
 
 ## Move/Delete/Add Submitters (Update Based on Managers Response)
 1. Add usernames to Bedework Users, Groups. 
