@@ -39,40 +39,12 @@ sidebar_position: 2
 ```
 /public/images/Artober_Web(Square)_bedework-202108270757-thumb.png
 ```
-## Ashley Mintz            
-```
-/public/images/ARTober - Ashley Mintz Promo Pic _bedework-202009150559.jpg
-```
-```
-/public/images/ARTober - Ashley Mintz Promo Pic _bedework-202009150559-thumb.png
-```
-## Beizar Aradini          
-```
-/public/images/Beizar outside-202104080410.jpg
-```        
-```
-/public/images/Beizar outside-202104080410-thumb.png
-```
-## Ben Satterlee           
-```
-/public/images/bensatterlee1_resized-201912190541.jpg
-```
-```
-/public/images/bensatterlee1_resized-201912190541-thumb.png
-```
 ## Books Brothers          
 ```
 /public/images/books-brothers-202102190213.jpg
 ```        
 ```
 /public/images/books-brothers-202102190213-thumb.png
-```
-## Construct Breakin (615HOD)                        
-```
-/public/images/resized_house of dance workshop-202003240543.jpg
-```
-```
-/public/images/resized_house of dance workshop-202003240543-thumb.png
 ```
 ## Country Music Hall of Fame                        
 ```
@@ -88,20 +60,6 @@ sidebar_position: 2
 ```
 /public/images/dbogallery-201909300610-thumb.png
 ```                                      
-## Dennis Scott            
-```
-/public/images/resized_Den Silly-202003240716.jpg
-```     
-```
-/public/images/resized_Den Silly-202003240716-thumb.png
-```
-## Diana Nikkels           
-```
-/public/images/resized_FAIRY front-202003240703.jpg
-```
-```
-/public/images/resized_FAIRY front-202003240703-thumb.png
-```      
 ## Friday Family Time               
 ```
 /public/images/NPL_FridayFamilyTime_Web(Square)BEDEWORK-202007020150.png
@@ -171,7 +129,21 @@ sidebar_position: 2
 ```
 ```
 /public/images/resized_jacob johnson-202003250641-thumb.png
-```                           
+```
+## Live. Laugh. Learn. with Ms. Natalie              
+```
+/public/images/Live Laugh Learn_bedework-202005281232.jpg
+```                       
+```
+/public/images/Live Laugh Learn_bedework-202005281232-thumb.png
+```          
+## Lee Con Klem-Mari       
+```
+/public/images/lee_con_klem-mari promo picture_bedework2-202009150648.jpg
+```     
+```   
+/public/images/lee_con_klem-mari promo picture_bedework2-202009150648-thumb.png
+```
 ## Metro Parks             
 ```
 /public/images/Metro-Parkslogo-202105260643.jpg
@@ -270,13 +242,6 @@ sidebar_position: 2
 ```
 /public/images/resized_Rodney Kelley-202003260615-thumb.png
 ```                       
-## The Porch Writers' Collective (old)               
-```
-/public/images/ThePorchWritersCollective_Bedework-201903220306.png
-```              
-```
-/public/images/ThePorchWritersCollective_Bedework-201903220306-thumb.png
-```               
 ## The Porch Writers' Collective (new)              
 ```
 /public/images/the porch_new logo resized-202101260507.jpg
@@ -340,24 +305,3 @@ sidebar_position: 2
 ```
 /public/images/TGCR_Logo_FINAL-201909301233-thumb.png
 ```
-## Live. Laugh. Learn. with Ms. Natalie              
-```
-/public/images/Live Laugh Learn_bedework-202005281232.jpg
-```                       
-```
-/public/images/Live Laugh Learn_bedework-202005281232-thumb.png
-```          
-## Lee Con Klem-Mari       
-```
-/public/images/lee_con_klem-mari promo picture_bedework2-202009150648.jpg
-```     
-```   
-/public/images/lee_con_klem-mari promo picture_bedework2-202009150648-thumb.png
-```
-## Art Time with Jake      
-```
-/public/images/Art Time With Jake_resized-202102230351.jpg
-```                      
-```
-/public/images/Art Time With Jake_resized-202102230351-thumb.png
-```                            

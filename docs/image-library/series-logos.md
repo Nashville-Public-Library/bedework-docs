@@ -186,7 +186,7 @@ title: Series Logos
 ```
 /public/images/puppet-show-black-80.png
 ```
-## Pride Logo
+## Pride NPL Logo
 ```
 /public/images/npl-pride-logo-202208180942.jpg
 ```
