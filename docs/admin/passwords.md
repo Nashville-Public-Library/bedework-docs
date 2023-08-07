@@ -12,9 +12,13 @@ It's the difference between authentication (which is whether you can log in or n
 Deleting users cleanly is also a two step process. If you succeed in removing the user in the jmx-console, then the user won't be able to log in at all. So, you've removed a user via the jmx-console, they'll be shut out of the system. To keep things orderly, remember to remove the user from Bedework Users groups as well.
 ## User Creation / Management Checklist
 Use this checklist when adding/editing/removing users from the JMX Console, Events, and Steven:
+<<<<<<< HEAD
 ```
 https://metronashville.sharepoint.com/:x:/r/sites/NPLWebDevelopment/Shared%20Documents/Bedework%20Staff%20Submitters%20Account%20Creation%20_%20Management%20Checklist.xlsx
 ```
+=======
+[Bedework Staff Submitters Account Creation Checklist](https://metronashville.sharepoint.com/:x:/r/sites/NPLWebDevelopment/Shared%20Documents/Bedework%20Staff%20Submitters%20Account%20Creation%20_%20Management%20Checklist.xlsx)
+>>>>>>> bf29c59
 ## JMX Console Functions
 ### Access jmx-console:
 
