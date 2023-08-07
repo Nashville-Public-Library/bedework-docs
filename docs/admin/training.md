@@ -39,19 +39,21 @@ I will notify individuals and managers about the dates for [March, 2022] event s
 3. Post notice to Intranet for all library staff. 
 
 ```
-### SUBJECT: Please Begin Adding Events for Next Quarter to Library Calendar (Bedework)
+SUBJECT: Please Begin Adding Events for Next Quarter to Library Calendar (Bedework)
+
 Please add all confirmed events for the {Fall quarter, SEP-OCT-NOV, 2023}. There is no deadline, no print publication. Please add within the three month increments (Dec Jan Feb / Mar Apr May / Jun Jul Aug / Sep Oct Nov). Do not add events scheduled more than nine months ahead.
 
 It is best to add regular recurring programs as early as possible. We use this process to confirm whether event series are continuing into the next quarter. This allows Marketing-Communications adequate notice for publicity. Do not list any events on social media or public communications before they are added to the events calendar.
   
-  [Events Calendar Admin Login](https://events.library.nashville.org/caladmin)
+  Events Calendar Admin Login: https://events.library.nashville.org/caladmin
 
-  [Bedework User Guide](https://nashville-public-library.github.io/bedework-docs/)
+  Bedework User Guide: https://nashville-public-library.github.io/bedework-docs/
 
-Guide combines all directions you need to fill out the 'Add Events' form
+    Guide combines all directions you need to fill out the 'Add Events' form
 
-  [Copy an Event](https://nashville-public-library.github.io/bedework-docs/orientation/copy-event/) 
-Instructions for repurposing existing event for next quarter
+  Copy an Event: https://nashville-public-library.github.io/bedework-docs/orientation/copy-event/) 
+
+    Instructions for repurposing existing event for next quarter
 
  Let us know if you would like to attend a 30-minute Bedework Calendar orientation as a new submitter, or as a refresher. We will send you an invite to our upcoming WebEx demonstrations.
 
@@ -67,10 +69,10 @@ Please check your location’s information on the following webpages. Email Kyle
 1. Choose orientation date/time
 1. Arrange for meeting room or online space.
 1. Send a Calendar meeting request to all students, with location or login instructions.
-Create New Users in Bedework
 1. Make new user accounts in hawtadmin and Bedework users (see Bedework Manual)
+1. Create New Users in Bedework
 1. Add them to Web services group, to use for practice
-1. Log new user accounts in Bedework Staff Submitters
+1. Log new user accounts in [Bedework Staff Submitters spreadsheet](https://metronashville.sharepoint.com/:x:/r/sites/NPLWebDevelopment/Shared%20Documents/Bedework%20Staff%20Submitters%20Account%20Creation%20_%20Management%20Checklist.xlsx) 
 ## Prepare for Quarterly Training
 1. Make example entries for the trainees to add to Bedework using examples in the saved Word Document, Bedework Events Calendar Entry Worksheet
 2. Prepare any handouts or follow-up emails (usernames, passwd)
