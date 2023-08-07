@@ -14,19 +14,17 @@ Cook thinks this:
 -	If instances are added with dates (not pattern), updates to the master will NOT update the instance.
 -	If instances are added with pattern, updates to the master WILL update each instance.
 Are both of the above true?
-
 ## Editing Recurrences / Master and instances
 
 -	If master is added with dates (not pattern), using the second Recurrence option on the form, future updates to the master will NOT update the instance. (Not sure if this is how it actually works, but this behavior doesn’t seem correct. If this is busted, this may be a change that needs to happen to the whole Project.)
 -	If instances are added with pattern (every Tuesday, until apr 12), updates to the master WILL update each instance. (Yes, these are true.)
 -	After individual instance is updated, so it now differs from the Master, changes to the Master WILL NOT affect this instance. (Yes, these are true.)
 -	Role shouldn’t affect any behavior. Should be separate from role.
-
 ## Disappearing Events
 
 If an event is not visible in either the public client or the admin client, we need to report to Bedework Vendor.
 
-1. Reindex Bedework.
+1. [Reindex Bedework](../admin/reindex.md).
 1. Report to Bedework vendor if a reindex doesn't make the event surface.
 
 ## Bedework Widget Malfunctioning (but site is fine)
@@ -81,7 +79,7 @@ Info: Bedework Vendor had a backup file saved somewhere and Bedework was trying 
 
 Events stuck in approval queue that don’t really exist.
 
-1.	Reindex Bedework.
+1.	[Reindex Bedework](../admin/reindex.md).
 1.	Test.
 1.	If event is still in the database, and it is a master event, open the master event, then clear the recurrence pattern and reset it. Save the master event. Find the event in Bedework admin console and try to delete an instance again.
 1.	If the event is still stuck, notify Bedework Vendor.
