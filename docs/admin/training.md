@@ -72,7 +72,10 @@ Please check your location’s information on the following webpages. Email Kyle
 1. Make new user accounts in hawtadmin and Bedework users (see Bedework Manual)
 1. Create New Users in Bedework
 1. Add them to Web services group, to use for practice
-1. Log new user accounts in [Bedework Staff Submitters spreadsheet](https://metronashville.sharepoint.com/:x:/r/sites/NPLWebDevelopment/Shared%20Documents/Bedework%20Staff%20Submitters%20Account%20Creation%20_%20Management%20Checklist.xlsx) 
+1. Log new user accounts in 
+```
+https://metronashville.sharepoint.com/:x:/r/sites/NPLWebDevelopment/Shared%20Documents/Bedework%20Staff%20Submitters%20Account%20Creation%20_%20Management%20Checklist.xlsx
+```
 ## Prepare for Quarterly Training
 1. Make example entries for the trainees to add to Bedework using examples in the saved Word Document, Bedework Events Calendar Entry Worksheet
 2. Prepare any handouts or follow-up emails (usernames, passwd)
