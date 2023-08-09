@@ -68,6 +68,8 @@ nav:
       - add-events/location.md
       - add-events/contact.md
       - add-events/topical-areas.md
+      - add-events/series.md
+      - add-events/public.md
   - Image Library:
       - image-library/series-logos.md
       - image-library/systemwide-images.md
