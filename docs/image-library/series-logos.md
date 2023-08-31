@@ -102,6 +102,13 @@ title: Series Logos
 ```
 /public/images/kids-movie-matinee-201802270328-thumb.png
 ```
+## Legal Aid of Middle Tennessee and the Cumberlands
+```
+/public/images/legal-aid-202308310331.jpg
+```
+```
+/public/images/legal-aid-202308310331-thumb.png
+```
 ## LEGO
 ```
 /public/images/LEGO_Design2020(Square450)-201912171047.png
