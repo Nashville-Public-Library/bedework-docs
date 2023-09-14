@@ -165,6 +165,16 @@ Lorraine book cover
 ```
 illustration of momatoro                                 
 ```
+## The Ordeal of Mr. Trifulgus
+```
+/public/images/trifulgus-resized-202309141126.jpg
+```
+```
+/public/images/trifulgus-resized-202309141126-thumb.png
+```
+```
+trifulgus sketch
+```
 ## Puppet Show Icon
 ```
 /public/images/puppet-show-black-217.png
