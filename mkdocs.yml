@@ -85,6 +85,7 @@ nav:
   - Linking:
       - linking/custom.md
       - linking/address-bar.md
+      - linking/generate-export-files.md
   - Admin:
       - admin/approving-events.md
       - admin/add-series.md
