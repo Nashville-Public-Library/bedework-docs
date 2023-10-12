@@ -55,14 +55,15 @@ https://events.library.nashville.org/cal/main/setSelectionList.do?b=de&listMode=
 
 The variable part is after `useragrpcalsuiteMainCampusSeries`
 
-- Be Well at NPL:
+- Closed
+https://events.library.nashville.org/cal/main/listEvents.do?b=de&listMode=true&setappvar=bwFilters(|||bwNav3-useragrpcalsuiteMainCampusSeriesClosed)&setappvar=bwQuery() 
+- Be Well at NPL
 https://events.library.nashville.org/cal/main/setSelectionList.do?b=de&listMode=true&setappvar=bwFilters(|||bwNav3-useragrpcalsuiteMainCampusSeriesBeWellatNPL)&setappvar=bwQuery()
-- Salon@615:
-https://events.library.nashville.org/cal/main/setSelectionList.do?b=de&listMode=true&setappvar=bwFilters(|||bwNav3-useragrpcalsuiteMainCampusSeriesSalonat615)&setappvar=bwQuery()
+- Holiday
+https://events.library.nashville.org/cal/main/setSelectionList.do?b=de&listMode=true&setappvar=bwFilters(|||bwNav3-useragrpcalsuiteMainCampusSeriesHoliday)&setappvar=bwQuery()
 - StudioNPL
 https://events.library.nashville.org/cal/main/setSelectionList.do?b=de&listMode=true&setappvar=bwFilters(|||bwNav3-useragrpcalsuiteMainCampusSeriesStudioNPL)&setappvar=bwQuery()
-- Movies at Main
-https://events.library.nashville.org/cal/main/listEvents.do?b=de&listMode=true&setappvar=bwFilters(|||bwNav3-useragrpcalsuiteMainCampusSeriesMoviesatMain)&setappvar=bwQuery()
+
 ## Example Links
 
 - Topic > Writing: https://events.library.nashville.org/cal/main/setSelectionList.do?b=de&listMode=true&setappvar=bwFilters(||bwNav2-publicaliasesBrowseByTopicWriting|)&setappvar=bwQuery()
