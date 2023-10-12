@@ -61,8 +61,7 @@ https://events.library.nashville.org/cal/main/listEvents.do?b=de&listMode=true&s
 https://events.library.nashville.org/cal/main/setSelectionList.do?b=de&listMode=true&setappvar=bwFilters(|||bwNav3-useragrpcalsuiteMainCampusSeriesBeWellatNPL)&setappvar=bwQuery()
 - Holiday
 https://events.library.nashville.org/cal/main/setSelectionList.do?b=de&listMode=true&setappvar=bwFilters(|||bwNav3-useragrpcalsuiteMainCampusSeriesHoliday)&setappvar=bwQuery()
-- StudioNPL
-https://events.library.nashville.org/cal/main/setSelectionList.do?b=de&listMode=true&setappvar=bwFilters(|||bwNav3-useragrpcalsuiteMainCampusSeriesStudioNPL)&setappvar=bwQuery()
+
 
 ## Example Links
 
