@@ -55,11 +55,7 @@ When we upgraded to 3.10, URLs changed. Bedework Vendor wrote a translator to th
 
 ## Emergency Restart
 
-1.	Notify Kyle Cook. If Kyle is not available, contact a backup. Contact in the following order:
-    1. Kyle Cook
-    1. Jenny Ellis (backup)
-    1. Bryan Jones (backup)
-    1. Jesse Morros (backup)
+1. Notify Shared Systems, Bedework Application Admin, then Back-up staff.
 1. Login to server via ssh. `sudo reboot`.
 - If this fails, contact Bedework Vendor.
 - Post a note to the Intranet notifying staff that the events calendar is down and we are working on it.
