@@ -111,6 +111,17 @@ ellingtown illustration
 ```
 /public/images/Kaytek_150-201611080924-thumb.png
 ```
+## La La La
+```
+/public/images/la-la-la-1-202312040400.jpg
+```
+```
+/public/images/la-la-la-1-202312040400-thumb.png
+```
+```
+girl singing 'la la la'
+```
+
 ## Legend of Sleepy Hollow
 ```
 /public/images/SleepyHollowscary3resized-202106100255.jpg
