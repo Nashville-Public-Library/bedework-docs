@@ -58,9 +58,6 @@ Select the appropriate topic. If there is not a topic that is appropriate, you c
 ###	Story Time
       
   - Story Time applies only to traditional programs involving stories being read to children (infants, toddlers, preschool) accompanied by their parents. Does not include school-age learning, playing, crafting or literature programs.
-### Studio NPL and STEAM 
-
-  - Only use one or the other. Do not tag an event with both tags; this make the two less     useful as limiters.
 ##	Browse by Series
 Choose the series. Tags are used to create curated lists of events--for both internal and external use--so it should be obvious why any given event comes up when you select one of the series tags.
 
