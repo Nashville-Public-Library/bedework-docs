@@ -3,6 +3,7 @@ title: Generate Export Files
 ---
 
 # Generate an Export File
+
 - Go to the public calendar.
 - Use the subject filters to view list of events to be extracted.
 - Select _Export/Widget Feedbuilder_ link to open up export options.

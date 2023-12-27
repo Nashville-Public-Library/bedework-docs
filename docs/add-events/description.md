@@ -3,6 +3,7 @@ Title: Description
 ---
 
 # Description
+
 Entries that do not meet these criteria will be revised or returned for editing. Whenever possible, use descriptions from past calendar entries.
 
 ## Order of Details
@@ -12,6 +13,7 @@ Entries that do not meet these criteria will be revised or returned for editing.
 1. Registration information, if needed
 
 ## Writing Style
+
 Describe what to expect at program – set user expectations about the event. Begin descriptions with what the guest will do and/or discuss. Avoid long passages of names or credentials—a single sentence is sufficient. Use short sentences that convey one idea apiece.
 
 Focus on a call to action/invitation.
@@ -46,25 +48,31 @@ Use good keywords. Name items to be discussed. All book sales should have the wo
     - Gardening
 
 ### More Style Guide
+
 Refer to the [NPL Style Guide](https://docs.google.com/document/d/1GEg7vq-WWuBhZaVDM39cERYrDljqLXI5CUQngT1d694/edit?usp=sharing) for writing style rules governing all library communications.
 
 ## Required Content
+
 ### Main Library Childrens
+
 Make sure “no groups” language is included on MN story times and all MN children’s programs.
 
     Group accommodations are not available for this show time. Shows for groups are on Thursdays. Call (615) 862-5785 to ask about programs for groups of 10 or more.
 
 ### Main Library Teens
+
 Use “teens” language for all Teen events at Main Library
 
     For teens in grades 7-12 at the end of all event descriptions.
 
 ### Online (NPL Universe)
+
 Put this language at the end of the event description
 
     Visit library.nashville.org/universe to see all NPL events you can stream from home.
 
 ### Seed Exchange
+
 Append this Seed Exchange pitch to all gardening events.
 
     This program is brought to you by Nashville Public Library Seed Exchange. Borrow seeds, grow plants, return seeds. Seeds are available for check out at select branches. For more information, go to Seed Exchange website. 
@@ -72,6 +80,7 @@ Append this Seed Exchange pitch to all gardening events.
 Add to _Event URL_: https://library.nashville.org/event/seed-exchange
 
 ## Common Errors
+
 - Don't include a recurrence pattern (e.g., “Every Tuesday”) in your event descriptions.
 - Don't include event times in the description field.  
 - Don't include the branch name or phone number in the description field, e.g. “please call the Boisterous Branch to register” or “Come to the Boisterous Branch…”. This is redundant information in web events calendar context. The phone number is listed on every event from the Contact field.

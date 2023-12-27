@@ -3,11 +3,13 @@ title: Bedework Staff Training Manual
 ---
 # Bedework Staff Training Manual
 
-Use Trello board to track and repeat all steps outlined, every quarter: https://trello.com/b/Ubl0FEDg/quarterly-events-process-bedework 
+Use Trello board to track and repeat all steps outlined, every quarter: <https://trello.com/b/Ubl0FEDg/quarterly-events-process-bedework>
 
 ## Request Changes from Managers
+
 Send email to distribution lists: library branch managers, library main managers, library admin, Jenny Ellis, Jenny Lane, Allison Price
-``` 
+
+```text
 Hi Everyone!
 
 We are ready to add events for the [Winter/Spring/Summer/Fall] quarter to the events calendar. In preparation, we want to provide Bedework calendar training for anyone at your location who needs an introduction or refresher. 
@@ -29,16 +31,19 @@ I will notify individuals and managers about the dates for [March, 2022] event s
 ```
 
 ## Move/Delete/Add Submitters (Update Based on Managers Response)
-1. Add usernames to Bedework Users, Groups. 
+
+1. Add usernames to Bedework Users, Groups.
 2. Remove usernames in Bedework Users, Groups.
 3. Update the Bedework Submitters List with current list staff locations.
 4. Note staff who need training in the Training list.
-## Schedule Quarterly Training Event Dates
-1. Email the branch managers to confirm the list of Bedework submitters for a location (above). 
-2. Move users to new Bedework groups based on response from managers. 
-3. Post notice to Intranet for all library staff. 
 
-```
+## Schedule Quarterly Training Event Dates
+
+1. Email the branch managers to confirm the list of Bedework submitters for a location (above).
+2. Move users to new Bedework groups based on response from managers.
+3. Post notice to Intranet for all library staff.
+
+```text
 SUBJECT: Please Begin Adding Events for Next Quarter to Library Calendar (Bedework)
 
 Please add all confirmed events for the {Fall quarter, SEP-OCT-NOV, 2023}. There is no deadline, no print publication. Please add within the three month increments (Dec Jan Feb / Mar Apr May / Jun Jul Aug / Sep Oct Nov). Do not add events scheduled more than nine months ahead.
@@ -65,24 +70,32 @@ Please check your location’s information on the following webpages. Email Kyle
      Book Clubs: https://library.nashville.org/event/book-clubs 
      Studio NPL: https://library.nashville.org/events/studio-npl 
 ```
+
 ## Plan Quarterly Training
+
 1. Choose orientation date/time
 1. Arrange for meeting room or online space.
 1. Send a Calendar meeting request to all students, with location or login instructions.
 1. Make new user accounts in hawtadmin and Bedework users (see Bedework Manual)
 1. Create New Users in Bedework
 1. Add them to Web services group, to use for practice
-1. Log new user accounts in 
-```
+1. Log new user accounts in
+
+```text
 https://metronashville.sharepoint.com/:x:/r/sites/NPLWebDevelopment/Shared%20Documents/Bedework%20Staff%20Submitters%20Account%20Creation%20_%20Management%20Checklist.xlsx
 ```
+
 ## Prepare for Quarterly Training
+
 1. Make example entries for the trainees to add to Bedework using examples in the saved Word Document, Bedework Events Calendar Entry Worksheet
 2. Prepare any handouts or follow-up emails (usernames, passwd)
 3. Make any notes you see that need to be updated
 4. Prepare orientation Notes
 
 ## Perform Orientation
-## Take attendance for each session.
+
+## Take attendance for each session
+
 ## Homework
+
 ## Graduation

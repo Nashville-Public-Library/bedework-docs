@@ -2,6 +2,7 @@
 sidebar_position: 4
 ---
 # Copy an Event
+
 If you are adding an event, or event series, that has already been posted at an earlier date, you can use it to recreate a new event.
 
 ![copy event](../img/copy-an-event.jpg)
