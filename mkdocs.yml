@@ -62,6 +62,7 @@ nav:
       - add-events/recurrence-pattern.md
       - add-events/recurrence.md
       - add-events/description.md
+      - add-events/status.md
       - add-events/cost.md
       - add-events/event-url.md
       - add-events/image.md
