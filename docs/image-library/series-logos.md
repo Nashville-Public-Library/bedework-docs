@@ -234,6 +234,16 @@ title: Series Logos
 /public/images/NaNoWriMo_thumb-201610041148.png
 ```
 
+## NAZA Honeycomb
+
+```text
+/public/images/honeycomb-202312290147.png
+```
+
+```text
+/public/images/honeycomb-202312290147-thumb.png
+```
+
 ## NPL Universe
 
 ```
