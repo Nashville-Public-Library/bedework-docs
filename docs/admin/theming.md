@@ -15,6 +15,7 @@ Examples of what the strings file solves:
 
 About the Bedework 3.10 theme files (where stuff lives)
 Share and Download icons for each event live in three places (I think, based on Bedework Vendor’s feedback):
+
 - widgetEventList.xsl
 - events.xsl
 - eventListRange.xsl

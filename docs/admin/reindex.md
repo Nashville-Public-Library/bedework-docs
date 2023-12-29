@@ -3,6 +3,7 @@ title: Reindex
 ---
 
 # Reindex
+
 Build the Bedework index, look at list of index, point to new index.
 
 1. Log in to Events JMX (hawtio) or Steven JMX (hawtio).
