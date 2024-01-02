@@ -314,73 +314,83 @@ sidebar_position: 2
 /public/images/Rachel%20Sumner%202-201903250423-thumb.png
 ```
 
+## READing Paws
+
+```text
+/public/images/josie-paws-202401020355.jpg
+```
+
+```text
+/public/images/josie-paws-202401020355-thumb.png
+```
+
 ## Retelling History with Historic Photographs
 
-```
+```text
 /public/images/SCC_Lowe_photoexhibit-201910020953.jpg
 ```
 
-```
+```text
 /public/images/SCC_Lowe_photoexhibit-201910020953-thumb.png
 ```
 
 ## Magician Rodney Kelley
 
-```
+```text
 /public/images/resized_Rodney Kelley-202003260615.jpg
 ```
 
-```
+```text
 /public/images/resized_Rodney Kelley-202003260615-thumb.png
 ```
 
 ## The Porch Writers' Collective (new)
 
-```
+```text
 /public/images/the porch_new logo resized-202101260507.jpg
 ```
 
-```
+```text
 /public/images/the porch_new logo resized-202101260507-thumb.png
 ```
 
 ## Scott Tripp Balloon Guy
 
-```
+```text
 /public/images/ScottTripp_TheBalloonGu y-2-201810110355.png
 ```
 
-```
+```text
 /public/images/ScottTripp_TheBalloonGuy-2-201810110355-thumb.png
 ```
 
 ## Sock Rocerz
 
-```
+```text
 /public/images/SockRockerz_forBedework-201903280323.jpg
 ```
 
-```
+```text
 /public/images/SockRockerz_forBedework-201903280323-thumb.png
 ```
 
 ## Summer Reading Challenge
 
-```
+```text
 /public/images/SRC_Logo(CLR)_FINAL_bedework2-202105260554.jpg
 ```
 
-```
+```text
 /public/images/SRC_Logo(CLR)_FINAL_bedework2-202105260554-thumb.png
 ```
 
 ## Tennessee Language Center
 
-```
+```text
 /public/images/TLC_Stacked_Logo_resized-201912201257.jpg
 ```
 
-```
+```text
 /public/images/TLC_Stacked_Logo_resized-201912201257-thumb.png
 ```
 
