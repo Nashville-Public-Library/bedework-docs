@@ -4,29 +4,31 @@ title: Image Guidelines
 # Image Guidelines
 If there is an existing graphic / logo (story time, studio, etc.), use the established image as the thumbnail image in Bedework. Please don’t create a new image.
 
-Use the spreadsheet by going to Click here to choose from the library of images. You will have to use your keyboard shortcuts to copy (CTRL+C) / paste (CTRL+V) the links in the table into the Image URL and Thumbnail URL spaces. The links will begin `/public/img/`. If there is not an existing graphic, you may create an image for the thumbnail graphic in Bedework.
+Use the Library by going to Click here to choose from the library of images. You will have to use your keyboard shortcuts to copy (CTRL+C) / paste (CTRL+V) the links in the table into the Image URL and Thumbnail URL spaces. The links will begin `/public/img/`. If there is not an existing graphic, you may create an image for the thumbnail graphic in Bedework.
 - Calendar approvers will review the image.
 - Images submitted with events may be removed, remade, or replaced, at the approver’s discretion.
-- Accepted images will be added to the Images Spreadsheet accessible from the Bedework entry form for re-use next quarter.
+- Accepted images will be added to the Images Library accessible from the Bedework entry form for re-use next quarter.
 
 ## Size and Text Specifications
 
 - 	Max width: 400px
 - 	Max height: 600px
+- File size: Less than 100 KB
 - Thumbnail is automatically created when you upload an image. You may also create a separate thumbnail image. If you want to use a separate thumbnail image, email the images to Web Services and we’ll add them for you.
 - Do not leave white space around the image. White space is added automatically by the calendar stylesheet.
 -	Words in icon-type images (“Movie Friday” or “Chocolate Worms”) should be readable at thumbnail-size, which is 80px wide.
 
 ## Images are required for the following events:
 
--	Be Well at NPL (add image URL from image spreadsheet)
+-	Be Well at NPL (add image URL from image Library)
+- Book Clubs (add image URL from image Library)
 -	Exhibits (resize and upload artwork image) - must include image b/c they are displayed on Art at the Library page
--	Nashville Reads (add image URL from image spreadsheet)
--	Mental Health Outreach (add image URL from image spreadsheet)
--	Metro Social Services (add image URL from image spreadsheet)
--	Seed Exchange (add image URL from image spreadsheet)
--	Story Time (add image URL from image spreadsheet)
--	Wishing Chair Productions (add image URL from image spreadsheet)
+-	Nashville Reads (add image URL from image Library)
+-	Mental Health Outreach (add image URL from image Library)
+-	Metro Social Services (add image URL from image Library)
+-	Seed Exchange (add image URL from image Library)
+-	Story Time (add image URL from image Library)
+-	Wishing Chair Productions (add image URL from image Library)
 
 ## Finding Images
 
