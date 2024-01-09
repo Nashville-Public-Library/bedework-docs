@@ -4,6 +4,16 @@ sidebar_position: 2
 
 # System-wide Programs
 
+## Adventure Science Center
+
+```text
+/public/images/adventure-science-center-202401091111.jpg
+```
+
+```text
+/public/images/adventure-science-center-202401091111-thumb.png
+```
+
 ## American Red Cross
 
 ```text
