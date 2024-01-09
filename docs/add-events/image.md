@@ -26,7 +26,7 @@ Title: Image
 ### Option 2 - Upload an image to Bedework
 
 1. Find an image (see Image section of guide for copyright-friendly image sources) and save it to your computer.
-1. Resize the image. Max width for the calendar is 450px.
+1. Resize the image. See [Image Guidelines](../using-images/image-guidelines/#size-and-text-specifications) for specs and tips.
 1. Save the resized image to your computer. Make sure there are no blank spaces in the image file name (e.g., do not name an image “stack of books.jpg”).
 1. In the Image section of the Bedework event form (when adding an event), click Choose File.
 1. Find the resized image on your computer and click Open.
