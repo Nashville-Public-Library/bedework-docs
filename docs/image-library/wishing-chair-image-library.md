@@ -113,7 +113,7 @@ ellingtown illustration
 ```
 ## La La La
 ```
-/public/images/la-la-la-1-202312040400.jpg
+/public/images/la-la-la-1-202312040400-thumb.png
 ```
 ```
 /public/images/la-la-la-1-202312040400-thumb.png
