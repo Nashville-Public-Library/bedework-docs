@@ -246,21 +246,21 @@ sidebar_position: 2
 
 ## Nashville Opera
 
-```
+```text
 /public/images/NashvilleOperaLogo-202105260704.jpg
 ```
 
-```
+```text
 /public/images/NashvilleOperaLogo.jpg-202105260704-thumb.png
 ```
 
 ## Nashville Reads
 
-```
+```text
 /public/images/logo_cropped.jpg
 ```
 
-```
+```text
 /public/images/nashville_reads_thumb-201609291225.jpg
 ```
 
@@ -276,12 +276,12 @@ sidebar_position: 2
 
 ## Nashville Zoo
 
-```
-/public/images/resized_NASHVILLEZOO-202003260414.jpg
+```text
+/public/images/nashviile-zoo-grassmere-logo-202405291206.jpg
 ```
 
-```
-/public/images/resized_NASHVILLEZOO-202003260414-thumb.png
+```text
+/public/images/nashviile-zoo-grassmere-logo-202405291206-thumb.png
 ```
 
 ## National Museum of African American Music (NMAAM)
