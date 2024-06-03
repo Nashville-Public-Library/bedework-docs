@@ -7,21 +7,21 @@ title: Wishing Chair Productions Image Library
 ## Puppet Truck
 
 - For Image URL, use the use the Puppet Truck image.
-  
-```
+
+```text
 /public/images/puppet-truck-2-400px-202304170154.jpg
 ```
 
 - For Thumbnail URL, use the Puppet Truck thumb image.
 - Pictures must match for events to display correctly on the Wishing Chair home page.
-  
+
 ## Wishing Chair Productions Story Time
 
 - Use Story Time image and thumb from [series logos](../docs/image-library/series-logos-code-block.md) list. Pictures must match for events to display correctly on Wishing Chair Productions home page.
 
 ## Aesop's Fables
 
-```
+```text
 /public/images/aesop-resized-202303140126.jpg
 ```
 
@@ -29,61 +29,61 @@ title: Wishing Chair Productions Image Library
 /public/images/aesop-resized-202303140126-thumb.png
 ```
 
-```
+```text
 aesop's fables
 ```
 
 ## Ali Baba and the Forty Thieves
 
-```
-/public/images/ali-baba-wishing-chair-201612120330.jpg 
+```text
+/public/images/ali-baba-wishing-chair-201612120330.jpg
 ```
 
-```
+```text
 /public/images/ali-baba-wishing-chair-201612120330-thumb.png
 ```
 
-```
+```text
 Ali Baba
 ```
 
 ## Alice in Wonderland
 
-```
-/public/images/Alice_thumb-201609291232-thumb.png           
+```text
+/public/images/Alice_thumb-201609291232-thumb.png
 ```
 
 ## Amazing Twins: Ancient Maya Tales from the Popol Wuj
 
-```
-/public/images/amazing-201801311023.jpg                             
-```
-
-```
-/public/images/amazing-201801311023-thumb.png              
+```text
+/public/images/amazing-201801311023.jpg
 ```
 
+```text
+/public/images/amazing-201801311023-thumb.png
 ```
+
+```text
 amazing twins
 ```
 
 ## Anansi the Spider
 
-```
-/public/images/WishingChair_Anansi-201609291229.jpg                 
-```
-
-```
-/public/images/WishingChair_Anansi-201609291229-thumb.png   
+```text
+/public/images/WishingChair_Anansi-201609291229.jpg
 ```
 
+```text
+/public/images/WishingChair_Anansi-201609291229-thumb.png
 ```
+
+```text
 anansi
 ```
 
 ## Celebrated Jumping Frog of Calaveras County
 
-```
+```text
 http://nashvillepubliclibrary.org/wishingchair/files/2014/10/wishingchair_jumping-frog.jpg
 ```
 
@@ -93,55 +93,55 @@ frog illustration
 
 ## Child's Calendar
 
-```
-/public/images/wishingChair_childsCalendar-201609291230.jpg         
+```text
+/public/images/wishingChair_childsCalendar-201609291230.jpg
 ```
 
 ```
-/public/images/wishingChair_childsCalendar-201609291230-thumb.png 
+/public/images/wishingChair_childsCalendar-201609291230-thumb.png
 ```
 
 ## Cinderella
 
-```
-/public/images/wishing-chair-cinderella.jpg                         
+```text
+/public/images/wishing-chair-cinderella.jpg
 ```
 
-```
+```text
 /public/images/wishing-chair-cinderella-thumb.png
 ```
 
 ## Ellingtown
 
-```
-/public/images/wishingchair_ellingtown_300-201605241135.jpg         
+```text
+/public/images/wishingchair_ellingtown_300-201605241135.jpg
 ```
 
-```
+```text
 /public/images/wishingchair_ellingtown_300-201605241135-thumb.png
 ```
 
-```
+```text
 ellingtown illustration
 ```
 
 ## Frog Prince
 
-```
-/public/images/wishing-chair_frog-prince-201703021141.jpg          
+```text
+/public/images/wishing-chair_frog-prince-201703021141.jpg
 ```
 
-```
-/public/images/wishing-chair_frog-prince-201703021141-thumb.png                  
+```text
+/public/images/wishing-chair_frog-prince-201703021141-thumb.png
 ```
 
 ## Hansel and Gretel
 
-```
-/public/images/wishing-chair_hansel-and-gretel-201703021144.jpg     
+```text
+/public/images/wishing-chair_hansel-and-gretel-201703021144.jpg
 ```
 
-```
+```text
 /public/images/wishing-chair_hansel-and-gretel-201703021144-thumb.png
 ```
 
@@ -176,27 +176,27 @@ girl singing 'la la la'
 ```
 
 ```
-/public/images/SleepyHollowscary3resized-202106100255-thumb.png 
+/public/images/SleepyHollowscary3resized-202106100255-thumb.png
 ```
 
-## Library Pete and Friends
+## Library Pete's Rock n' Roll Puppet Show
 
-```
-/public/images/library-pete-image-202012110438.jpg
-```
-
-```
-/public/images/library-pete-image-202012110438-thumb.png 
+```text
+/public/images/bedework-racoon-202406030430.jpg
 ```
 
+```text
+/public/images/bedework-racoon-202406030430-thumb.png
 ```
-illustration of library pete with a guitar
+
+```
+racoon with guitar
 ```
 
 ## Little Rabbit Who Wanted Red Wings
 
 ```
-/public/images/wishingchair_rabbitRedWings-201605030614.jpg 
+/public/images/wishingchair_rabbitRedWings-201605030614.jpg
 ```
 
 ```
@@ -214,7 +214,7 @@ illustration of a rabbit with red wings
 ```
 
 ```
-/public/images/lorraine-book-cover-450-201906261204-thumb.png                      
+/public/images/lorraine-book-cover-450-201906261204-thumb.png
 ```
 
 ```
@@ -224,25 +224,25 @@ Lorraine book cover
 ## Many Moons
 
 ```
-/public/images/manymoonsbookcover-202109290304.jpg                  
+/public/images/manymoonsbookcover-202109290304.jpg
 ```
 
 ```
-/public/images/manymoonsbookcover-202109290304-thumb.png    
+/public/images/manymoonsbookcover-202109290304-thumb.png
 ```
 
 ## Momatoro
 
 ```
-/public/images/momotarocolor small-201801240155.jpg                
+/public/images/momotarocolor small-201801240155.jpg
 ```
 
 ```
-/public/images/momotarocolor small-201801240155-thumb.png   
+/public/images/momotarocolor small-201801240155-thumb.png
 ```
 
 ```
-illustration of momatoro                                 
+illustration of momatoro
 ```
 
 ## The Ordeal of Mr. Trifulgus
@@ -286,7 +286,7 @@ puppet truck
 ```
 
 ```
-/public/images/Puppet%20Truck%20-%20thumbnail%20v2_bedework-202005290431-thumb.png 
+/public/images/Puppet%20Truck%20-%20thumbnail%20v2_bedework-202005290431-thumb.png
 ```
 
 ```
@@ -314,7 +314,7 @@ puss in boots
 ```
 
 ```
-/public/images/skybear.small-202003090956-thumb.png         
+/public/images/skybear.small-202003090956-thumb.png
 ```
 
 ## Stonecutter
@@ -328,17 +328,17 @@ puss in boots
 ```
 
 ```
-illustration of a man in red clothes and hat  
+illustration of a man in red clothes and hat
 ```
 
 ## String City
 
 ```
-/public/images/PuppetFest_StringCity.jpg                            
+/public/images/PuppetFest_StringCity.jpg
 ```
 
 ```
-/public/images/string-city-logo-for-page-202003091007.jpg   
+/public/images/string-city-logo-for-page-202003091007.jpg
 ```
 
 ```
@@ -348,17 +348,17 @@ string city poster
 ## Tall Tale Circus
 
 ```
-/public/images/MN_talltales-201609291223.jpg                        
+/public/images/MN_talltales-201609291223.jpg
 ```
 
 ```
-/public/images/MN_talltales-201609291223-thumb.png          
+/public/images/MN_talltales-201609291223-thumb.png
 ```
 
 ## The Tempest
 
 ```
-/public/images/wishing-chair-tempest-201612301117.jpg               
+/public/images/wishing-chair-tempest-201612301117.jpg
 ```
 
 ```
@@ -368,7 +368,7 @@ string city poster
 ## Tomas and the Library Lady
 
 ```
-/public/images/Tomasbookcover2-202109290306.jpg                     
+/public/images/Tomasbookcover2-202109290306.jpg
 ```
 
 ```
@@ -377,7 +377,7 @@ string city poster
 
 ```
 tomas and the library lady
-```  
+```
 
 ## World of Mother Goose
 
