@@ -324,6 +324,16 @@ sidebar_position: 2
 /public/images/Rachel%20Sumner%202-201903250423-thumb.png
 ```
 
+## Read With Me
+
+```text
+/public/images/2024-claire-kiley-202407100351.jpg
+```
+
+```text
+/public/images/2024-claire-kiley-202407100351-thumb.png
+```
+
 ## READing Paws
 
 ```text
