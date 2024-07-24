@@ -6,6 +6,8 @@ sidebar_position: 4
 
 ![copy event](../img/copy-an-event.jpg)
 
+If you are adding an event, or event series, and event from an earlier date is already on the calendar, you can use it to recreate a new event.
+
 ## From an Existing event
 
 1. Using the search and date-picker functions, Find, and select, a past event on the calendar. Use "all groups" to broaden scope of search.
