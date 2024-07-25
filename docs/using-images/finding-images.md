@@ -6,16 +6,16 @@ sidebar_position: 1
 
 ## Images Owned / Purchased by NPL
 
--	Image Library
-    - Add with URL.
-    - Logo images
-    - Grab the URL from the spreadsheet to use the image in a calendar listing.
--	[Library Catalog](http://catalog.library.nashville.org)
-    - Add with URL.
-    - The library licenses the cover images used in the catalog from Syndetics. We pay for the rights to use those images. Copy link address and paste in the image field for your event.
--	[Nashville Public Library on Flickr](http://www.flickr.com/photos/nashvillepubliclibrary)
-    - Upload image.
-    - High-resolution event photos are saved to the library’s Flickr account.
+- Image Library
+  - Add with URL.
+  - Logo images
+  - Grab the URL from the spreadsheet to use the image in a calendar listing.
+- [Library Catalog](http://catalog.library.nashville.org)
+  - Add with URL.
+  - The library licenses the cover images used in the catalog from Syndetics. We pay for the rights to use those images. Copy link address and paste in the image field for your event.
+- [Nashville Public Library on Flickr](http://www.flickr.com/photos/nashvillepubliclibrary)
+  - Upload image.
+  - High-resolution event photos are saved to the library’s Flickr account.
 
 ## Using Images From Other Websites
 
