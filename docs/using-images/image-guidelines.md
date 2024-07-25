@@ -6,7 +6,7 @@ title: Image Guidelines
 
 If there is an existing graphic / logo (story time, studio, etc.), use the established image as the thumbnail image in Bedework. Please don’t create a new image.
 
-Use the _Image Library_ by going to <u>[Click here to choose from the library of images](../series-logos/)</u>. Use the copy graphic to copy the image URL path. Use your keyboard shortcuts to paste (CTRL+V) the path in the table into the Image URL and Thumbnail URL fields. The URL paths links will begin `/public/img/`. If there is not an existing graphic, you may create an image for the thumbnail graphic in Bedework.
+Use the _Image Library_ by going to <u>[Click here to choose from the library of images](/docs/image-library/series-logos.md/series-logos/)</u>. Use the copy graphic to copy the image URL path. Use your keyboard shortcuts to paste (CTRL+V) the path in the table into the Image URL and Thumbnail URL fields. The URL paths links will begin `/public/img/`. If there is not an existing graphic, you may create an image for the thumbnail graphic in Bedework.
 
 - Calendar approvers will review the image.
 - Images submitted with events may be removed, remade, or replaced, at the approver’s discretion.
