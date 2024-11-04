@@ -104,7 +104,7 @@ title: Series Logos
 /public/images/pop-event-icon-computer-tech-2_0-thumb.png
 ```
 
-## Dungeons and Dragons
+## Dungeons & Dragons
 
 ```text
 /public/images/Dandcover-202305311012.jpeg
@@ -282,16 +282,6 @@ title: Series Logos
 
 ```text
 /public/images/honeycomb-202312290147-thumb.png
-```
-
-## NPL Universe
-
-```
-/public/images/NPL_U_Bedework_detail-202004270955.jpg
-```
-
-```
-/public/images/NPL_U_Bedework_thumb-202004270948.png
 ```
 
 ## NPL Means Business
@@ -502,16 +492,6 @@ title: Series Logos
 
 ```
 /public/images/bedework-vote-large-201609291049.png
-```
-
-## Your Mind Matters
-
-```
-/public/images/ymm_logo-clr-202307241240.jpg
-```
-
-```
-/public/images/ymm_logo-clr-202307241240-thumb.png
 ```
 
 ## Zumba
