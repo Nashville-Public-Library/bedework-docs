@@ -14,6 +14,16 @@ title: Series Logos
 /public/images/aca-202211080958-thumb.png
 ```
 
+## Art Clip Art
+
+```text
+/public/images/art logo 1-202407030448.jpg
+```
+
+```text
+/public/images/art logo 1-202407030448-thumb.png
+```
+
 ## Banned Books Week
 
 ```text
@@ -27,7 +37,7 @@ title: Series Logos
 ## Be Well at NPL
 
 ```text
-/public/images/bedework-be-well-1-201708171105.jpg  
+/public/images/bedework-be-well-1-201708171105.jpg
 ```
 
 ```text
@@ -37,7 +47,7 @@ title: Series Logos
 ## Bi-Lingual Story Time (Spanish and English)
 
 ```text
-/public/images/bi-lingual-story-time-201612120353.png        
+/public/images/bi-lingual-story-time-201612120353.png
 ```
 
 ```text
@@ -74,6 +84,16 @@ title: Series Logos
 /public/images/bbtl-logo-202010121118-thumb.png
 ```
 
+## Cards (Spades)
+
+```text
+/public/images/spades-202410021048.png
+```
+
+```text
+/public/images/spades-202410021048-thumb.png
+```
+
 ## Computers and Technology
 
 ```text
@@ -84,6 +104,16 @@ title: Series Logos
 /public/images/pop-event-icon-computer-tech-2_0-thumb.png
 ```
 
+## Dungeons and Dragons
+
+```text
+/public/images/Dandcover-202305311012.jpeg
+```
+
+```text
+/public/images/Dandcover-202305311012-thumb.png
+```
+
 ## Financial Literacy
 
 ```
@@ -91,7 +121,7 @@ title: Series Logos
 ```
 
 ```text
-/public/images/financial-literacy-201607080422-thumb.png         
+/public/images/financial-literacy-201607080422-thumb.png
 ```
 
 ## Friends of Nashville Public Library
@@ -174,6 +204,16 @@ title: Series Logos
 /public/images/sack2-202112290338-thumb.png
 ```
 
+## Mahjong
+
+```text
+/public/images/mahjong logo-202407171231.jpg
+```
+
+```text
+/public/images/mahjong%20logo-202407171231-thumb.png
+```
+
 ## Mental Health Cooperative Outreach
 
 ```text
@@ -181,7 +221,7 @@ title: Series Logos
 ```
 
 ```
-/public/images/logo_mentalHealthCooperative-thumb.png           
+/public/images/logo_mentalHealthCooperative-thumb.png
 ```
 
 ## Metro Archives
@@ -314,6 +354,16 @@ title: Series Logos
 /public/images/seed-exchange-bedework-201902201102-thumb.png
 ```
 
+## Sewing
+
+```text
+/public/images/sew%20logo-202407160109.jpg
+```
+
+```text
+/public/images/sew%20logo-202407160109-thumb.png
+```
+
 ## Shakespeare Allowed
 
 ```
@@ -347,7 +397,7 @@ title: Series Logos
 ## Studio NPL
 
 ```
-/public/images/studio-npl-large.png                          
+/public/images/studio-npl-large.png
 ```
 
 ```
@@ -387,7 +437,7 @@ title: Series Logos
 ## Teens at Main
 
 ```
-/public/images/teens-at-main-202203070450.png               
+/public/images/teens-at-main-202203070450.png
 ```
 
 ```
