@@ -54,16 +54,6 @@ sidebar_position: 2
 /public/images/resized_Fantastic-Creatures-Logo-Final-1-202003240452-thumb.png
 ```
 
-## Artober
-
-```text
-/public/images/Artober_Web(Square)_bedework-202108270757.jpg
-```
-
-```text
-/public/images/Artober_Web(Square)_bedework-202108270757-thumb.png
-```
-
 ## Books Brothers
 
 ```text
@@ -344,16 +334,6 @@ sidebar_position: 2
 /public/images/josie-paws-202401020355-thumb.png
 ```
 
-## Retelling History with Historic Photographs
-
-```text
-/public/images/SCC_Lowe_photoexhibit-201910020953.jpg
-```
-
-```text
-/public/images/SCC_Lowe_photoexhibit-201910020953-thumb.png
-```
-
 ## Magician Rodney Kelley
 
 ```text
@@ -364,7 +344,7 @@ sidebar_position: 2
 /public/images/resized_Rodney Kelley-202003260615-thumb.png
 ```
 
-## The Porch Writers' Collective (new)
+## The Porch Writers' Collective
 
 ```text
 /public/images/the porch_new logo resized-202101260507.jpg

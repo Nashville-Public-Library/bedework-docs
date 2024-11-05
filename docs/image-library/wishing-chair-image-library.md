@@ -12,12 +12,13 @@ title: Wishing Chair Productions Image Library
 /public/images/puppet-truck-2-400px-202304170154.jpg
 ```
 
-- For Thumbnail URL, use the Puppet Truck thumb image.
-- Pictures must match for events to display correctly on the Wishing Chair home page.
+```text
+/public/images/puppet-truck-2-400px-202304170154-thumb.png
+```
 
 ## Wishing Chair Productions Story Time
 
-- Use Story Time image and thumb from [series logos](../docs/image-library/series-logos-code-block.md) list. Pictures must match for events to display correctly on Wishing Chair Productions home page.
+- Use Story Time image and thumb from [series logos](../docs/image-library/series-logos-code-block.md) list.
 
 ## Aesop's Fables
 
@@ -81,17 +82,7 @@ amazing twins
 anansi
 ```
 
-## Celebrated Jumping Frog of Calaveras County
-
-```text
-http://nashvillepubliclibrary.org/wishingchair/files/2014/10/wishingchair_jumping-frog.jpg
-```
-
-```
-frog illustration
-```
-
-## Child's Calendar
+## A Child's Calendar
 
 ```text
 /public/images/wishingChair_childsCalendar-201609291230.jpg
@@ -125,7 +116,7 @@ frog illustration
 ellingtown illustration
 ```
 
-## Frog Prince
+## The Frog Prince
 
 ```text
 /public/images/wishing-chair_frog-prince-201703021141.jpg
@@ -267,16 +258,6 @@ trifulgus sketch
 
 ```
 /public/images/puppet-show-black-80.png
-```
-
-## Puppet Truck
-
-```
-/public/images/puppet-truck-2-400px-202304170154-thumb.png
-```
-
-```
-puppet truck
 ```
 
 ## Puppet Truckin' with Mr. B
