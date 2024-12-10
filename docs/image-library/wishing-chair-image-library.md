@@ -102,6 +102,16 @@ anansi
 /public/images/wishing-chair-cinderella-thumb.png
 ```
 
+## The Celebrated Jumping Frog of Calaveras County
+
+```text
+/public/images/wishingchair_jumping-frog-202203210430.jpg
+```
+
+```text
+/public/images/wishingchair_jumping-frog-202203210430-thumb.png
+```
+
 ## Ellingtown
 
 ```text
