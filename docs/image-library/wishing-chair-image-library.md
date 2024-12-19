@@ -3,11 +3,11 @@ sidebar_position: 4
 title: Wishing Chair Productions
 ---
 
-# Wishing Chair Productions 
+# Wishing Chair Productions
 
 ## Puppet Truck
 
-- For Image URL, use the use the Puppet Truck image.
+- For Image URL, use the use the Puppet Truck image. For thumb, use the show.
 
 ```text
 /public/images/puppet-truck-2-400px-202304170154.jpg
@@ -19,7 +19,7 @@ title: Wishing Chair Productions
 
 ## Wishing Chair Productions Story Time
 
-- Use Story Time image and thumb from [series logos](../docs/image-library/series-logos-code-block.md) list.
+- Use Story Time image and thumb from [series logos](../docs/image-library/series-logos.md)
 
 ## Aesop's Fables
 
