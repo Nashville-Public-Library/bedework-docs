@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+title: System-wide Programs
 ---
 
 # System-wide Programs

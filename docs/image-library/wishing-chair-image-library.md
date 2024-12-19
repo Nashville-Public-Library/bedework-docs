@@ -1,8 +1,9 @@
 ---
-title: Wishing Chair Productions Image Library
+sidebar_position: 4
+title: Wishing Chair Production
 ---
 
-# Wishing Chair Productions Image Library
+# Wishing Chair Productions 
 
 ## Puppet Truck
 
