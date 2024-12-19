@@ -4,54 +4,14 @@ sidebar_position: 2
 
 # System-wide Programs
 
-## Adventure Science Center
+## Banned Books Week
 
 ```text
-/public/images/adventure-science-center-202401091111.jpg
+/public/images/NPL_BannedBooksWeek_450 (1)-201908211026.jpg
 ```
 
 ```text
-/public/images/adventure-science-center-202401091111-thumb.png
-```
-
-## American Red Cross
-
-```text
-/public/images/redcross-202304261034.jpg
-```
-
-```text
-/public/images/redcross-202304261034-thumb.png
-```
-
-## Animal Tales
-
-```text
-/public/images/animal-tales-logo-202105260617.png
-```
-
-```text
-/public/images/animal-tales-logo-202105260617-thumb.png
-```
-
-## Animal Tales - chamber of serpents
-
-```text
-/public/images/resized_chamber-of-serpents-logo-final-202003240433.jpg
-```
-
-```text
-/public/images/resized_chamber-of-serpents-logo-final-202003240433-thumb.png
-```
-
-## Animal Tales - fantastic creatures
-
-```text
-/public/images/resized_Fantastic-Creatures-Logo-Final-1-202003240452.jpg
-```
-
-```text
-/public/images/resized_Fantastic-Creatures-Logo-Final-1-202003240452-thumb.png
+/public/images/NPL_BannedBooksWeek_450 (1)-201908211026-thumb.png
 ```
 
 ## Books Brothers
@@ -62,16 +22,6 @@ sidebar_position: 2
 
 ```text
 /public/images/books-brothers-202102190213-thumb.png
-```
-
-## Country Music Hall of Fame
-
-```text
-/public/images/Country_Music_Hall_of_Fame_logo_resized-201912200315.jpg
-```
-
-```text
-/public/images/Country_Music_Hall_of_Fame_logo_resized-201912200315-thumb.png
 ```
 
 ## Farmer Jason
@@ -92,26 +42,6 @@ sidebar_position: 2
 
 ```
 /public/images/SCC_Lowe_freedomsongs-201910161243-thumb.png
-```
-
-## Frist Art Museum
-
-```
-/public/images/fristartmuseum_resized-201909300620.jpg
-```
-
-```
-/public/images/fristartmuseum_resized-201909300620-thumb.png
-```
-
-## Global Education
-
-```
-/public/images/globaleducationlogo-201909300515.jpg
-```
-
-```
-/public/images/globaleducationlogo-201909300515-thumb.png
 ```
 
 ## Hispanic Heritage Month (Spanish)
@@ -144,16 +74,6 @@ sidebar_position: 2
 /public/images/gardenhose-201909051052-thumb.png
 ```
 
-## Imagination Library
-
-```
-/public/images/Imgaination Library Small-201810100124.jpg
-```
-
-```
-/public/images/Imgaination Library Small-201810100124-thumb.png
-```
-
 ## Jacob Johnson
 
 ```
@@ -184,16 +104,6 @@ sidebar_position: 2
 /public/images/lee_con_klem-mari promo picture_bedework2-202009150648-thumb.png
 ```
 
-## Metro Parks
-
-```text
-/public/images/Metro-Parkslogo-202105260643.jpg
-```
-
-```text
-/public/images/Metro-Parkslogo-202105260643-thumb.png
-```
-
 ## Mr. Bond and the Science Guys
 
 ```text
@@ -212,76 +122,6 @@ sidebar_position: 2
 
 ```text
 /public/images/resized_mrrichsupersciencetn-202003260331-thumb.png
-```
-
-## Nashville Ballet
-
-```
-/public/images/nashville ballet_resized-202003260346.jpg
-```
-
-```
-/public/images/nashville ballet_resized-202003260346-thumb.png
-```
-
-## Nashville Dance Cooperative
-
-```
-/public/images/resized_nashvilledancecoop-202003260409.jpg
-```
-
-```
-/public/images/resized_nashvilledancecoop-202003260409-thumb.png
-```
-
-## Nashville Opera
-
-```text
-/public/images/NashvilleOperaLogo-202105260704.jpg
-```
-
-```text
-/public/images/NashvilleOperaLogo.jpg-202105260704-thumb.png
-```
-
-## Nashville Reads
-
-```text
-/public/images/logo_cropped.jpg
-```
-
-```text
-/public/images/nashville_reads_thumb-201609291225.jpg
-```
-
-## Nashville Symphony
-
-```text
-/public/images/nashville-symphony-thumb-202203101122-thumb-202302061152.png
-```
-
-```text
-/public/images/nashville-symphony-thumb-202203101122-thumb-202302061152.png
-```
-
-## Nashville Zoo
-
-```text
-/public/images/nashviile-zoo-grassmere-logo-202405291206.jpg
-```
-
-```text
-/public/images/nashviile-zoo-grassmere-logo-202405291206-thumb.png
-```
-
-## National Museum of African American Music (NMAAM)
-
-```
-/public/images/NMAAM logo-202105260611.jpg
-```
-
-```
-/public/images/NMAAM logo-202105260611-thumb.png
 ```
 
 ## Poetry, Prose, and Puppets with Dr. J
@@ -333,6 +173,25 @@ sidebar_position: 2
 ```text
 /public/images/josie-paws-202401020355-thumb.png
 ```
+## Read to Rise
+
+```
+/public/images/read-to-rise-bedework-201808141129.jpg
+```
+
+```
+/public/images/read-to-rise-bedework-201808141129-thumb.png
+```
+
+## Seed Exchange
+
+```
+/public/images/seed-exchange-bedework-201902201102.png
+```
+
+```
+/public/images/seed-exchange-bedework-201902201102-thumb.png
+```
 
 ## Magician Rodney Kelley
 
@@ -342,16 +201,6 @@ sidebar_position: 2
 
 ```text
 /public/images/resized_Rodney Kelley-202003260615-thumb.png
-```
-
-## The Porch Writers' Collective
-
-```text
-/public/images/the porch_new logo resized-202101260507.jpg
-```
-
-```text
-/public/images/the porch_new logo resized-202101260507-thumb.png
 ```
 
 ## Scott Tripp Balloon Guy
@@ -384,16 +233,6 @@ sidebar_position: 2
 /public/images/SRC_Logo(CLR)_FINAL_bedework2-202105260554-thumb.png
 ```
 
-## Tennessee Language Center
-
-```text
-/public/images/TLC_Stacked_Logo_resized-201912201257.jpg
-```
-
-```text
-/public/images/TLC_Stacked_Logo_resized-201912201257-thumb.png
-```
-
 ## Theo Wellington
 
 ```text
@@ -412,14 +251,4 @@ sidebar_position: 2
 
 ```text
 /public/images/resized_Sage and Tom by Andrew Rogers-202003270105-thumb.png
-```
-
-## Turnip Green
-
-```text
-/public/images/TGCR_Logo_FINAL-201909301233.jpg
-```
-
-```text
-/public/images/TGCR_Logo_FINAL-201909301233-thumb.png
 ```

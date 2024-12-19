@@ -24,16 +24,6 @@ title: Series Logos
 /public/images/art logo 1-202407030448-thumb.png
 ```
 
-## Banned Books Week
-
-```text
-/public/images/NPL_BannedBooksWeek_450 (1)-201908211026.jpg
-```
-
-```text
-/public/images/NPL_BannedBooksWeek_450 (1)-201908211026-thumb.png
-```
-
 ## Be Well at NPL
 
 ```text
@@ -178,16 +168,6 @@ title: Series Logos
 Hermitage Write-In
 ```
 
-## Homeless Services
-
-```text
-/public/images/OHS-Black-202407110113.png
-```
-
-```text
-/public/images/OHS-Black-202407110113-thumb.png
-```
-
 ## Homeschool Friends
 
 ```text
@@ -228,16 +208,6 @@ Hermitage Write-In
 /public/images/Knitting-101-202412190154-thumb.png
 ```
 
-## Legal Aid of Middle Tennessee and the Cumberlands
-
-```text
-/public/images/legal-aid-202308310331.jpg
-```
-
-```text
-/public/images/legal-aid-202308310331-thumb.png
-```
-
 ## LEGO
 
 ```text
@@ -266,16 +236,6 @@ Hermitage Write-In
 
 ```text
 /public/images/mahjong-202411250110-thumb.png
-```
-
-## Mental Health Cooperative Outreach
-
-```text
-/public/images/mentalHealthCooperative_logo-201907300123.jpg
-```
-
-```
-/public/images/logo_mentalHealthCooperative-thumb.png
 ```
 
 ## Metro Archives
@@ -376,26 +336,6 @@ Hermitage Write-In
 
 ```
 /public/images/npl-pride-logo-202208180942-thumb.png
-```
-
-## Read to Rise
-
-```
-/public/images/read-to-rise-bedework-201808141129.jpg
-```
-
-```
-/public/images/read-to-rise-bedework-201808141129-thumb.png
-```
-
-## Seed Exchange
-
-```
-/public/images/seed-exchange-bedework-201902201102.png
-```
-
-```
-/public/images/seed-exchange-bedework-201902201102-thumb.png
 ```
 
 ## Sewing
