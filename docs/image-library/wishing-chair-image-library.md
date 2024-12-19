@@ -112,6 +112,16 @@ anansi
 /public/images/wishingchair_jumping-frog-202203210430-thumb.png
 ```
 
+## Dinosaur Dimensions
+
+```text
+/public/images/dinosaur-dimensions-202412190123.jpg
+```
+
+```text
+/public/images/dinosaur-dimensions-202412190123-thumb.png
+```
+
 ## Ellingtown
 
 ```text
@@ -134,6 +144,16 @@ ellingtown illustration
 
 ```text
 /public/images/wishing-chair_frog-prince-201703021141-thumb.png
+```
+
+## Goldilocks
+
+```text
+/public/images/goldilocks-202412190124.jpg
+```
+
+```text
+/public/images/goldilocks-202412190124-thumb.png
 ```
 
 ## Hansel and Gretel
