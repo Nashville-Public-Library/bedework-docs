@@ -329,16 +329,6 @@ Hermitage Write-In
 /public/images/shakespeare-allowed_80px.png
 ```
 
-## Small World Yoga
-
-```
-/public/images/small world yoga logo-202105260654.png
-```
-
-```
-/public/images/small world yoga logo-202105260654-thumb.png
-```
-
 ## Story Time
 
 ```
@@ -409,16 +399,6 @@ Hermitage Write-In
 /public/images/teen%20time%20go-202307121237-thumb.png
 ```
 
-## VA Logo (veterans outreach)
-
-```
-/public/images/VA_logo-201609291227.jpg
-```
-
-```
-/public/images/VA_logo-201609291227-thumb.png
-```
-
 ## Vinyl Club
 
 ```
@@ -427,16 +407,6 @@ Hermitage Write-In
 
 ```
 /public/images/vinyl-club-201706271138-thumb.png
-```
-
-## VITA Tax Assistance
-
-```
-/public/images/vita-202211280114.jpg
-```
-
-```
-/public/images/vita-202211280114-thumb.png
 ```
 
 ## Votes for Women

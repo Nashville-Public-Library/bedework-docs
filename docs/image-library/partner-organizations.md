@@ -45,6 +45,16 @@ title: Partner Organizations
 /public/images/Country_Music_Hall_of_Fame_logo_resized-201912200315-thumb.png
 ```
 
+## Department of Labor (USA)
+
+```text
+/public/images/DOL-logo-202410021038.png
+```
+
+```text
+/public/images/DOL-logo-202410021038-thumb.png
+```
+
 ## Frist Art Museum
 
 ```
@@ -75,7 +85,7 @@ title: Partner Organizations
 /public/images/OHS-Black-202407110113-thumb.png
 ```
 
-## Imagination Library
+## Dolly Parton's Imagination Library
 
 ```
 /public/images/Imgaination Library Small-201810100124.jpg
@@ -205,6 +215,16 @@ title: Partner Organizations
 /public/images/the porch_new logo resized-202101260507-thumb.png
 ```
 
+## Small World Yoga
+
+```
+/public/images/small world yoga logo-202105260654.png
+```
+
+```
+/public/images/small world yoga logo-202105260654-thumb.png
+```
+
 ## Tennessee Language Center
 
 ```text
@@ -223,4 +243,24 @@ title: Partner Organizations
 
 ```text
 /public/images/TGCR_Logo_FINAL-201909301233-thumb.png
+```
+
+## Veterans Affairs
+
+```text
+/public/images/VA_logo-201609291227.jpg
+```
+
+```text
+/public/images/VA_logo-201609291227-thumb.png
+```
+
+## VITA Tax Assistance
+
+```text
+/public/images/vita-202211280114.jpg
+```
+
+```text
+/public/images/vita-202211280114-thumb.png
 ```
