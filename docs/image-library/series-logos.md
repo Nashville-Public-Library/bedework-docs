@@ -164,6 +164,20 @@ title: Series Logos
 /public/images/sew-logo-202412190133-thumb.png
 ```
 
+## Hermitage Write-In
+
+```text
+/public/images/write-in-202409241238-202410221119.png
+```
+
+```text
+/public/images/write-in-202409241238-202410221119-thumb.png
+```
+
+```text
+Hermitage Write-In
+```
+
 ## Homeless Services
 
 ```text
