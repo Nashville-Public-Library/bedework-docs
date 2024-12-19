@@ -1,9 +1,9 @@
 ---
 sidebar_position: 1
-title: topic Logos
+title: topic logos
 ---
  
-# Series Logos
+# Topic Logos
 
 ## Art Clip Art
 
@@ -14,17 +14,6 @@ title: topic Logos
 ```text
 /public/images/art logo 1-202407030448-thumb.png
 ```
-
-## Be Well at NPL
-
-```text
-/public/images/bedework-be-well-1-201708171105.jpg
-```
-
-```text
-/public/images/bedework-be-well-1-201708171105-thumb.png
-```
-
 ## Bi-Lingual Story Time (Spanish and English)
 
 ```text
@@ -54,17 +43,6 @@ title: topic Logos
 ```text
 /public/images/book-sale-calendar-icon_blue-text-201806191138.jpg
 ```
-
-## Bringing Books to Life
-
-```text
-/public/images/bbtl-logo-202010121118.jpg
-```
-
-```text
-/public/images/bbtl-logo-202010121118-thumb.png
-```
-
 ## Card Club
 
 ```text
@@ -105,7 +83,7 @@ title: topic Logos
 /public/images/english-convo-club-202412190138-thumb.png
 ```
 
-## Financial Literacy
+## Financial Literacy (Money)
 
 ```
 /public/images/financial-literacy-201607080422.jpg
@@ -113,16 +91,6 @@ title: topic Logos
 
 ```text
 /public/images/financial-literacy-201607080422-thumb.png
-```
-
-## Friends of Nashville Public Library
-
-```text
-/public/images/friends_bedework_white-201901110253.jpg
-```
-
-```text
-/public/images/friends_bedework_white-201901110253-thumb.png
 ```
 
 ## Gamers United
@@ -133,16 +101,6 @@ title: topic Logos
 
 ```text
 /public/images/GamersOn-202302071116-202304111111-thumb.png
-```
-
-## Sewing
-
-```text
-/public/images/sew-logo-202412190133.jpg
-```
-
-```text
-/public/images/sew-logo-202412190133-thumb.png
 ```
 
 ## Hermitage Write-In
@@ -228,17 +186,6 @@ Hermitage Write-In
 ```text
 /public/images/mahjong-202411250110-thumb.png
 ```
-
-## Metro Archives
-
-```
-/public/images/metro-archive-thumb-202205181048.png
-```
-
-```
-/public/images/metro-archive-thumb-202205181048-thumb.png
-```
-
 ## Movie Matinee (Adults)
 
 ```
@@ -257,16 +204,6 @@ Hermitage Write-In
 
 ```text
 /public/images/honeycomb-202312290147-thumb.png
-```
-
-## NPL Means Business
-
-```
-/public/images/npl-means-business-web-2-202203030358.jpg
-```
-
-```
-/public/images/npl-means-business-web-2-202203030358-thumb.png
 ```
 
 ## Panel Discussion
@@ -288,17 +225,6 @@ Hermitage Write-In
 ```
 /public/images/puppet-show-black-80.png
 ```
-
-## Pride NPL Logo
-
-```
-/public/images/npl-pride-logo-202208180942.jpg
-```
-
-```
-/public/images/npl-pride-logo-202208180942-thumb.png
-```
-
 ## Sewing
 
 ```text
@@ -328,17 +254,6 @@ Hermitage Write-In
 ```
 /public/images/story-time-large-thumb.png
 ```
-
-## Studio NPL
-
-```
-/public/images/studio-npl-large.png
-```
-
-```
-/public/images/studio-npl-thumb-thumb.png
-```
-
 ## STEAM
 
 ```
@@ -397,16 +312,6 @@ Hermitage Write-In
 
 ```
 /public/images/vinyl-club-201706271138-thumb.png
-```
-
-## Votes for Women
-
-```
-/public/images/votes-for-women-img-2023-202304130415.jpg
-```
-
-```
-/public/images/votes-for-women-img-2023-202304130415-thumb.png
 ```
 
 ## Voting
