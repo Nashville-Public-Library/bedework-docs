@@ -12,6 +12,16 @@ sidebar_position: 4
 /public/images/adventure-science-center-202401091111-thumb.png
 ```
 
+## Affordable Care Act
+
+```text
+/public/images/aca-202211080958.jpg
+```
+
+```text
+/public/images/aca-202211080958-thumb.png
+```
+
 ## American Red Cross
 
 ```text
@@ -102,6 +112,16 @@ sidebar_position: 4
 /public/images/logo_mentalHealthCooperative-thumb.png
 ```
 
+## Music for Seniors
+
+```
+/public/images/music-for-seniors-bedework-201805251210.jpg
+```
+
+```
+/public/images/music-for-seniors-bedework-201805251210.jpg
+```
+
 ## Nashville Ballet
 
 ```
@@ -160,6 +180,16 @@ sidebar_position: 4
 
 ```
 /public/images/NMAAM logo-202105260611-thumb.png
+```
+
+## NaNoWriMo
+
+```
+/public/images/NaNoWriMot-201610041148.png
+```
+
+```
+/public/images/NaNoWriMo_thumb-201610041148.png
 ```
 
 ## The Porch Writers' Collective

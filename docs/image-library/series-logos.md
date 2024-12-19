@@ -4,16 +4,6 @@ title: Series Logos
 
 # Series Logos
 
-## Affordable Care Act
-
-```text
-/public/images/aca-202211080958.jpg
-```
-
-```text
-/public/images/aca-202211080958-thumb.png
-```
-
 ## Art Clip Art
 
 ```text
@@ -266,26 +256,6 @@ Hermitage Write-In
 
 ```
 /public/images/movie-matinee-adults-202212050410-thumb.png
-```
-
-## Music for Seniors (partner logo)
-
-```
-/public/images/music-for-seniors-bedework-201805251210.jpg
-```
-
-```
-/public/images/music-for-seniors-bedework-201805251210.jpg
-```
-
-## NaNoWriMo
-
-```
-/public/images/NaNoWriMot-201610041148.png
-```
-
-```
-/public/images/NaNoWriMo_thumb-201610041148.png
 ```
 
 ## NAZA Honeycomb
