@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-title: Wishing Chair Production
+title: Wishing Chair Productions
 ---
 
 # Wishing Chair Productions 
