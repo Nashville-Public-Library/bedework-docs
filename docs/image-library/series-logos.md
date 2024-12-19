@@ -84,14 +84,14 @@ title: Series Logos
 /public/images/bbtl-logo-202010121118-thumb.png
 ```
 
-## Cards (Spades)
+## Card Club
 
 ```text
-/public/images/spades-202410021048.png
+/public/images/Black_White_Modern_Handwritten_Square_Studio_Logo_3_optimized_50-202411071253.png
 ```
 
 ```text
-/public/images/spades-202410021048-thumb.png
+/public/images/Black_White_Modern_Handwritten_Square_Studio_Logo_3_optimized_50-202411071253-thumb.png
 ```
 
 ## Computers and Technology
@@ -112,6 +112,16 @@ title: Series Logos
 
 ```text
 /public/images/Dandcover-202305311012-thumb.png
+```
+
+## English Conversation Club
+
+```text
+/public/images/english-convo-club-202412190138.png
+```
+
+```text
+/public/images/english-convo-club-202412190138-thumb.png
 ```
 
 ## Financial Literacy
@@ -144,6 +154,26 @@ title: Series Logos
 /public/images/GamersOn-202302071116-202304111111-thumb.png
 ```
 
+## Sewing
+
+```text
+/public/images/sew-logo-202412190133.jpg
+```
+
+```text
+/public/images/sew-logo-202412190133-thumb.png
+```
+
+## Homeless Services
+
+```text
+/public/images/OHS-Black-202407110113.png
+```
+
+```text
+/public/images/OHS-Black-202407110113-thumb.png
+```
+
 ## Homeschool Friends
 
 ```text
@@ -172,6 +202,16 @@ title: Series Logos
 
 ```text
 /public/images/kids-movie-matinee-201802270328-thumb.png
+```
+
+## Knitting 101
+
+```text
+/public/images/Knitting-101-202412190154.png
+```
+
+```text
+/public/images/Knitting-101-202412190154-thumb.png
 ```
 
 ## Legal Aid of Middle Tennessee and the Cumberlands
@@ -207,11 +247,11 @@ title: Series Logos
 ## Mahjong
 
 ```text
-/public/images/mahjong logo-202407171231.jpg
+/public/images/mahjong-202411250110.png
 ```
 
 ```text
-/public/images/mahjong%20logo-202407171231-thumb.png
+/public/images/mahjong-202411250110-thumb.png
 ```
 
 ## Mental Health Cooperative Outreach
@@ -347,11 +387,11 @@ title: Series Logos
 ## Sewing
 
 ```text
-/public/images/sew%20logo-202407160109.jpg
+/public/images/sew-logo-202412190133.jpg
 ```
 
 ```text
-/public/images/sew%20logo-202407160109-thumb.png
+/public/images/sew-logo-202412190133-thumb.png
 ```
 
 ## Shakespeare Allowed
