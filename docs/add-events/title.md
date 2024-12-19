@@ -71,10 +71,10 @@ Use these standard titles for all children's series. Any other special programs 
 | Tween                            | add “with Tweens” to above              |
 | Wishing Chair Weekly Story Time  | _Wishing Chair Productions Story Time_  |
 
-## NPL Universe / Online
+## Online
 
 Add "(Online)" to the end of your title.
-> _Professor’s Story Time (Online)_
+> _Saturday Book Club (Online)_
 
 ## Off-Site Events
 

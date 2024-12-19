@@ -122,8 +122,3 @@ both locations need to be in the same pipe
 
 - Edmondson Pike Studio
 <https://events.library.nashville.org/cal/main/setSelectionList.do?b=de&listMode=true&setappvar=bwFilters(|bwNav1-publicaliasesLocationsEdmondsonPike||bwNav3-useragrpcalsuiteMainCampusSeriesStudioNPL)&setappvar=bwQuery()>
-
-### Week to Week
-
-- See the Week-to-week view with descriptions in the results list:
-<https://events.library.nashville.org/cal/main/showEvents.rdo?b=de&setappvar=summaryMode(details)>
