@@ -239,16 +239,6 @@ Hermitage Write-In
 /public/images/metro-archive-thumb-202205181048-thumb.png
 ```
 
-## Metro Nashville Government Seal
-
-```
-/public/images/imageedit_3_5581218195-202110261200.png
-```
-
-```
-/public/images/imageedit_3_5581218195-202110261200-thumb.png
-```
-
 ## Movie Matinee (Adults)
 
 ```

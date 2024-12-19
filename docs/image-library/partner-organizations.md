@@ -105,6 +105,16 @@ title: Partner Organizations
 /public/images/legal-aid-202308310331-thumb.png
 ```
 
+## Metro Nashville Government Seal
+
+```
+/public/images/imageedit_3_5581218195-202110261200.png
+```
+
+```
+/public/images/imageedit_3_5581218195-202110261200-thumb.png
+```
+
 ## Metro Parks
 
 ```text
