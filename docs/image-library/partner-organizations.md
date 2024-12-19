@@ -65,6 +65,17 @@ title: Partner Organizations
 /public/images/fristartmuseum_resized-201909300620-thumb.png
 ```
 
+
+## Friends of Nashville Public Library
+
+```text
+/public/images/friends_bedework_white-201901110253.jpg
+```
+
+```text
+/public/images/friends_bedework_white-201901110253-thumb.png
+```
+
 ## Global Education
 
 ```

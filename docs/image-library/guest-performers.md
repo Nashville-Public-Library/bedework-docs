@@ -1,29 +1,9 @@
 ---
-sidebar_position: 2
-title: Systemwide Programs
+sidebar_position: 5
+title: Guest Performers
 ---
 
-# Systemwide Programs
-
-## Banned Books Week
-
-```text
-/public/images/NPL_BannedBooksWeek_450 (1)-201908211026.jpg
-```
-
-```text
-/public/images/NPL_BannedBooksWeek_450 (1)-201908211026-thumb.png
-```
-
-## Books Brothers
-
-```text
-/public/images/books-brothers-202102190213.jpg
-```
-
-```text
-/public/images/books-brothers-202102190213-thumb.png
-```
+# Guest Performers
 
 ## Farmer Jason
 
@@ -44,27 +24,6 @@ title: Systemwide Programs
 ```
 /public/images/SCC_Lowe_freedomsongs-201910161243-thumb.png
 ```
-
-## Hispanic Heritage Month (Spanish)
-
-```
-/public/images/HispanicHeritage_Web(Square)_SPN_bedework2-202009150635.jpg
-```
-
-```
-/public/images/HispanicHeritage_Web(Square)_SPN_bedework2-202009150635-thumb.png
-```
-
-## Hispanic Heritage Month (English)
-
-```
-/public/images/HispanicHeritage_Web(400x602)_ENG_SQR_bedework-202009150639.jpg
-```
-
-```
-/public/images/HispanicHeritage_Web(400x602)_ENG_SQR_bedework-202009150639-thumb.png
-```
-
 ## Howard Pink and Musical Garden Hoses
 
 ```
@@ -154,46 +113,6 @@ title: Systemwide Programs
 ```
 /public/images/Rachel%20Sumner%202-201903250423-thumb.png
 ```
-
-## Read With Me
-
-```text
-/public/images/2024-claire-kiley-202407100351.jpg
-```
-
-```text
-/public/images/2024-claire-kiley-202407100351-thumb.png
-```
-
-## READing Paws
-
-```text
-/public/images/josie-paws-202401020355.jpg
-```
-
-```text
-/public/images/josie-paws-202401020355-thumb.png
-```
-## Read to Rise
-
-```
-/public/images/read-to-rise-bedework-201808141129.jpg
-```
-
-```
-/public/images/read-to-rise-bedework-201808141129-thumb.png
-```
-
-## Seed Exchange
-
-```
-/public/images/seed-exchange-bedework-201902201102.png
-```
-
-```
-/public/images/seed-exchange-bedework-201902201102-thumb.png
-```
-
 ## Magician Rodney Kelley
 
 ```text
@@ -222,16 +141,6 @@ title: Systemwide Programs
 
 ```text
 /public/images/SockRockerz_forBedework-201903280323-thumb.png
-```
-
-## Summer Reading Challenge
-
-```text
-/public/images/SRC_Logo(CLR)_FINAL_bedework2-202105260554.jpg
-```
-
-```text
-/public/images/SRC_Logo(CLR)_FINAL_bedework2-202105260554-thumb.png
 ```
 
 ## Theo Wellington
