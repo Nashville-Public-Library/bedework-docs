@@ -1,8 +1,8 @@
 ---
 sidebar_position: 1
-title: Series Logos
+title: topic Logos
 ---
-
+ 
 # Series Logos
 
 ## Art Clip Art
