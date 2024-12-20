@@ -1,8 +1,8 @@
 ---
 sidebar_position: 1
-title: Topic logos
+title: Topic Logos
 ---
- 
+
 # Topic Logos
 
 ## Art Clip Art
@@ -14,6 +14,7 @@ title: Topic logos
 ```text
 /public/images/art logo 1-202407030448-thumb.png
 ```
+
 ## Bi-Lingual Story Time (Spanish and English)
 
 ```text
@@ -43,6 +44,7 @@ title: Topic logos
 ```text
 /public/images/book-sale-calendar-icon_blue-text-201806191138.jpg
 ```
+
 ## Card Club
 
 ```text
@@ -186,6 +188,7 @@ Hermitage Write-In
 ```text
 /public/images/mahjong-202411250110-thumb.png
 ```
+
 ## Movie Matinee (Adults)
 
 ```
@@ -225,6 +228,7 @@ Hermitage Write-In
 ```
 /public/images/puppet-show-black-80.png
 ```
+
 ## Sewing
 
 ```text
@@ -254,6 +258,7 @@ Hermitage Write-In
 ```
 /public/images/story-time-large-thumb.png
 ```
+
 ## STEAM
 
 ```
