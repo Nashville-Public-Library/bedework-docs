@@ -51,9 +51,8 @@ markdown_extensions:
   - attr_list
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_generator: !!python/name:materialx.emoji.to_svg # Page tree
 
-# Page tree
 nav:
   - Introduction: index.md
   - Add Events:
@@ -100,5 +99,4 @@ nav:
       - admin/training.md
       - admin/troubleshooting.md
       - admin/pixie-dust.md
-copyright:
-  c 2023 Metropolitan Government of Nashville and Davidson County, GNU GENERAL PUBLIC LICENSE.
+copyright: c 2025 Metropolitan Government of Nashville and Davidson County, GNU GENERAL PUBLIC LICENSE.
