@@ -193,7 +193,7 @@ girl singing 'la la la'
 
 ## Legend of Sleepy Hollow
 
-```
+```text
 /public/images/SleepyHollowscary3resized-202106100255.jpg
 ```
 

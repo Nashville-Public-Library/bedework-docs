@@ -165,6 +165,15 @@ title: Partner Organizations
 ```
 /public/images/nashville ballet_resized-202003260346-thumb.png
 ```
+## Nashville Children's Theatre
+
+```text
+/public/images/NCTLogo-202412190713-202412261057.png
+```
+
+```text
+/public/images/NCTLogo-202412190713-202412261057-thumb.png
+```
 
 ## Nashville Dance Cooperative
 
