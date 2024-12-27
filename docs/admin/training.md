@@ -7,27 +7,30 @@ Use Trello board to track and repeat all steps outlined, every quarter: <https:/
 
 ## Request Changes from Managers
 
-Send email to distribution lists: library branch managers, library main managers, library admin, Jenny Ellis, Jenny Lane, Allison Price
+Post to [NPL Announcements](https://metronashville.sharepoint.com/sites/NPLink/Lists/Daily%20Announcements/Landing%20Page%20View.aspx).
 
-```text
-Hi Everyone!
-
-We are ready to add events for the [Winter/Spring/Summer/Fall] quarter to the events calendar. In preparation, we want to provide Bedework calendar training for anyone at your location who needs an introduction or refresher. 
- 
-Please send me the names of employees who should attend online Bedework Orientation; and reserve off-desk time for them for one of these online sessions. Once practice assignments are complete, they will be added to your location.
-[Thursday, July 13. 3:00 p.m. CDT]
-[Friday, July 14. 09:30 a.m. CDT]
-Please notify me, if you have a new submitter at your location. (See List)
-
-Alert me, if there are any staff-submitters no longer at your location. I will update their access.
-
-Due to vacancies and transfers, we are not removing anyone based on depth this quarter. Please notify Kyle Cook if you have any staff who are:
-* are a new submitter at your location. (See List) 
-* are no longer at your location; he will change/evoke their access. (See List)
-* would like to attend calendar training sessions, as a refresher.
- 
-I will notify individuals and managers about the dates for [March, 2022] event submission training sessions.  Please contact me with any questions.
-(attach list of current submitters)
+```html
+<!DOCTYPE html>
+<html>
+<div class="ExternalClass7DC1C0BACADD4B1CA08D39A3E049850F">
+   <p>Managers,</p>
+   <p> We are getting ready to add events for the Spring, 2025 quarter to the events calendar. In preparation, we want to provide Bedework calendar training for anyone at your location who needs an introduction or refresher. </p>
+   <p>Please send to 
+      <a href="mailto:kyle.cook@nashville.gov" title="email Kyle Cook" target="_blank">Kyle Cook</a> the names of employees who should attend online Bedework Orientation; and reserve off-desk time for them for one of these online sessions. Once practice assignments are complete, they will be added to your location&#39;s approval queue. </p>
+   <ul>
+      <li> Wednesday, Jan 29, 2025. 10:00 AM CST </li>
+      <li> Thursday, Jan 30, 2025. 2:00 PM CST </li>
+   </ul>
+   <p> Due to vacancies and transfers, we are not removing anyone based on depth this quarter. Please notify Kyle Cook if you have any staff who </p>
+   <ul>
+      <li> are a new submitter at your location.</li>
+      <li> are no longer at your location; he will change/evoke their access.<br/> </li>
+      <li> would like to attend calendar training sessions, as a refresher. </li>
+   </ul>
+   <p> Use submitters list below, for reference. I will notify individuals and managers with calendar invite for the WebEx training sessions. Choose one. Please contact Kyle Cook with any questions. </p>
+   <h2> 
+      <a href="/:l:/s/NPLWebDevelopment/FHX2jii9-xRMgZYJPwQmtwUB0dRdzKBnBxjwqXpMWlIM9A" target="_blank">Bedework Calendar Staff Submitters</a><br/> </h2>
+</div> 
 ```
 
 ## Move/Delete/Add Submitters (Update Based on Managers Response)
@@ -45,30 +48,53 @@ I will notify individuals and managers about the dates for [March, 2022] event s
 
 ```text
 SUBJECT: Please Begin Adding Events for Next Quarter to Library Calendar (Bedework)
+```
 
-Please add all confirmed events for the {Fall quarter, SEP-OCT-NOV, 2023}. There is no deadline, no print publication. Please add within the three month increments (Dec Jan Feb / Mar Apr May / Jun Jul Aug / Sep Oct Nov). Do not add events scheduled more than nine months ahead.
-
-It is best to add regular recurring programs as early as possible. We use this process to confirm whether event series are continuing into the next quarter. This allows Marketing-Communications adequate notice for publicity. Do not list any events on social media or public communications before they are added to the events calendar.
-  
-  Events Calendar Admin Login: https://events.library.nashville.org/caladmin
-
-  Bedework User Guide: https://nashville-public-library.github.io/bedework-docs/
-
-    Guide combines all directions you need to fill out the 'Add Events' form
-
-  Copy an Event: https://nashville-public-library.github.io/bedework-docs/orientation/copy-event/) 
-
-    Instructions for repurposing existing event for next quarter
-
- Let us know if you would like to attend a 30-minute Bedework Calendar orientation as a new submitter, or as a refresher. We will send you an invite to our upcoming WebEx demonstrations.
-
-Library Closed Dates: Sep 4, Nov 10, 11, 23, 24
-
-Please check your location’s information on the following webpages. Email Kyle Cook and Jenny Ellis, to let us know of any changes to these listings.
-
-     Story Time: https://library.nashville.org/event/story-time  
-     Book Clubs: https://library.nashville.org/event/book-clubs 
-     Studio NPL: https://library.nashville.org/events/studio-npl 
+```html
+<!DOCTYPE html>
+<html>
+  <div class="ExternalClass5DDFF1CE298349F6A5219376C0D9B336">
+   <p>​Please add all confirmed events for the Winter (DEC-JAN-FEB) 2024 quarter.  Please add within the three month increments (Dec Jan Feb / Mar Apr May / Jun Jul Aug / Sep Oct Nov). 
+      <span>
+         <br/></span></p>
+   <p> Add regular recurring programs as early as possible. We use this process to confirm whether events series are continuing into the next quarter. This also allows MarComm adequate notice for publicity. 
+      <br/>
+      <br/>
+      <span style="text-decoration: underline;">Events Calendar Admin Login </span>
+      <a href="https://events.library.nashville.org/caladmin" target="_blank">
+         <br style="text-decoration: underline;"/>https://events.library.nashville.org/caladmin</a><br/><br/><span style="text-decoration: underline;">Bedework User Guide</span><br style="text-decoration: underline;"/><a href="https://nashville-public-library.github.io/bedework-docs/" target="_blank">https://nashville-public-library.github.io/bedework-docs/<br/></a>Guide combines all directions you need to fill out the &#39;Add Events&#39; form<br/></p>
+   <p>
+      <span style="text-decoration: underline;">Copy an Event </span>
+      <a href="https://nashville-public-library.github.io/bedework-docs/orientation/copy-event/" target="_blank">
+         <br style="text-decoration: underline;"/>https://nashville-public-library.github.io/bedework-docs/orientation/copy-event/</a> 
+      <br/>Instructions for repurposing existing event for next quarter</p>
+   <p>
+      <span style="text-decoration: underline;">Important</span><br/></p>
+   <ul>
+      <li>
+         <strong>Remove recurring events that fall on library </strong>
+         <a href="https://events.library.nashville.org/cal/main/listEvents.do?b=de&amp;listMode=true&amp;setappvar=bwFilters%28%7c%7c%7cbwNav3-useragrpcalsuiteMainCampusSeriesClosed%29&amp;setappvar=bwQuery%28%29" target="_blank">
+            <strong>Closed Dates.</strong></a></li>
+      <li>
+         <span><span>Do not add events scheduled more than six months ahead.</span></span></li>
+      <li>
+         <span><span><span><span><span><span>Do not list any events on social media  before they are added to the events calendar.</span></span></span></span></span></span></li>
+      <li>
+         <span><span><span><span><span><span>Alert Kyle Cook and Jenny Ellis, if your event is planned within the next two weeks; they will expedite approval.</span></span></span></span></span></span><br/></li>
+   </ul>
+   <p>Please check your location’s information on the following webpages. Email Kyle Cook any changes to these static listings.<br/><br/><span style="text-decoration: underline;">Story Time</span><br style="text-decoration: underline;"/><a href="https://library.nashville.org/event/story-time" target="_blank">https://library.nashville.org/event/story-time</a>&#160;&#160;</p>
+   <p>
+      <span style="text-decoration: underline;">Book Clubs </span>
+      <br style="text-decoration: underline;"/>
+      <a href="https://library.nashville.org/event/book-clubs" target="_blank">https://library.nashville.org/event/book-clubs </a></p>
+   <p>
+      <span style="text-decoration: underline;">Studio NPL </span>
+      <br style="text-decoration: underline;"/>
+      <a href="https://library.nashville.org/events/studio-npl" target="_blank">https://library.nashville.org/events/studio-npl</a></p>
+   <span>
+      <p>Email Kyle Cook, if you would like to attend a 30-minute Bedework Calendar orientation as a new submitter, or as a refresher. 
+         <br/>
+         <br/>He will send you an invite to our upcoming WebEx demonstrations on Friday, Nov,  15; Monday, Nov 18, 2024.</p></span></div>
 ```
 
 ## Plan Quarterly Training
