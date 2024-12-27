@@ -9,6 +9,10 @@ Use Trello board to track and repeat all steps outlined, every quarter: <https:/
 
 Post to [NPL Announcements](https://metronashville.sharepoint.com/sites/NPLink/Lists/Daily%20Announcements/Landing%20Page%20View.aspx).
 
+```text
+SUBJECT: Bedework Events Calendar Orientation. MMM ##, YYYY
+```
+
 ```html
 <!DOCTYPE html>
 <html>
@@ -21,7 +25,8 @@ Post to [NPL Announcements](https://metronashville.sharepoint.com/sites/NPLink/L
       <li> Wednesday, Jan 29, 2025. 10:00 AM CST </li>
       <li> Thursday, Jan 30, 2025. 2:00 PM CST </li>
    </ul>
-   <p> Due to vacancies and transfers, we are not removing anyone based on depth this quarter. Please notify Kyle Cook if you have any staff who </p>
+   <p> Due to vacancies and transfers, we are not removing anyone based on depth this quarter. Please notify Kyle Cook if you have any staff who 
+   </p>
    <ul>
       <li> are a new submitter at your location.</li>
       <li> are no longer at your location; he will change/evoke their access.<br/> </li>
@@ -36,15 +41,15 @@ Post to [NPL Announcements](https://metronashville.sharepoint.com/sites/NPLink/L
 ## Move/Delete/Add Submitters (Update Based on Managers Response)
 
 1. Add usernames to Bedework Users, Groups.
-2. Remove usernames in Bedework Users, Groups.
-3. Update the Bedework Submitters List with current list staff locations.
-4. Note staff who need training in the Training list.
+1. Remove usernames in Bedework Users, Groups.
+1. Update the Bedework Submitters List with current list staff locations.
+1. Note staff who need training in the Training list.
 
 ## Schedule Quarterly Training Event Dates
 
 1. Email the branch managers to confirm the list of Bedework submitters for a location (above).
-2. Move users to new Bedework groups based on response from managers.
-3. Post notice to Intranet for all library staff.
+1. Move users to new Bedework groups based on response from managers.
+1. Post notice to Intranet for all library staff.
 
 ```text
 SUBJECT: Please Begin Adding Events for Next Quarter to Library Calendar (Bedework)
@@ -108,20 +113,14 @@ SUBJECT: Please Begin Adding Events for Next Quarter to Library Calendar (Bedewo
 1. Log new user accounts in
 
 ```text
-https://metronashville.sharepoint.com/:x:/r/sites/NPLWebDevelopment/Shared%20Documents/Bedework%20Staff%20Submitters%20Account%20Creation%20_%20Management%20Checklist.xlsx
+https://metronashville.sharepoint.com/:l:/s/NPLWebDevelopment/FHX2jii9-xRMgZYJPwQmtwUB0dRdzKBnBxjwqXpMWlIM9A
 ```
 
 ## Prepare for Quarterly Training
 
 1. Make example entries for the trainees to add to Bedework using examples in the saved Word Document, Bedework Events Calendar Entry Worksheet
-2. Prepare any handouts or follow-up emails (usernames, passwd)
-3. Make any notes you see that need to be updated
-4. Prepare orientation Notes
+1. Prepare any handouts or follow-up emails (usernames, passwd)
+1. Make any notes you see that need to be updated
+1. Prepare orientation Notes
 
 ## Perform Orientation
-
-## Take attendance for each session
-
-## Homework
-
-## Graduation
