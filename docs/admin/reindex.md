@@ -1,5 +1,6 @@
 ---
 title: Reindex
+sidebar_position: 5
 ---
 
 # Reindex

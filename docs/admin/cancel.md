@@ -1,5 +1,6 @@
 ---
 title: Cancel or Reschedule
+sidebar_position: 3
 ---
 
 # Cancel or Reschedule

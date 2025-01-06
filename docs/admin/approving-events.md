@@ -1,5 +1,6 @@
 ---
 title: Approving Events
+sidebar_position: 1
 ---
 
 # Approving Events

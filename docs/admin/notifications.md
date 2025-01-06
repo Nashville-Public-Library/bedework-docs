@@ -1,5 +1,6 @@
 ---
 title: Clear Notifications
+sidebar_position: 6
 ---
 
 # Clear Notifications

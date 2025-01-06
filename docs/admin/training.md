@@ -1,5 +1,6 @@
 ﻿---
 title: Bedework Staff Training Manual 
+sidebar_position: 8
 ---
 # Bedework Staff Training Manual
 

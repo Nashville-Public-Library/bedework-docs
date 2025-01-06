@@ -1,5 +1,6 @@
 ---
 Title: Adding a Topical Area
+sidebar_position: 2
 ---
 
 # Adding a Topical Area

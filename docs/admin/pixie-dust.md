@@ -1,5 +1,6 @@
 ---
 title: Pixie Dust
+sidebar_position: 10
 ---
 
 # Pixie Dust

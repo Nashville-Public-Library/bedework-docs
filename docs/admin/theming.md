@@ -1,5 +1,6 @@
 ---
 title: Theme
+sidebar_position: 7
 ---
 
 # Theme
