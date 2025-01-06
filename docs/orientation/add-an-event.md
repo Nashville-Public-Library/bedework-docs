@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+title: Add an Event
 ---
 
 # Add an Event
@@ -11,4 +12,4 @@ sidebar_position: 2
 1. Click Add Event.
 1. Fill out the Event Information form.
 1. Click Add Event at the end of the form.
-1. If you added a recurring event, click on the Approval Queue tab and delete any instances that fall on holidays or days when your event is not taking place. Also delete any instances for special story times or other events that need separate listings in _Unbound_.
+1. If you added a recurring event, click on the Approval Queue tab and delete any instances that fall on holidays or days when your event is not taking place. Also delete any instances for special story times or other events that need separate listings.

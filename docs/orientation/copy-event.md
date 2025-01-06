@@ -1,4 +1,5 @@
 ---
+title: Copy an Event
 sidebar_position: 4
 ---
 

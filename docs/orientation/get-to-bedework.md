@@ -1,4 +1,5 @@
 ---
+title: How to Get to Bedework
 sidebar_position: 1
 ---
 

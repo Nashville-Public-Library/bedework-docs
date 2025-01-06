@@ -1,4 +1,5 @@
 ---
+title: Edit / Delete an Event
 sidebar_position: 3
 ---
 # Edit / Delete an Event
