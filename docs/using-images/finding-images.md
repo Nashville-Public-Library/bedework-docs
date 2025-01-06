@@ -1,5 +1,6 @@
 ---
-sidebar_position: 1
+title: Finding Copyright-Friendly Images
+sidebar_position: 2
 ---
 
 # Finding Copyright-Friendly Images
@@ -21,4 +22,5 @@ sidebar_position: 1
 
 - If you find an image you like on a non-library website, look for copyright info for images. Ask the site owner for permission to use their image.
 
-- When using an image from a non-library source, DO NOT use the “Add Media from URL” option. After properly resizing the image, save it and upload it.
+- When using an image from a non-library source, DO NOT use the “Add Media from URL” option. After properly resizing the image, save it and upload it to the library’s website.
+- If you are using an image from a non-library source, you must credit the source of the image in the image description field.

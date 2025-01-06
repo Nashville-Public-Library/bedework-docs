@@ -1,5 +1,6 @@
 ---
 Title: Contact
+sidebar_position: 11
 ---
 # Contact
 

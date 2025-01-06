@@ -1,13 +1,15 @@
 ---
 Title: Series
+sidebar_position: 13
 ---
+
 # Series
 
 ## Book Clubs
 
-Enter book clubs as recurring events (master event). Then add additional info to each instance of the master.
-Bedework displays the info added to each instance (specific title for the event date,).
-Add Book Club image from Image Library to entries.
+* Enter book clubs as recurring events (master event). Then add additional info to each instance of the master.
+* Bedework displays the info added to each instance (specific title for the event date,).
+* Add Book Club image from Image Library to entries.
 
 ### Master Listing Template
 

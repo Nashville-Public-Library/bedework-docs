@@ -1,5 +1,6 @@
 ---
 title: Recurrence Pattern
+sidebar_position: 3
 ---
 
 # Recurrence Pattern

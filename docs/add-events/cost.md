@@ -1,5 +1,6 @@
 ---
 Title: Cost
+sidebar_position: 7
 ---
 #  Cost
 

@@ -1,5 +1,6 @@
 ---
 Title: Location
+sidebar_position: 10
 ---
 #  Location
 

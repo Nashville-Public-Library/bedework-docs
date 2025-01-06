@@ -1,5 +1,6 @@
 ---
 title: Recurrence Rules
+sidebar_position: 4
 ---
 
 # Recurrence Rules or Dates

@@ -1,5 +1,6 @@
 ---
 title: Public Events at Main Library
+sidebar_position: 14
 ---
 
 # Public Events at Main Library
