@@ -19,7 +19,7 @@ title: Wishing Chair Productions
 
 ## Wishing Chair Productions Story Time
 
-- Use Story Time image and thumb from [series logos](series-logos.md)
+- Use Story Time image and thumb from [topic logos](topic-logos.md/#story-time)
 
 ## Aesop's Fables
 
