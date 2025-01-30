@@ -77,8 +77,10 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+
 # VS Code IDE
-.vscode/
+*.vscode
+*.code-workspace.vscode/
 
 # IPython
 profile_default/
@@ -161,6 +163,3 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-# VS Code Files
-
-*.code-workspace
