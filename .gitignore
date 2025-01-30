@@ -80,7 +80,7 @@ target/
 
 # VS Code IDE
 *.vscode
-*.code-workspace.vscode/
+*.code-workspace
 
 # IPython
 profile_default/
