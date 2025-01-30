@@ -163,4 +163,4 @@ cython_debug/
 
 # VS Code Files
 
-bedework-docs.code-workspace
+*.code-workspace
