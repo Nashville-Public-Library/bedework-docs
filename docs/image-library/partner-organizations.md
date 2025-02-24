@@ -65,7 +65,6 @@ title: Partner Organizations
 /public/images/fristartmuseum_resized-201909300620-thumb.png
 ```
 
-
 ## Friends of Nashville Public Library
 
 ```text
@@ -165,6 +164,7 @@ title: Partner Organizations
 ```
 /public/images/nashville ballet_resized-202003260346-thumb.png
 ```
+
 ## Nashville Children's Theatre
 
 ```text
@@ -243,6 +243,16 @@ title: Partner Organizations
 
 ```text
 /public/images/the porch_new logo resized-202101260507-thumb.png
+```
+
+## Read With Me
+
+```text
+/public/images/2024-claire-kiley-202407100351.jpg
+```
+
+```text
+/public/images/2024-claire-kiley-202407100351-thumb.png
 ```
 
 ## Small World Yoga
