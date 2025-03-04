@@ -53,6 +53,15 @@ Choose your recurrence method. There are two ways to add recurrences. Choose Onl
    1. Look at the Recurrence section of the form. Recurrence pattern will be transformed into natural-ish language.
    1. Go back to the Approval Queue and scroll down to verify the recurrence has added all the correct dates.
 
+## Remove Any Date Exceptions
+
+To remove an event that falls on a closed date,
+
+1. Go to the Approval Queue.
+1. Click on the event title, next to the closed date.
+1. Click on Delete Event in the top-right.
+1. Click Yes: Delete Event to confirm.
+
 ## Delete All Duplicate Recurrences
 
 All events entered as recurring events will be condensed into one listing. If you have a special themed story time, you must delete the instance from the recurring event, then re-add the special story time as a separate event.
@@ -60,6 +69,6 @@ All events entered as recurring events will be condensed into one listing. If yo
 For example, Miss Sue’s Story Time starts on December 1st and repeats 12 times in the calendar. But Gnash is coming on December 15th. Here’s how Sue will add this to the calendar:
 
 1. Sue will add "Miss Sue’s Story Time" to the calendar as a recurring event.
-1. After saving her event, Sue will click on the `Approval Queue` tab and find the December 15th instance of her event and click on the word `instance` (in the description column) .
-1. Once in edit mode for that December 15th instance, Sue will click `Delete Event`.
-1. Now Sue will add a new event just for the December 15th Gnash story time.
+2. After saving her event, Sue will click on the `Approval Queue` tab and find the December 15th instance of her event and click on the title of the event.
+3. Once in edit mode for that December 15th instance, Sue will click `Delete Event`.
+4. Now Sue will add a new event just for the December 15th Gnash story time.
