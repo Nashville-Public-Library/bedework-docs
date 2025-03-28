@@ -55,6 +55,16 @@ title: Topic Logos
 /public/images/Black_White_Modern_Handwritten_Square_Studio_Logo_3_optimized_50-202411071253-thumb.png
 ```
 
+## Coloring Club
+
+```text
+/public/images/COLORING%20CLUB%20(1)-202312190250.jpg
+```
+
+```text
+/public/images/COLORING CLUB (1)-202312190250-thumb.png
+```
+
 ## Computers and Technology
 
 ```text
@@ -289,43 +299,53 @@ Hermitage Write-In
 /public/images/Summer-Lunch-at-NPL-201805240219-thumb.png
 ```
 
+## Tai Chi
+
+```text
+/public/images/tai%20chi-202310110106.png
+```
+
+```text
+/public/images/tai%20chi-202310110106-thumb.png
+```
+
 ## Teens at Main
 
-```
+```text
 /public/images/teens-at-main-202203070450.png
 ```
 
-```
+```text
 /public/images/teens-at-main-202203070450-thumb.png
 ```
 
 ## Teen Time Go
 
-```
+```text
 /public/images/teen%20time%20go-202307121237.png
 ```
 
-```
+```text
 /public/images/teen%20time%20go-202307121237-thumb.png
 ```
 
 ## Vinyl Club
 
-```
+```text
 /public/images/vinyl-club-201706271138.png
 ```
 
-```
+```text
 /public/images/vinyl-club-201706271138-thumb.png
 ```
 
 ## Voting
 
-```
+```text
 /public/images/bedework-vote-large-201609291049.png
 ```
 
-```
+```text
 /public/images/bedework-vote-large-201609291049.png
 ```
 

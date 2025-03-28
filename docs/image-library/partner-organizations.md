@@ -85,7 +85,7 @@ title: Partner Organizations
 /public/images/globaleducationlogo-201909300515-thumb.png
 ```
 
-## Homeless Services
+## Office of Homeless Services
 
 ```text
 /public/images/OHS-Black-202407110113.png
@@ -97,11 +97,11 @@ title: Partner Organizations
 
 ## Dolly Parton's Imagination Library
 
-```
+```text
 /public/images/Imgaination Library Small-201810100124.jpg
 ```
 
-```
+```text
 /public/images/Imgaination Library Small-201810100124-thumb.png
 ```
 
@@ -117,11 +117,11 @@ title: Partner Organizations
 
 ## Metro Nashville Government Seal
 
-```
+```text
 /public/images/imageedit_3_5581218195-202110261200.png
 ```
 
-```
+```text
 /public/images/imageedit_3_5581218195-202110261200-thumb.png
 ```
 
@@ -147,21 +147,21 @@ title: Partner Organizations
 
 ## Music for Seniors
 
-```
+```text
 /public/images/music-for-seniors-bedework-201805251210.jpg
 ```
 
-```
+```text
 /public/images/music-for-seniors-bedework-201805251210.jpg
 ```
 
 ## Nashville Ballet
 
-```
+```text
 /public/images/nashville ballet_resized-202003260346.jpg
 ```
 
-```
+```text
 /public/images/nashville ballet_resized-202003260346-thumb.png
 ```
 
@@ -177,11 +177,11 @@ title: Partner Organizations
 
 ## Nashville Dance Cooperative
 
-```
+```text
 /public/images/resized_nashvilledancecoop-202003260409.jpg
 ```
 
-```
+```text
 /public/images/resized_nashvilledancecoop-202003260409-thumb.png
 ```
 
@@ -205,6 +205,16 @@ title: Partner Organizations
 /public/images/nashville-symphony-thumb-202203101122-thumb-202302061152.png
 ```
 
+## Nashville Street Project
+
+```text
+/public/images/nashville-street-project-202503281036.png
+```
+
+```text
+/public/images/nashville-street-project-202503281036-thumb.png
+```
+
 ## Nashville Zoo
 
 ```text
@@ -215,24 +225,44 @@ title: Partner Organizations
 /public/images/nashviile-zoo-grassmere-logo-202405291206-thumb.png
 ```
 
+## Nashville Department of Waste Services
+
+```text
+/public/images/ndws-202503281016.png
+```
+
+```text
+/public/images/ndws-202503281016-thumb.png
+```
+
 ## National Museum of African American Music (NMAAM)
 
-```
+```text
 /public/images/NMAAM logo-202105260611.jpg
 ```
 
-```
+```text
 /public/images/NMAAM logo-202105260611-thumb.png
 ```
 
 ## NaNoWriMo
 
-```
+```text
 /public/images/NaNoWriMot-201610041148.png
 ```
 
-```
+```text
 /public/images/NaNoWriMo_thumb-201610041148.png
+```
+
+## Oasis Center
+
+```text
+/public/images/Oasis-Center-Logo-202503281045.png
+```
+
+```text
+/public/images/Oasis-Center-Logo-202503281045-thumb.png
 ```
 
 ## The Porch Writers' Collective
@@ -257,12 +287,12 @@ title: Partner Organizations
 
 ## Small World Yoga
 
-```
-/public/images/small world yoga logo-202105260654.png
+```text
+/public/images/small-world-yoga-202503281103.jpg
 ```
 
-```
-/public/images/small world yoga logo-202105260654-thumb.png
+```text
+/public/images/small-world-yoga-202503281103-thumb.png
 ```
 
 ## Tennessee Language Center

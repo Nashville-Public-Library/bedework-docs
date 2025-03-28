@@ -65,6 +65,16 @@ title: Series
 /public/images/HispanicHeritage_Web(400x602)_ENG_SQR_bedework-202009150639-thumb.png
 ```
 
+## Library for the Deaf and Hard of Hearing
+
+```
+/public/images/tndeaflibrary-202311271119.jpeg
+```
+
+```
+/public/images/tndeaflibrary-202311271119-thumb.png
+```
+
 ## Metro Archives
 
 ```
@@ -73,6 +83,16 @@ title: Series
 
 ```
 /public/images/metro-archive-thumb-202205181048-thumb.png
+```
+
+## NECAT
+
+```text
+/public/images/necat-web-logo-202503281040.png
+```
+
+```text
+/public/images/necat-web-logo-202503281040-thumb.png
 ```
 
 ## NPL Means Business

@@ -94,6 +94,16 @@ title: Guest Performers
 /public/images/Dr. J promo picture_bedework-202009150623-thumb.png
 ```
 
+## Elliott Robinson
+
+```text
+/public/images/Elliott-202408220122.jpg
+```
+
+```text
+/public/images/Elliott-202408220122-thumb.png
+```
+
 ## Rachel Rodriguez
 
 ```
