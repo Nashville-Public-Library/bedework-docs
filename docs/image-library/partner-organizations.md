@@ -195,6 +195,16 @@ title: Partner Organizations
 /public/images/NashvilleOperaLogo.jpg-202105260704-thumb.png
 ```
 
+## Nashville Public Library Foundation
+
+```text
+/public/images/foundation-logo-202503280257.jpg
+```
+
+```text
+/public/images/foundation-logo-202503280257-thumb.png
+```
+
 ## Nashville Symphony
 
 ```text
