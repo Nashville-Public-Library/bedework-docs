@@ -150,11 +150,15 @@ ellingtown illustration
 ## Goldilocks
 
 ```text
-/public/images/goldilocks-202412190124.jpg
+/public/images/goldilocks-202504020915.jpeg
 ```
 
 ```text
-/public/images/goldilocks-202412190124-thumb.png
+/public/images/goldilocks-202504020915-thumb.png
+```
+
+```text
+goldilocks
 ```
 
 ## Hansel and Gretel
@@ -165,6 +169,9 @@ ellingtown illustration
 
 ```text
 /public/images/wishing-chair_hansel-and-gretel-201703021144-thumb.png
+```
+```text
+hansel and gretel
 ```
 
 ## Kaytek the Wizard
