@@ -349,6 +349,16 @@ Hermitage Write-In
 /public/images/bedework-vote-large-201609291049.png
 ```
 
+## Writer Support Group
+
+```text
+/public/images/writer-support-group-202504080145.png
+```
+
+```text
+/public/images/writer-support-group-202504080145-thumb.png
+```
+
 ## Zumba
 
 ```
