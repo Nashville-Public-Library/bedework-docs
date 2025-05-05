@@ -108,21 +108,21 @@ title: Guest Performers
 ## Rachel Rodriguez
 
 ```
-/public/images/RachelRodriguez350-201806210109.jpg
+/public/images/rachrodriguez-550-202505020210.jpg
 ```
 
 ```
-/public/images/RachelRodriguez350-201806210109-thumb.png
+/public/images/rachrodriguez-550-202505020210-thumb.png
 ```
 
 ## Rachel Sumner
 
 ```
-/public/images/rahcel sumner-202505021132.JPG
+/public/images/rahcel%20sumner-202505021132.JPG
 ```
 
 ```
-/public/images/rahcel sumner-202505021132-thumb.png
+/public/images/rahcel%20sumner-202505021132-thumb.png
 ```
 
 ## Magician Rodney Kelley
