@@ -24,6 +24,7 @@ title: Guest Performers
 ```
 /public/images/SCC_Lowe_freedomsongs-201910161243-thumb.png
 ```
+
 ## Howard Pink and Musical Garden Hoses
 
 ```
@@ -117,12 +118,13 @@ title: Guest Performers
 ## Rachel Sumner
 
 ```
-/public/images/Rachel%20Sumner%202-201903250423.jpg
+/public/images/rahcel sumner-202505021132.JPG
 ```
 
 ```
-/public/images/Rachel%20Sumner%202-201903250423-thumb.png
+/public/images/rahcel sumner-202505021132-thumb.png
 ```
+
 ## Magician Rodney Kelley
 
 ```text

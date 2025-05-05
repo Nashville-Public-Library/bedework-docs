@@ -225,6 +225,16 @@ title: Partner Organizations
 /public/images/nashville-street-project-202503281036-thumb.png
 ```
 
+## Nashville Therapy Pets
+
+```text
+/public/images/therapy%20pets-202505020225.PNG
+```
+
+```text
+/public/images/therapy%20pets-202505020225-thumb.png
+```
+
 ## Nashville Zoo
 
 ```text
