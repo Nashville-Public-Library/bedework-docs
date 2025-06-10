@@ -5,16 +5,6 @@ title: Series
 
 # Series
 
-## Banned Books Week
-
-```text
-/public/images/NPL_BannedBooksWeek_450 (1)-201908211026.jpg
-```
-
-```text
-/public/images/NPL_BannedBooksWeek_450 (1)-201908211026-thumb.png
-```
-
 ## Be Well at NPL
 
 ```text
@@ -23,6 +13,16 @@ title: Series
 
 ```text
 /public/images/bedework-be-well-1-201708171105-thumb.png
+```
+
+## Banned Books Week
+
+```text
+/public/images/NPL_BannedBooksWeek_450 (1)-201908211026.jpg
+```
+
+```text
+/public/images/NPL_BannedBooksWeek_450 (1)-201908211026-thumb.png
 ```
 
 ## Black History Month
