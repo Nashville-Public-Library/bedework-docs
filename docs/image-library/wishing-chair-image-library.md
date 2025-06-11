@@ -161,6 +161,16 @@ ellingtown illustration
 goldilocks
 ```
 
+## Gulliver's Travels
+
+```text
+/public/images/gulliver-400-2-202506110324.jpg
+```
+
+```
+/public/images/gulliver-400-2-202506110324-thumb.png
+```
+
 ## Hansel and Gretel
 
 ```text
@@ -170,6 +180,7 @@ goldilocks
 ```text
 /public/images/wishing-chair_hansel-and-gretel-201703021144-thumb.png
 ```
+
 ```text
 hansel and gretel
 ```
@@ -286,6 +297,20 @@ illustration of momatoro
 
 ```
 trifulgus sketch
+```
+
+## Peter and the Wolf
+
+```
+/public/images/peter-wolf-400-2-202506110321.jpg
+```
+
+```
+/public/images/peter-wolf-400-2-202506110321-thumb.png
+```
+
+```
+peter graphic
 ```
 
 ## Puppet Show Icon
