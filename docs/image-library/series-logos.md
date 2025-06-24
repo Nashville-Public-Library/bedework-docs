@@ -25,6 +25,16 @@ title: Series
 /public/images/NPL_BannedBooksWeek_450 (1)-201908211026-thumb.png
 ```
 
+## Board Game Night
+
+```text
+/public/images/board game logo-202504231229.png
+```
+
+```text
+/public/images/board game logo-202504231229-thumb.png
+```
+
 ## Black History Month
 
 ```text
