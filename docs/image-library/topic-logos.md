@@ -259,6 +259,16 @@ Hermitage Write-In
 /public/images/puppet-show-black-80.png
 ```
 
+## (Library) Play Date
+
+```text
+/public/images/library-play-date-1-202506250424.png
+```
+
+```text
+/public/images/library-play-date-1-202506250424-thumb.png
+```
+
 ## Sewing
 
 ```text
