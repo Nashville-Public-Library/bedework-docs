@@ -12,7 +12,18 @@ Use Trello board to track and repeat all steps outlined, every quarter: <https:/
 Post to [NPL Announcements](https://metronashville.sharepoint.com/sites/NPLink/Lists/Daily%20Announcements/Landing%20Page%20View.aspx).
 
 ```text
-SUBJECT: Bedework Events Calendar Orientation. MMM ##, YYYY
+SUBJECT: Bedework Events Calendar Orientation. MMM DD, YYYY
+```
+
+```text
+Hello ​Managers,
+We are ready to add events to the events calendar, for Fall and Winter YYYY quarters. In preparation, we want to provide Bedework calendar training for anyone at your location who needs an introduction.
+Please send the names of any staff who would attend to [First Last]. Then, please reserve off-desk time for them for one of these online demonstrations. Once practice assignments are complete, they are added to your location's approval queue.
+DD/MM/YYYY, 10:00 a.m. CDT
+Additionally, please notify [First Last], if you have any staff who are no longer at your location.
+would like to attend a calendar demonstration, as a refresher.
+For your reference: Bedework Calendar Staff Submitters
+I will notify individuals and managers with a calendar invite for these Bedework events calendar training sessions on [First Last]'s WebEx. Please contact me with any questions.
 ```
 
 ## Move/Delete/Add Submitters (Update Based on Managers Response)
