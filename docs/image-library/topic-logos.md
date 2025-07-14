@@ -5,6 +5,16 @@ title: Topic Logos
 
 # Topic Logos
 
+## Adult Literacy
+
+```text
+/public/images/AdultLiteracyAtNPL-202507140322.jpg
+```
+
+```text
+/public/images/AdultLiteracyAtNPL-202507140322-thumb.png
+```
+
 ## Art Clip Art
 
 ```text
