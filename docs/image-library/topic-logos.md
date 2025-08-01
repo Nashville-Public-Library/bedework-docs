@@ -239,6 +239,16 @@ Hermitage Write-In
 /public/images/movie-matinee-adults-202212050410-thumb.png
 ```
 
+## Music
+
+```text
+/public/images/musical note-202507281225.png
+```
+
+```text
+/public/images/musical note-202507281225-thumb.png
+```
+
 ## NAZA Honeycomb
 
 ```text
