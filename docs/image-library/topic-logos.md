@@ -209,6 +209,16 @@ Hermitage Write-In
 /public/images/LEGO_Design2020(Square450)-201912171047-thumb.png
 ```
 
+## Library Play Date
+
+```text
+/public/images/library-play-date-1-202506250424.png
+```
+
+```text
+/public/images/library-play-date-1-202506250424-thumb.png
+```
+
 ## Lunch Sack
 
 ```text
