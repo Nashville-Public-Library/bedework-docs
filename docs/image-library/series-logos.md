@@ -127,11 +127,11 @@ title: Series
 
 ## Read to Rise
 
-```
+```text
 /public/images/read-to-rise-bedework-201808141129.jpg
 ```
 
-```
+```text
 /public/images/read-to-rise-bedework-201808141129-thumb.png
 ```
 
@@ -143,6 +143,16 @@ title: Series
 
 ```
 /public/images/seed-exchange-bedework-201902201102-thumb.png
+```
+
+## Shakespeare Allowed
+
+```
+/public/images/shakespeare-allowed_300px.png
+```
+
+```
+/public/images/shakespeare-allowed_80px.png
 ```
 
 ## Studio NPL

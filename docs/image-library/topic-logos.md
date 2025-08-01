@@ -219,6 +219,7 @@ Hermitage Write-In
 /public/images/library-play-date-1-202506250424-thumb.png
 ```
 
+
 ## Lunch Sack
 
 ```text
@@ -249,7 +250,7 @@ Hermitage Write-In
 /public/images/movie-matinee-adults-202212050410-thumb.png
 ```
 
-## Music
+## Music note
 
 ```text
 /public/images/musical note-202507281225.png
