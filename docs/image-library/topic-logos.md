@@ -379,6 +379,15 @@ Hermitage Write-In
 ```text
 /public/images/teens-at-main-202203070450-thumb.png
 ```
+## Teen Hangout
+
+```text
+/public/images/teen-hangout-202508041203.jpg
+```
+
+```text
+/public/images/teen-hangout-202508041203-thumb.png
+```
 
 ## Teen Time Go
 
