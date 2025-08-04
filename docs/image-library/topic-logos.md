@@ -127,7 +127,7 @@ title: Topic Logos
 
 ## Financial Literacy (Money)
 
-```
+```text
 /public/images/financial-literacy-201607080422.jpg
 ```
 

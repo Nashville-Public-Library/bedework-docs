@@ -7,61 +7,61 @@ title: Guest Performers
 
 ## Farmer Jason
 
-```
+```text
 /public/images/resized_farmerjason2-202003240721.jpg
 ```
 
-```
+```text
 /public/images/resized_farmerjason2-202003240721-thumb.png
 ```
 
 ## Freedom Songs
 
-```
+```text
 /public/images/SCC_Lowe_freedomsongs-201910161243.jpg
 ```
 
-```
+```text
 /public/images/SCC_Lowe_freedomsongs-201910161243-thumb.png
 ```
 
 ## Howard Pink and Musical Garden Hoses
 
-```
+```text
 /public/images/gardenhose-201909051052.jpg
 ```
 
-```
+```text
 /public/images/gardenhose-201909051052-thumb.png
 ```
 
 ## Jacob Johnson
 
-```
+```text
 /public/images/resized_jacob johnson-202003250641.jpg
 ```
 
-```
+```text
 /public/images/resized_jacob johnson-202003250641-thumb.png
 ```
 
 ## Live. Laugh. Learn. with Ms. Natalie
 
-```
+```text
 /public/images/Live Laugh Learn_bedework-202005281232.jpg
 ```
 
-```
+```text
 /public/images/Live Laugh Learn_bedework-202005281232-thumb.png
 ```
 
 ## Lee Con Klem-Mari
 
-```
+```text
 /public/images/lee_con_klem-mari promo picture_bedework2-202009150648.jpg
 ```
 
-```
+```text
 /public/images/lee_con_klem-mari promo picture_bedework2-202009150648-thumb.png
 ```
 
@@ -87,11 +87,11 @@ title: Guest Performers
 
 ## Poetry, Prose, and Puppets with Dr. J
 
-```
+```text
 /public/images/Dr. J promo picture_bedework-202009150623.jpg
 ```
 
-```
+```text
 /public/images/Dr. J promo picture_bedework-202009150623-thumb.png
 ```
 
@@ -107,21 +107,21 @@ title: Guest Performers
 
 ## Rachel Rodriguez
 
-```
+```text
 /public/images/rachrodriguez-550-202505020210.jpg
 ```
 
-```
+```text
 /public/images/rachrodriguez-550-202505020210-thumb.png
 ```
 
 ## Rachel Sumner
 
-```
+```text
 /public/images/rahcel%20sumner-202505021132.JPG
 ```
 
-```
+```text
 /public/images/rahcel%20sumner-202505021132-thumb.png
 ```
 
