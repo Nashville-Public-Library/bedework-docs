@@ -75,6 +75,16 @@ title: Topic Logos
 /public/images/book-sale-calendar-icon_blue-text-201806191138.jpg
 ```
 
+## Caffeinated Book Club
+
+```text
+/public/images/caffeinated-book-club-202508061039.jpg
+```
+
+```text
+/public/images/caffeinated-book-club-202508061039-thumb.png
+```
+
 ## Card Club
 
 ```text
@@ -218,7 +228,6 @@ Hermitage Write-In
 ```text
 /public/images/library-play-date-1-202506250424-thumb.png
 ```
-
 
 ## Lunch Sack
 
@@ -379,6 +388,7 @@ Hermitage Write-In
 ```text
 /public/images/teens-at-main-202203070450-thumb.png
 ```
+
 ## Teen Hangout
 
 ```text
