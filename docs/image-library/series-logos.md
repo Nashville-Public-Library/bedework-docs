@@ -45,6 +45,16 @@ title: Series
 /public/images/2025-black-history-month-202501310248-thumb.png
 ```
 
+## Black Women Authors Book Club
+
+```text
+/public/images/Black Women Authors Book Club-202508130156.png
+```
+
+```text
+/public/images/Black Women Authors Book Club-202508130156-thumb.png
+```
+
 ## Books Brothers
 
 ```text

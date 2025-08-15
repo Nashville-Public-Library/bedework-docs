@@ -135,6 +135,16 @@ title: Partner Organizations
 /public/images/Metro-Parkslogo-202105260643-thumb.png
 ```
 
+## Metro Water Services
+
+```text
+/public/images/mws-logo-202508150248.jpg
+```
+
+```text
+/public/images/mws-logo-202508150248-thumb.png
+```
+
 ## Mental Health Cooperative Outreach
 
 ```text
