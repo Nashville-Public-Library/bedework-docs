@@ -77,11 +77,11 @@ title: Partner Organizations
 
 ## Global Education
 
-```
+```text
 /public/images/globaleducationlogo-201909300515.jpg
 ```
 
-```
+```text
 /public/images/globaleducationlogo-201909300515-thumb.png
 ```
 
@@ -113,6 +113,16 @@ title: Partner Organizations
 
 ```text
 /public/images/legal-aid-202308310331-thumb.png
+```
+
+## Limitless Libraries
+
+```text
+/public/images/limitless-logo-400px-202508180929.jpg
+```
+
+```text
+/public/images/limitless-logo-400px-202508180929-thumb.png
 ```
 
 ## Metro Nashville Government Seal
@@ -323,6 +333,16 @@ title: Partner Organizations
 
 ```text
 /public/images/small-world-yoga-202503281103-thumb.png
+```
+
+## Southern Word
+
+```text
+/public/images/Southern-Word-Logo-Sq-202508150517.jpg
+```
+
+```text
+/public/images/Southern-Word-Logo-Sq-202508150517-thumb.pn  g
 ```
 
 ## Tennessee Language Center
