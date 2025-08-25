@@ -15,6 +15,16 @@ title: Series
 /public/images/bedework-be-well-1-201708171105-thumb.png
 ```
 
+## Babies and Books
+
+```text
+/public/images/babies_and_books-202508250457.jpg
+```
+
+```text
+/public/images/babies_and_books-202508250457-thumb.png
+```
+
 ## Banned Books Week
 
 ```text
