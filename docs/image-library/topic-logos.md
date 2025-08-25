@@ -45,16 +45,6 @@ title: Topic Logos
 /public/images/bingo-202505231026-thumb.png
 ```
 
-## Board Games on White Background
-
-```text
-/public/images/bigstock-Board-Games-On-White-4190493-scaled_(1)_(2)-transformed (1)-202502270242.png
-```
-
-```text
-/public/images/bigstock-Board-Games-On-White-4190493-scaled_(1)_(2)-transformed (1)-202502270242-thumb.png
-```
-
 ## Book Clubs
 
 ```text
