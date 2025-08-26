@@ -165,6 +165,16 @@ title: Series
 /public/images/npl-means-business-web-2-202203030358-thumb.png
 ```
 
+## Pokèmon Club
+
+```text
+/public/images/pokemon_club-202508260250.jpg
+```
+
+```text
+/public/images/pokemon_club-202508260250-thumb.png
+```
+
 ## Pride NPL Logo
 
 ```
