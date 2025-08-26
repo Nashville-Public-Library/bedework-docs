@@ -115,6 +115,26 @@ title: Partner Organizations
 /public/images/legal-aid-202308310331-thumb.png
 ```
 
+## Library for the Deaf and Hard of Hearing
+
+```
+/public/images/tndeaflibrary-202311271119.jpeg
+```
+
+```
+/public/images/tndeaflibrary-202311271119-thumb.png
+```
+
+## Metro Archives
+
+```
+/public/images/metro-archive-thumb-202205181048.png
+```
+
+```
+/public/images/metro-archive-thumb-202205181048-thumb.png
+```
+
 ## Limitless Libraries
 
 ```text
@@ -315,14 +335,14 @@ title: Partner Organizations
 /public/images/the porch_new logo resized-202101260507-thumb.png
 ```
 
-## Read With Me
+## Reading Paws
 
 ```text
-/public/images/2024-claire-kiley-202407100351.jpg
+/public/images/Reading Paws-202504081148-202508220359.png
 ```
 
 ```text
-/public/images/2024-claire-kiley-202407100351-thumb.png
+/public/images/Reading Paws-202504081148-202508220359-thumb.png
 ```
 
 ## Small World Yoga
