@@ -5,6 +5,16 @@ title: Series
 
 # Series
 
+## Adventure Club
+
+```text
+/public/images/adventure_club-202508260229.jpg
+```
+
+```text
+/public/images/adventure_club-202508260229-thumb.png
+```
+
 ## Be Well at NPL
 
 ```text
@@ -123,6 +133,16 @@ title: Series
 
 ```
 /public/images/metro-archive-thumb-202205181048-thumb.png
+```
+
+## Music and Movement
+
+```text
+/public/images/music_and_movement-202508260247.jpg
+```
+
+```text
+/public/images/music_and_movement-202508260247-thumb.png
 ```
 
 ## NECAT
