@@ -65,6 +65,16 @@ title: Series
 /public/images/bigstock-Board-Games-On-White-4190493-scaled_(1)_(2)-transformed (1)-202502270242-thumb.png
 ```
 
+## Book Bingo
+
+```text
+/public/images/bingo-202505231025.png
+```
+
+```text
+/public/images/bingo-202505231026-thumb.png
+```
+
 ## Black History Month
 
 ```text
@@ -123,16 +133,6 @@ title: Series
 
 ```text
 /public/images/music_and_movement-202508260247-thumb.png
-```
-
-## NECAT
-
-```text
-/public/images/necat-web-logo-202503281040.png
-```
-
-```text
-/public/images/necat-web-logo-202503281040-thumb.png
 ```
 
 ## NPL Means Business

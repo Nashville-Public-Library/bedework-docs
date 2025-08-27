@@ -35,6 +35,16 @@ title: Partner Organizations
 /public/images/redcross-202304261034-thumb.png
 ```
 
+## Bringing Books to Life
+
+```text
+/public/images/bbtl-logo-202010121118.jpg
+```
+
+```text
+/public/images/bbtl-logo-202010121118-thumb.png
+```
+
 ## Country Music Hall of Fame
 
 ```text
@@ -313,6 +323,16 @@ title: Partner Organizations
 
 ```text
 /public/images/NaNoWriMo_thumb-201610041148.png
+```
+
+# NECAT
+
+```text
+/public/images/necat-web-logo-202503281040.png
+```
+
+```text
+/public/images/necat-web-logo-202503281040-thumb.png
 ```
 
 ## Oasis Center
