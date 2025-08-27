@@ -1,9 +1,9 @@
 ---
 sidebar_position: 3
-title: Partner Organizations
+title: Organizations
 ---
 
-# Partner Organizations
+# Organizations
 
 ## Adventure Science Center
 
