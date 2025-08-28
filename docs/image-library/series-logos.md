@@ -244,3 +244,12 @@ title: Series
 ```text
 /public/images/WHM_SquareGraphic-eddie-202502070440-thumb.png
 ```
+
+## Yeah Rock Block
+
+````text
+/public/images/yeah-rock-block-202508280307.png
+
+```text
+/public/images/yeah-rock-block-202508280307-thumb.png
+````
