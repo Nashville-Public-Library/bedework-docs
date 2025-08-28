@@ -95,6 +95,16 @@ title: Series
 /public/images/Black Women Authors Book Club-202508130156-thumb.png
 ```
 
+## Civil Rights Room
+
+```text
+/public/images/civil-rights-room-202508280805.jpg
+```
+
+```text
+/public/images/civil-rights-room-202508280805-thumb.png
+```
+
 ## Books Brothers
 
 ```text
