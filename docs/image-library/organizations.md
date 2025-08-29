@@ -382,7 +382,7 @@ title: Organizations
 ```
 
 ```text
-/public/images/Southern-Word-Logo-Sq-202508150517-thumb.pn  g
+/public/images/Southern-Word-Logo-Sq-202508150517-thumb.png
 ```
 
 ## Tennessee Language Center
