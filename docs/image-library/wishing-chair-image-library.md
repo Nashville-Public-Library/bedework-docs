@@ -5,22 +5,6 @@ title: Wishing Chair Productions
 
 # Wishing Chair Productions
 
-## Puppet Truck
-
-- For Image URL, use the use the Puppet Truck image. For thumb, use the show.
-
-```text
-/public/images/puppet-truck-2-400px-202304170154.jpg
-```
-
-```text
-/public/images/puppet-truck-2-400px-202304170154-thumb.png
-```
-
-## Wishing Chair Productions Story Time
-
-- Use Story Time image and thumb from [topic logos](topic-logos.md/#story-time)
-
 ## Aesop's Fables
 
 ```text
@@ -30,6 +14,8 @@ title: Wishing Chair Productions
 ```
 /public/images/aesop-resized-202303140126-thumb.png
 ```
+
+Alt-text
 
 ```text
 aesop's fables
@@ -45,11 +31,17 @@ aesop's fables
 /public/images/ali-baba-wishing-chair-201612120330-thumb.png
 ```
 
+Alt-text
+
 ```text
 Ali Baba
 ```
 
 ## Alice in Wonderland
+
+```text
+/public/images/Alice-201609291232.jpg
+```
 
 ```text
 /public/images/Alice_thumb-201609291232-thumb.png
@@ -65,6 +57,8 @@ Ali Baba
 /public/images/amazing-201801311023-thumb.png
 ```
 
+Alt-text
+
 ```text
 amazing twins
 ```
@@ -78,6 +72,8 @@ amazing twins
 ```text
 /public/images/WishingChair_Anansi-201609291229-thumb.png
 ```
+
+Alt-text
 
 ```text
 anansi
@@ -93,6 +89,12 @@ anansi
 /public/images/wishingChair_childsCalendar-201609291230-thumb.png
 ```
 
+Alt-text
+
+```text
+a child's calendar
+```
+
 ## Cinderella
 
 ```text
@@ -103,6 +105,12 @@ anansi
 /public/images/wishing-chair-cinderella-thumb.png
 ```
 
+Alt-text
+
+```text
+cinderella
+```     
+
 ## The Celebrated Jumping Frog of Calaveras County
 
 ```text
@@ -111,6 +119,12 @@ anansi
 
 ```text
 /public/images/wishingchair_jumping-frog-202203210430-thumb.png
+```
+
+Alt-text
+
+```text
+the celebrated jumping frog of calaveras county
 ```
 
 ## Dinosaur Dimensions
@@ -123,6 +137,12 @@ anansi
 /public/images/dinosaur-dimensions-202412190123-thumb.png
 ```
 
+Alt-text
+
+```text
+dinosaur dimensions
+```
+
 ## Ellingtown
 
 ```text
@@ -132,6 +152,8 @@ anansi
 ```text
 /public/images/wishingchair_ellingtown_300-201605241135-thumb.png
 ```
+
+Alt-text
 
 ```text
 ellingtown illustration
@@ -147,6 +169,12 @@ ellingtown illustration
 /public/images/wishing-chair_frog-prince-201703021141-thumb.png
 ```
 
+Alt-text
+
+```text
+the frog prince
+```
+
 ## Goldilocks
 
 ```text
@@ -156,6 +184,8 @@ ellingtown illustration
 ```text
 /public/images/goldilocks-202504020915-thumb.png
 ```
+
+Alt-text
 
 ```text
 goldilocks
@@ -171,6 +201,12 @@ goldilocks
 /public/images/gulliver-400-2-202506110324-thumb.png
 ```
 
+Alt-text
+
+```text
+gulliver's travels
+```
+
 ## Hansel and Gretel
 
 ```text
@@ -180,6 +216,8 @@ goldilocks
 ```text
 /public/images/wishing-chair_hansel-and-gretel-201703021144-thumb.png
 ```
+
+Alt-text
 
 ```text
 hansel and gretel
@@ -195,6 +233,12 @@ hansel and gretel
 /public/images/Kaytek_150-201611080924-thumb.png
 ```
 
+Alt-text
+
+```text
+kaytek illustration
+```
+
 ## La La La
 
 ```
@@ -204,6 +248,8 @@ hansel and gretel
 ```
 /public/images/la-la-la-1-202312040400-thumb.png
 ```
+
+Alt-text
 
 ```
 girl singing 'la la la'
@@ -219,6 +265,12 @@ girl singing 'la la la'
 /public/images/SleepyHollowscary3resized-202106100255-thumb.png
 ```
 
+Alt-text
+
+```text
+legend of sleepy hollow
+```
+
 ## Library Pete's Rock n' Roll Puppet Show
 
 ```text
@@ -229,7 +281,9 @@ girl singing 'la la la'
 /public/images/bedework-racoon-202406030430-thumb.png
 ```
 
-```
+Alt-text
+
+```text
 racoon with guitar
 ```
 
@@ -242,6 +296,8 @@ racoon with guitar
 ```
 /public/images/wishingchair_rabbitRedWings-201605030614-thumb.png
 ```
+
+Alt-text
 
 ```
 illustration of a rabbit with red wings
@@ -257,6 +313,8 @@ illustration of a rabbit with red wings
 /public/images/lorraine-book-cover-450-201906261204-thumb.png
 ```
 
+Alt-text
+
 ```
 Lorraine book cover
 ```
@@ -271,6 +329,12 @@ Lorraine book cover
 /public/images/manymoonsbookcover-202109290304-thumb.png
 ```
 
+Alt-text
+
+```text
+many moons book cover
+```
+
 ## Momatoro
 
 ```
@@ -280,6 +344,8 @@ Lorraine book cover
 ```
 /public/images/momotarocolor small-201801240155-thumb.png
 ```
+
+Alt-text
 
 ```
 illustration of momatoro
@@ -295,6 +361,8 @@ illustration of momatoro
 /public/images/trifulgus-resized-202309141126-thumb.png
 ```
 
+Alt-text
+
 ```
 trifulgus sketch
 ```
@@ -309,8 +377,10 @@ trifulgus sketch
 /public/images/peter-wolf-400-2-202506110321-thumb.png
 ```
 
+Alt-text
+
 ```
-peter graphic
+peter and the wolf
 ```
 
 ## Puppet Show Icon

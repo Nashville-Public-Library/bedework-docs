@@ -205,6 +205,22 @@ title: Series
 /public/images/shakespeare-allowed_80px.png
 ```
 
+## Starry Night Story Time
+
+```text
+/public/images/Starry%20Night%202-202509040337.jpeg
+```
+
+```text
+/public/images/Starry%20Night%202-202509040337-thumb.png
+```
+
+Alt-Text
+
+```text
+starry night illustration
+```
+
 ## Studio NPL
 
 ```
