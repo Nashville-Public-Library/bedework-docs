@@ -46,6 +46,11 @@ Ali Baba
 ```text
 /public/images/Alice_thumb-201609291232-thumb.png
 ```
+Alt-text
+
+```text
+alice in wonderland
+``` 
 
 ## Amazing Twins: Ancient Maya Tales from the Popol Wuj
 
@@ -393,6 +398,12 @@ peter and the wolf
 /public/images/puppet-show-black-80.png
 ```
 
+Alt-text
+
+```
+puppet show icon
+```
+
 ## Puppet Truckin' with Mr. B
 
 ```
@@ -402,6 +413,8 @@ peter and the wolf
 ```
 /public/images/Puppet%20Truck%20-%20thumbnail%20v2_bedework-202005290431-thumb.png
 ```
+
+Alt-text
 
 ```
 Puppet Truckin' with Mr. B
@@ -417,6 +430,8 @@ Puppet Truckin' with Mr. B
 /public/images/WishingChair_Puss-in-Boots-201906180359-thumb.png
 ```
 
+Alt-text
+
 ```
 puss in boots
 ```
@@ -431,6 +446,12 @@ puss in boots
 /public/images/skybear.small-202003090956-thumb.png
 ```
 
+Alt-text
+
+```text
+skybear illustration
+```
+
 ## Stonecutter
 
 ```
@@ -440,6 +461,8 @@ puss in boots
 ```
 /public/images/Puppet-Truck_Stonecutter-201610270946-thumb.png
 ```
+
+Alt-text
 
 ```
 illustration of a man in red clothes and hat
@@ -455,6 +478,8 @@ illustration of a man in red clothes and hat
 /public/images/string-city-logo-for-page-202003091007.jpg
 ```
 
+Alt-text
+
 ```
 string city poster
 ```
@@ -469,6 +494,12 @@ string city poster
 /public/images/MN_talltales-201609291223-thumb.png
 ```
 
+Alt-text
+
+```text
+tall tale circus
+``` 
+
 ## The Tempest
 
 ```
@@ -479,6 +510,12 @@ string city poster
 /public/images/wishing-chair-tempest-201612301117-thumb.png
 ```
 
+Alt-text
+
+```
+the tempest
+``` 
+
 ## Tomas and the Library Lady
 
 ```
@@ -488,6 +525,7 @@ string city poster
 ```
 /public/images/puppet-show-black-80.png
 ```
+Alt-text
 
 ```
 tomas and the library lady
@@ -502,6 +540,8 @@ tomas and the library lady
 ```
 /public/images/puppet-show-black-80.png
 ```
+
+Alt-text
 
 ```
 world of mother goose
