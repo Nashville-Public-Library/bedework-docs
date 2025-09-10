@@ -155,6 +155,21 @@ title: Organizations
 /public/images/limitless-logo-400px-202508180929-thumb.png
 ```
 
+## Metro Arts Nashville
+
+```text
+/public/images/metro_arts_logo_vert-202509101038.png
+```
+
+```text
+/public/images/metro_arts_logo_vert-202509101038-thumb.png
+```
+
+Alt-Text
+
+```text
+Metro Arts Nashville
+```
 ## Metro Nashville Government Seal
 
 ```text
@@ -163,6 +178,12 @@ title: Organizations
 
 ```text
 /public/images/imageedit_3_5581218195-202110261200-thumb.png
+```
+
+Alt-text
+
+```text
+Metro Nashville government seal
 ```
 
 ## Metro Parks
