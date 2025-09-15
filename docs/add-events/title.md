@@ -55,15 +55,15 @@ Use these standard titles for all children's series. Any other special programs 
 
 | Program (Age)                    | Title                                   |
 |--------------------------------- |---------------------------------------- |
-| Infants (0-1)                    | _Wee Wigglers: Infant Story Time_       |
-| Babies (0-2)                     | _Babies & Books_                        |
+| Infants (0-12 months)            | _Infants Story Time_       |
+| Babies (0-2)                     | _Baby Story Time_                        |
 | Toddlers (1-3)                   | _Toddler Tales_                         |
 | Preschool (3-5)                  | _Preschool Story Time_                  |
 | Multi Age (0-5)                  | _Family Story Time_                     |
 | School Age (K-4)                 | _Adventure Club_                        |
 | STEAM programs                   | _Library Lab: A STEAM Program_          |
 | Music and Movement               | _Music & Movement_                      |
-| Evening/bedtime Storytime        | _Starry Night Story Time_               |
+| Evening/bedtime Story Time       | _Starry Night Story Time_               |
 | Book Club                        | _Kid’s Book Club_                       |
 | Family Lego                      | _Family LEGO Fun_                       |
 | School Age Lego                  | _LEGO Club_                             |
