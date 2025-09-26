@@ -329,6 +329,12 @@ Hermitage Write-In
 /public/images/shakespeare-allowed_80px.png
 ```
 
+Alt Text
+
+```text
+shakespeare illustration 
+```
+
 ## Story Time
 
 ```
@@ -337,6 +343,12 @@ Hermitage Write-In
 
 ```
 /public/images/story-time-large-thumb.png
+```
+
+Alt Text
+
+```text
+story time
 ```
 
 ## STEAM
@@ -349,7 +361,13 @@ Hermitage Write-In
 /public/images/S.T.E.A.M.-201612030342-thumb.png
 ```
 
-## Spanish Story Time
+Alt Text
+
+```text
+steam. Science Technology Engineering Art Math
+```
+
+## Cuenta Cuentos (Spanish Story Time)
 
 ```
 /public/images/spanish-story-time-icon-202212050211.png
@@ -357,6 +375,12 @@ Hermitage Write-In
 
 ```
 /public/images/spanish-story-time-icon-202212050211-thumb.png
+```
+
+Alt Text
+
+```text
+cuenta cuentos
 ```
 
 ## Summer Lunch at the Library
@@ -369,6 +393,12 @@ Hermitage Write-In
 /public/images/Summer-Lunch-at-NPL-201805240219-thumb.png
 ```
 
+Alt Text
+
+```text
+lunch bag
+```
+
 ## Tai Chi
 
 ```text
@@ -378,6 +408,11 @@ Hermitage Write-In
 ```text
 /public/images/tai%20chi-202310110106-thumb.png
 ```
+Alt Text
+
+```text
+tai chi
+``` 
 
 ## Teens at Main
 
@@ -387,6 +422,12 @@ Hermitage Write-In
 
 ```text
 /public/images/teens-at-main-202203070450-thumb.png
+```
+
+Alt Text
+
+```text
+teens at main
 ```
 
 ## Teen Hangout
@@ -399,6 +440,12 @@ Hermitage Write-In
 /public/images/teen-hangout-202508041203-thumb.png
 ```
 
+Alt Text
+
+```text
+teen hangout
+```
+
 ## Teen Time Go
 
 ```text
@@ -409,6 +456,12 @@ Hermitage Write-In
 /public/images/teen%20time%20go-202307121237-thumb.png
 ```
 
+Alt Text
+
+```text
+teen time go
+```
+
 ## Vinyl Club
 
 ```text
@@ -417,6 +470,11 @@ Hermitage Write-In
 
 ```text
 /public/images/vinyl-club-201706271138-thumb.png
+```
+Alt Text
+
+```text
+vinyl club
 ```
 
 ## Voting
@@ -429,6 +487,27 @@ Hermitage Write-In
 /public/images/bedework-vote-large-201609291049.png
 ```
 
+Alt Text
+```text
+vote
+```
+
+## Watercolor
+
+```text
+/public/images/554px-Rueda_de_colores_de_acuarela-202504111015.jpg
+```
+
+```text
+/public/images/554px-Rueda_de_colores_de_acuarela-202504111015-thumb.png
+```
+
+Alt Text
+
+```text
+watercolor painting
+```
+
 ## Writer Support Group
 
 ```text
@@ -439,12 +518,8 @@ Hermitage Write-In
 /public/images/writer-support-group-202504080145-thumb.png
 ```
 
-## Zumba
+Alt Text
 
-```
-/public/images/zumba-201806140255-thumb.png
-```
-
-```
-/public/images/zumba-201806140255.png
+```text
+writer support group
 ```
