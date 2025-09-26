@@ -15,6 +15,12 @@ title: Topic Logos
 /public/images/AdultLiteracyAtNPL-202507140322-thumb.png
 ```
 
+Alt Text
+
+```text
+adult literacy
+```
+
 ## Anime 
 
 ```text
@@ -23,6 +29,11 @@ title: Topic Logos
 
 ```text
 /public/images/thumbnail_Outlook-sg5okssv-202412311140-thumb.png
+```
+Alt Text
+
+```text
+Hand sketching anime character
 ```
 
 ## Art Clip Art
@@ -65,6 +76,12 @@ title: Topic Logos
 /public/images/join-us-for-book-club-202012180426-thumb.png
 ```
 
+Alt Text
+
+```text
+Join us for book club
+```
+
 ## Book Sales
 
 ```text
@@ -73,6 +90,12 @@ title: Topic Logos
 
 ```text
 /public/images/book-sale-calendar-icon_blue-text-201806191138.jpg
+```
+
+Alt Text
+
+```text
+book sale
 ```
 
 ## Caffeinated Book Club
@@ -84,6 +107,11 @@ title: Topic Logos
 ```text
 /public/images/caffeinated-book-club-202508061039-thumb.png
 ```
+Alt Text
+
+```text
+caffeinated book club
+```  
 
 ## Card Club
 
@@ -93,6 +121,12 @@ title: Topic Logos
 
 ```text
 /public/images/Black_White_Modern_Handwritten_Square_Studio_Logo_3_optimized_50-202411071253-thumb.png
+```
+
+Alt Text
+
+```text
+card club
 ```
 
 ## Coloring Club
@@ -115,6 +149,12 @@ title: Topic Logos
 /public/images/pop-event-icon-computer-tech-2_0-thumb.png
 ```
 
+Alt Text
+
+```text
+illustration of keyboard and mouse
+```
+
 ## Dungeons & Dragons
 
 ```text
@@ -123,6 +163,12 @@ title: Topic Logos
 
 ```text
 /public/images/Dandcover-202305311012-thumb.png
+```
+
+Alt Text
+
+```text
+dungeons and dragons book cover
 ```
 
 ## English Conversation Club
@@ -145,6 +191,12 @@ title: Topic Logos
 /public/images/financial-literacy-201607080422-thumb.png
 ```
 
+Alt Text
+
+```text
+piggy bank  
+```
+
 ## Gamers United
 
 ```text
@@ -153,6 +205,12 @@ title: Topic Logos
 
 ```text
 /public/images/GamersOn-202302071116-202304111111-thumb.png
+```
+
+Alt Text
+
+```text
+gamers united
 ```
 
 ## Hermitage Write-In
@@ -179,6 +237,12 @@ Hermitage Write-In
 /public/images/MNHomeschoolFriends450-202108231240-thumb.png
 ```
 
+Alt Text
+
+```text
+homeschool friends
+```
+
 ## Jobs Lab
 
 ```text
@@ -197,6 +261,12 @@ Hermitage Write-In
 
 ```text
 /public/images/kids-movie-matinee-201802270328-thumb.png
+```
+
+Alt Text
+
+```text
+movie matinee
 ```
 
 ## Knitting 101
@@ -219,6 +289,12 @@ Hermitage Write-In
 /public/images/LEGO_Design2020(Square450)-201912171047-thumb.png
 ```
 
+Alt Text
+
+```text
+LEGO
+```
+
 ## Library Play Date
 
 ```text
@@ -237,6 +313,12 @@ Hermitage Write-In
 
 ```text
 /public/images/sack2-202112290338-thumb.png
+```
+
+Alt Text
+
+```text
+bag lunch sack
 ```
 
 ## Mahjong
@@ -269,6 +351,12 @@ Hermitage Write-In
 /public/images/musical note-202507281225-thumb.png
 ```
 
+Alt Text
+
+```text
+music note
+```
+
 ## NAZA Honeycomb
 
 ```text
@@ -277,6 +365,12 @@ Hermitage Write-In
 
 ```text
 /public/images/honeycomb-202312290147-thumb.png
+```
+
+Alt Text
+
+```text
+Nashville Afterschool Zone Alliance honeycomb logo
 ```
 
 ## Panel Discussion
@@ -289,14 +383,10 @@ Hermitage Write-In
 /public/images/MN_PanelDiscussionComicsBookClub-201803260551-thumb.png
 ```
 
-## Puppet Show Icon
+Alt Text
 
-```
-/public/images/puppet-show-black-217.png
-```
-
-```
-/public/images/puppet-show-black-80.png
+```text
+Comic book club panel discussion
 ```
 
 ## (Library) Play Date
@@ -317,6 +407,12 @@ Hermitage Write-In
 
 ```text
 /public/images/sew-logo-202412190133-thumb.png
+```
+
+Alt Text
+
+```text
+needle and thread
 ```
 
 ## Shakespeare Allowed
