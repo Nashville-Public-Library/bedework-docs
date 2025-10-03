@@ -223,6 +223,8 @@ gamers united
 /public/images/write-in-202409241238-202410221119-thumb.png
 ```
 
+Alt Text
+
 ```text
 Hermitage Write-In
 ```
