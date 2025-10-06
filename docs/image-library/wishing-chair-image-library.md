@@ -46,11 +46,12 @@ Ali Baba
 ```text
 /public/images/Alice_thumb-201609291232-thumb.png
 ```
+
 Alt-text
 
 ```text
 alice in wonderland
-``` 
+```
 
 ## Amazing Twins: Ancient Maya Tales from the Popol Wuj
 
@@ -114,7 +115,7 @@ Alt-text
 
 ```text
 cinderella
-```     
+```
 
 ## The Celebrated Jumping Frog of Calaveras County
 
@@ -359,11 +360,11 @@ illustration of momatoro
 ## The Ordeal of Mr. Trifulgus
 
 ```
-/public/images/trifulgus-resized-202309141126.jpg
+/public/images/trifulgas-45-202510061230.jpeg
 ```
 
 ```
-/public/images/trifulgus-resized-202309141126-thumb.png
+/public/images/trifulgas-45-202510061230-thumb.png
 ```
 
 Alt-text
@@ -498,7 +499,7 @@ Alt-text
 
 ```text
 tall tale circus
-``` 
+```
 
 ## The Tempest
 
@@ -514,7 +515,7 @@ Alt-text
 
 ```
 the tempest
-``` 
+```
 
 ## Tomas and the Library Lady
 
@@ -525,6 +526,7 @@ the tempest
 ```
 /public/images/puppet-show-black-80.png
 ```
+
 Alt-text
 
 ```
