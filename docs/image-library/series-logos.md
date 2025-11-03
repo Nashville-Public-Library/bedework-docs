@@ -145,6 +145,22 @@ title: Series
 /public/images/music_and_movement-202508260247-thumb.png
 ```
 
+## Music Lessons
+
+```text
+/public/images/Music-Lessons-400-202511031234.jpg
+```
+
+```text
+/public/images/Music-Lessons-400-202511031234-thumb.png
+```
+
+Alt-text
+
+```
+music lessons
+```
+
 ## NPL Means Business
 
 ```
