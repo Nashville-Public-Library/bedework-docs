@@ -527,7 +527,7 @@ The Porch Writers' Collective
 ```
 
 ```text
-/pubcaldav/public/images/rockaby-beats-450-202408261012-thumb.png
+/public/images/rockaby-beats-450-202408261012-thumb.png
 ```
 Alt Text
 
