@@ -314,6 +314,22 @@ Metro Nashville government seal
 /public/images/nashville ballet_resized-202003260346-thumb.png
 ```
 
+## Nashville Chess Center
+
+```text
+/public/images/NCC-202402051122.PNG
+```
+
+```text
+/public/images/NCC-202402051122-thumb.PNG
+```
+
+Alt Text
+
+```text
+Nashville Chess Center
+```
+
 ## Nashville Children's Theatre
 
 ```text
@@ -502,6 +518,21 @@ The Porch Writers' Collective
 
 ```text
 /public/images/Reading Paws-202504081148-202508220359-thumb.png
+```
+
+## Rockabye Beats
+
+```text
+/public/images/rockaby-beats-450-202408261012.jpg
+```
+
+```text
+/pubcaldav/public/images/rockaby-beats-450-202408261012-thumb.png
+```
+Alt Text
+
+```text
+Rockabye Beats
 ```
 
 ## Small World Yoga
