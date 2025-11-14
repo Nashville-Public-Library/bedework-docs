@@ -15,6 +15,28 @@ title: Series
 /public/images/adventure_club-202508260229-thumb.png
 ```
 
+Alt Text
+
+```text
+adventure club
+```
+
+## A.T.L.A.S. (At The Library After School)
+
+```text
+/public/images/atlas-202511141041.jpg
+```
+
+```text
+/public/images/atlas-202511141041-thumb.png
+```
+
+Alt Text
+
+```text
+notepad with pens
+```
+
 ## Be Well at NPL
 
 ```text
@@ -25,6 +47,12 @@ title: Series
 /public/images/bedework-be-well-1-201708171105-thumb.png
 ```
 
+Alt Text
+
+```text
+Be Well at NPL
+```
+
 ## Babies and Books
 
 ```text
@@ -33,6 +61,11 @@ title: Series
 
 ```text
 /public/images/babies_and_books-202508250457-thumb.png
+```
+Alt Text
+
+```text
+babies and books
 ```
 
 ## Banned Books Week
@@ -55,7 +88,7 @@ title: Series
 /public/images/board game logo-202504231229-thumb.png
 ```
 
-## Board Games on White Background
+## Board Games (on White Background)
 
 ```text
 /public/images/bigstock-Board-Games-On-White-4190493-scaled_(1)_(2)-transformed (1)-202502270242.png
@@ -63,6 +96,12 @@ title: Series
 
 ```text
 /public/images/bigstock-Board-Games-On-White-4190493-scaled_(1)_(2)-transformed (1)-202502270242-thumb.png
+```
+
+Alt Text
+
+```text
+board games
 ```
 
 ## Book Bingo
@@ -85,7 +124,13 @@ title: Series
 /public/images/2025-black-history-month-202501310248-thumb.png
 ```
 
-## Black Women Authors Book Club
+Alt Text
+
+```text
+Black History Month Logo
+```
+
+## Black Female Authors Book Club
 
 ```text
 /public/images/Black Women Authors Book Club-202508130156.png
@@ -93,6 +138,22 @@ title: Series
 
 ```text
 /public/images/Black Women Authors Book Club-202508130156-thumb.png
+```
+
+Alt Text
+
+```text
+books and woman illustration
+```
+
+## Books Brothers
+
+```text
+/public/images/books-brothers-202102190213.jpg
+```
+
+```text
+/public/images/books-brothers-202102190213-thumb.png
 ```
 
 ## Civil Rights Room
@@ -105,14 +166,26 @@ title: Series
 /public/images/civil-rights-room-202508280805-thumb.png
 ```
 
-## Books Brothers
+Alt Text
 
 ```text
-/public/images/books-brothers-202102190213.jpg
+I came to nashville not to bring inspiration but to gain inspiration from the great movement that has taken place in this community. martin luther king, jr.
+```
+
+## Creation Station
+
+```text
+/public/images/creation-station-202511141047.jpg
 ```
 
 ```text
-/public/images/books-brothers-202102190213-thumb.png
+/public/images/creation-station-202511141047-thumb.png
+```
+
+Alt Text
+
+```text
+water colors
 ```
 
 ## Hispanic Heritage Month (Spanish)
@@ -145,6 +218,13 @@ title: Series
 /public/images/music_and_movement-202508260247-thumb.png
 ```
 
+Alt Text
+
+```text
+music and movement
+```
+
+
 ## Music Lessons
 
 ```text
@@ -157,7 +237,7 @@ title: Series
 
 Alt-text
 
-```
+```text
 music lessons
 ```
 
@@ -179,6 +259,12 @@ music lessons
 
 ```text
 /public/images/pokemon_club-202508260250-thumb.png
+```
+
+Alt Text
+
+```text
+pokemon club. nplf. wheelchair logo.
 ```
 
 ## Pride NPL Logo
