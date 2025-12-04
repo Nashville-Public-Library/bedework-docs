@@ -140,11 +140,11 @@ Friends of Nashville Public Library
 ## Office of Homeless Services
 
 ```text
-/public/images/OHS-Black-202407110113.png
+/public/images/OHS-Black-20251204-202512041254.png
 ```
 
 ```text
-/public/images/OHS-Black-202407110113-thumb.png
+/public/images/OHS-Black-20251204-202512041254-thumb.png
 ```
 
 Alt Text
