@@ -95,6 +95,12 @@ Country Music Hall of Fame
 /public/images/DOL-logo-202410021038-thumb.png
 ```
 
+ Text
+
+```text
+Department of Labor (USA)
+```
+
 ## Frist Art Museum
 
 ```
@@ -275,6 +281,12 @@ Metro Nashville government seal
 /public/images/Metro-Parkslogo-202105260643-thumb.png
 ```
 
+Alt Text
+
+```text 
+Metro Parks
+```
+
 ## Metro Water Services
 
 ```text
@@ -283,6 +295,12 @@ Metro Nashville government seal
 
 ```text
 /public/images/mws-logo-202508150248-thumb.png
+```
+
+Alt Text
+
+```text
+Metro Water Services
 ```
 
 ## Mental Health Cooperative Outreach
@@ -295,6 +313,12 @@ Metro Nashville government seal
 /public/images/logo_mentalHealthCooperative-thumb.png
 ```
 
+Alt Text
+
+```text
+Mental Health Cooperative Outreach
+```
+
 ## Music for Seniors
 
 ```text
@@ -305,6 +329,12 @@ Metro Nashville government seal
 /public/images/music-for-seniors-bedework-201805251210.jpg
 ```
 
+Alt Text
+
+```text
+Music for Seniors
+```
+
 ## Nashville Ballet
 
 ```text
@@ -313,6 +343,12 @@ Metro Nashville government seal
 
 ```text
 /public/images/nashville ballet_resized-202003260346-thumb.png
+```
+
+Alt Text
+
+```text
+Nashville Ballet
 ```
 
 ## Nashville Chess Center
@@ -341,6 +377,12 @@ Nashville Chess Center
 /public/images/NCTLogo-202412190713-202412261057-thumb.png
 ```
 
+Alt Text
+
+```text
+Nashville Children's Theatre
+```
+
 ## Nashville Dance Cooperative
 
 ```text
@@ -349,6 +391,12 @@ Nashville Chess Center
 
 ```text
 /public/images/resized_nashvilledancecoop-202003260409-thumb.png
+```
+
+Alt Text
+
+```text
+Nashville Dance Cooperative
 ```
 
 ## Nashville Opera
@@ -425,6 +473,12 @@ Nashville Street Project
 /public/images/therapy%20pets-202505020225-thumb.png
 ```
 
+Alt Text
+
+```text
+Nashville Therapy Pets
+```
+
 ## Nashville Zoo
 
 ```text
@@ -433,6 +487,11 @@ Nashville Street Project
 
 ```text
 /public/images/nashviile-zoo-grassmere-logo-202405291206-thumb.png
+```
+Alt Text
+
+```text
+Nashville Zoo
 ```
 
 ## Nashville Department of Waste Services
@@ -445,6 +504,12 @@ Nashville Street Project
 /public/images/ndws-202503281016-thumb.png
 ```
 
+Alt Text
+
+```text
+Nashville Department of Waste Services
+```
+
 ## National Museum of African American Music (NMAAM)
 
 ```text
@@ -453,6 +518,12 @@ Nashville Street Project
 
 ```text
 /public/images/NMAAM logo-202105260611-thumb.png
+```
+
+Alt Text
+
+```text
+National Museum of African American Music (NMAAM)
 ```
 
 ## NaNoWriMo
@@ -496,6 +567,11 @@ NECAT (Nashville Education, Community and Arts Television)
 ```text
 /public/images/Oasis-Center-Logo-202503281045-thumb.png
 ```
+Alt Text
+
+```text
+Oasis Center
+```
 
 ## The Porch Writers' Collective
 
@@ -521,6 +597,12 @@ The Porch Writers' Collective
 
 ```text
 /public/images/Reading Paws-202504081148-202508220359-thumb.png
+```
+
+ Alt Text
+
+```text 
+Reading Paws
 ```
 
 ## Rockabye Beats
@@ -579,6 +661,12 @@ Southern Word
 
 ```text
 /public/images/TLC_Stacked_Logo_resized-201912201257-thumb.png
+```
+
+Alt Text
+
+```text
+Tennessee Language Center
 ```
 
 ## Turnip Green
