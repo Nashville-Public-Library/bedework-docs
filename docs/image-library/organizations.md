@@ -18,7 +18,7 @@ title: Organizations
 Alt Text
 
 ```text
-Adventure Science Center 
+Adventure Science Center
 ```
 
 ## Affordable Care Act
@@ -34,9 +34,8 @@ Adventure Science Center
 Alt Text
 
 ```text
-Affordable Care Act 
+Affordable Care Act
 ```
-
 
 ## American Red Cross
 
@@ -51,7 +50,7 @@ Affordable Care Act
 Alt Text
 
 ```text
-American Red Cross 
+American Red Cross
 ```
 
 ## Bringing Books to Life
@@ -66,8 +65,8 @@ American Red Cross
 
 Alt Text
 
-```text     
-Bringing Books to Life 
+```text
+Bringing Books to Life
 ```
 
 ## Country Music Hall of Fame
@@ -83,7 +82,7 @@ Bringing Books to Life
 Alt Text
 
 ```text
-Country Music Hall of Fame 
+Country Music Hall of Fame
 ```
 
 ## Department of Labor (USA)
@@ -109,7 +108,7 @@ Country Music Hall of Fame
 Alt Text
 
 ```text
-Frist Art Museum 
+Frist Art Museum
 ```
 
 ## Friends of Nashville Public Library
@@ -121,10 +120,11 @@ Frist Art Museum
 ```text
 /public/images/friends_bedework_white-201901110253-thumb.png
 ```
+
 Alt Text
 
 ```text
-Friends of Nashville Public Library 
+Friends of Nashville Public Library
 ```
 
 ## Global Education
@@ -169,7 +169,6 @@ Alt Text
 Dolly Parton's Imagination Library
 ```
 
-
 ## Legal Aid of Middle Tennessee and the Cumberlands
 
 ```text
@@ -183,7 +182,7 @@ Dolly Parton's Imagination Library
 Alt Text
 
 ```text
-Legal Aid of Middle Tennessee and the Cumberlands 
+Legal Aid of Middle Tennessee and the Cumberlands
 ```
 
 ## Library for the Deaf and Hard of Hearing
@@ -195,10 +194,11 @@ Legal Aid of Middle Tennessee and the Cumberlands
 ```
 /public/images/tndeaflibrary-202311271119-thumb.png
 ```
+
 Alt Text
 
 ```text
-Library for the Deaf and Hard of Hearing 
+Library for the Deaf and Hard of Hearing
 ```
 
 ## Metro Archives
@@ -214,7 +214,7 @@ Library for the Deaf and Hard of Hearing
 Alt Text
 
 ```text
-Metro Archives 
+Metro Archives
 ```
 
 ## Limitless Libraries
@@ -230,7 +230,7 @@ Metro Archives
 Alt Text
 
 ```text
-Limitless Libraries 
+Limitless Libraries
 ```
 
 ## Metro Arts Nashville
@@ -248,6 +248,7 @@ Alt-Text
 ```text
 Metro Arts Nashville
 ```
+
 ## Metro Nashville Government Seal
 
 ```text
@@ -353,17 +354,17 @@ Nashville Chess Center
 ## Nashville Opera
 
 ```text
-/public/images/NashvilleOperaLogo-202105260704.jpg
+/public/images/NashvilleOperaLogo-202512191047.jpg
 ```
 
 ```text
-/public/images/NashvilleOperaLogo.jpg-202105260704-thumb.png
+/public/images/NashvilleOperaLogo-202512191047-thumb.png
 ```
 
 Alt Text
 
 ```text
-Nashville Opera 
+Nashville Opera
 ```
 
 ## Nashville Public Library Foundation
@@ -379,7 +380,7 @@ Nashville Opera
 Alt Text
 
 ```text
-Nashville Public Library Foundation 
+Nashville Public Library Foundation
 ```
 
 ## Nashville Symphony
@@ -395,7 +396,7 @@ Nashville Public Library Foundation
 Alt Text
 
 ```text
-Nashville Symphony 
+Nashville Symphony
 ```
 
 ## Nashville Street Project
@@ -411,7 +412,7 @@ Nashville Symphony
 Alt Text
 
 ```text
-Nashville Street Project 
+Nashville Street Project
 ```
 
 ## Nashville Therapy Pets
@@ -466,7 +467,7 @@ Nashville Street Project
 
 Alt Text
 
-```text  
+```text
 National Novel Writing Month (NaNoWriMo)
 ```
 
@@ -479,9 +480,10 @@ National Novel Writing Month (NaNoWriMo)
 ```text
 /public/images/necat-web-logo-202503281040-thumb.png
 ```
+
 Alt Text
 
-```text 
+```text
 NECAT (Nashville Education, Community and Arts Television)
 ```
 
@@ -504,6 +506,7 @@ NECAT (Nashville Education, Community and Arts Television)
 ```text
 /public/images/the porch_new logo resized-202101260507-thumb.png
 ```
+
 Alt Text
 
 ```text
@@ -529,6 +532,7 @@ The Porch Writers' Collective
 ```text
 /public/images/rockaby-beats-450-202408261012-thumb.png
 ```
+
 Alt Text
 
 ```text
@@ -544,6 +548,7 @@ Rockabye Beats
 ```text
 /public/images/small-world-yoga-202503281103-thumb.png
 ```
+
 Alt Text
 
 ```text
@@ -559,6 +564,7 @@ Small World Yoga
 ```text
 /public/images/Southern-Word-Logo-Sq-202508150517-thumb.png
 ```
+
 Alt Text
 
 ```text
@@ -604,7 +610,7 @@ Turnip Green Creative Reuse
 Alt Text
 
 ```text
-U.S. Department of Veterans Affairs 
+U.S. Department of Veterans Affairs
 ```
 
 ## VITA Tax Assistance
@@ -620,5 +626,5 @@ U.S. Department of Veterans Affairs
 Alt Text
 
 ```text
-Volunteer Income Tax Assistance 
+Volunteer Income Tax Assistance
 ```
