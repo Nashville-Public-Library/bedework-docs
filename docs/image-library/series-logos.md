@@ -62,6 +62,7 @@ Be Well at NPL
 ```text
 /public/images/babies_and_books-202508250457-thumb.png
 ```
+
 Alt Text
 
 ```text
@@ -224,7 +225,6 @@ Alt Text
 music and movement
 ```
 
-
 ## Music Lessons
 
 ```text
@@ -239,6 +239,22 @@ Alt-text
 
 ```text
 music lessons
+```
+
+## Library Lunch and Learn
+
+```text
+/public/images/Library Lunch Learn Logo - 1-202512191229.jpg
+```
+
+```text
+/public/images/Library Lunch Learn Logo - 1-202512191229-thumb.png
+```
+
+Alt Text
+
+```text
+Circular “Library Lunch & Learn” logo on a dark blue background. Inside the circle is a stack of books with a coffee cup on top, flanked by two illustrated hands signing “L” and “3 in ASL.  The words “Library Lunch” curve across the top and “& Learn” curves along the bottom.
 ```
 
 ## NPL Means Business
