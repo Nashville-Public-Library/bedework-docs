@@ -70,6 +70,7 @@ nav:
       - add-events/topical-areas.md
       - add-events/series.md
       - add-events/public.md
+      - add-events/closed.md
   - Image Library:
       - image-library/topic-logos.md
       - image-library/series-logos.md
