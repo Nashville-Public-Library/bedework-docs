@@ -37,7 +37,7 @@ Use present tense to describe the closure event. Include any instructions for pa
 
 ### Image
 
-Use logo for Metro found at [Metro Nashville Government Seal](../image-library/organizations.md/#metro-nashville-government-seal)
+Use logo for Metro from image library.
 
 ### Contact
 
