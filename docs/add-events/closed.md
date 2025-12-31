@@ -34,3 +34,18 @@ Select the number of days the location will be closed. Do not include the day th
 Use present tense to describe the closure event. Include any instructions for patrons for using the library during the closure.
 
 > Bordeaux Branch is closed from Wednesday, October 15 until Sunday, October 19, for sidewalk repairs. We reopen on Monday, October 20. Use book return outside the entrance.
+
+### Image
+
+Use logo for Metro found at [Metro Nashville Government Seal](/image-library/organizations/#metro-nashville-government-seal)
+
+### Contact
+
+Use `Nashville Public Library`, or the responsible contact available during closure.
+
+### Locations
+
+- Ages: Select all three ages. 
+- Topic: None.
+- Locations: Choose location if matches any of the Locations browse categories. 
+- Series: Choose `Closed`. For closure lasting longer than three days, choose `Exhibits`, to list with ongoing events.
