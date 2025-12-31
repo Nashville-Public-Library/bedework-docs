@@ -43,7 +43,7 @@ Use logo for Metro found at [Metro Nashville Government Seal](/image-library/org
 
 Use `Nashville Public Library`, or the responsible contact available during closure.
 
-### Locations
+### Topical Areas / Categories
 
 - Ages: Select all three ages. 
 - Topic: None.
