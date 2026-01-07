@@ -33,7 +33,7 @@ Choose your recurrence method. There are two ways to add recurrences. Choose Onl
    1. Look in the “Recurrence Rules” section of the form.
    1. Select the checkbox next to “show advanced recurrence rules”.
    1. Select the frequency (daily, weekly, monthly)
-   1. Under Repeat, select an end date one day past the end of the next quarter. (e.g., for a program occurring every Thursday through the 30th, enter the end date as the 31st). **Do not keep _forever_ selected**.
+   1. Under Repeat, select an end date **one day past** the end of the next quarter. For a program occurring every Thursday, through May 26, enter the end date as the Jun 1. **Do not keep _forever_ selected**.
    1. Under Interval, define the recurrence pattern.
       - For every other Monday => Select “weekly” (under “Frequency”) + change the interval to “every 2 weeks” + select the day of the week.
       - For every 2nd and 4th Wednesday => Select “monthly” (under “Frequency”) + change the drop down (under “Interval”) to “the second” + check the box next to Wed. Then change the drop down (under “Interval) to “the fourth” + check the box next to Wed.
