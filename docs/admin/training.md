@@ -61,7 +61,7 @@ https://nashville-public-library.github.io/bedework-docs/
 Guide combines all directions you need to fill out the 'Add Events' form.
 Important
 
--   Remove recurring events that fall on library [Closed Dates](https://events.library.nashville.org/cal/main/listEvents.do?b=de&listMode=true&setappvar=bwFilters%28%7c%7c%7cbwNav3-useragrpcalsuiteMainCampusSeriesClosed%29&setappvar=bwQuery%28%29), including Labor Day, Veterans Day, Thanksgiving.
+-   Remove recurring events that land during library building closures, including Martin Luther King, Jr. Day, Labor Day, and Juneteenth.
 -   Use Recurrence Rules for all events that occur at a regular interval.
 -   Do not add events scheduled more than six months ahead.
 -   Do not list any events on social media before they are added to the events calendar.

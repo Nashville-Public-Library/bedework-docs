@@ -55,8 +55,6 @@ The variable part is after `publicaliasesBrowseByTopic`
 
 The variable part is after `useragrpcalsuiteMainCampusSeries`
 
-- Closed
-<https://events.library.nashville.org/cal/main/listEvents.do?b=de&listMode=true&setappvar=bwFilters(|||bwNav3-useragrpcalsuiteMainCampusSeriesClosed)&setappvar=bwQuery()>
 - Be Well at NPL
 <https://events.library.nashville.org/cal/main/setSelectionList.do?b=de&listMode=true&setappvar=bwFilters(|||bwNav3-useragrpcalsuiteMainCampusSeriesBeWellatNPL)&setappvar=bwQuery()>
 - Holiday

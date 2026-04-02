@@ -105,7 +105,7 @@ Choose the series. Tags are used to create curated lists of events--for both int
 
 ### Closed (Admin)
 
-- Use only for dates when the library is closed (holidays, renovation closures, etc.).
+- Do not use. See also [Closed](../add-events/closed.md).
 
 ### Courtyard Concerts (MarComm)
 
