@@ -79,6 +79,12 @@ Illustration for Babies and books has four toddlers crawing and reading books.
 /public/images/NPL_BannedBooksWeek_450 (1)-201908211026-thumb.png
 ```
 
+Alt Text
+
+```text
+Logo for Banned Books Week is struck through with red lines.
+```
+
 ## Board Game Night
 
 ```text
@@ -102,7 +108,7 @@ Illustration for Babies and books has four toddlers crawing and reading books.
 Alt Text
 
 ```text
-board games
+Chess Board, dominoes, and playing cards.
 ```
 
 ## Book Bingo
@@ -114,6 +120,12 @@ board games
 ```text
 /public/images/bingo-202505231026-thumb.png
 ```
+
+Alt Text
+
+```text
+Three bingo cards in blue green and red.
+``` 
 
 ## Black History Month
 
@@ -170,7 +182,7 @@ books and woman illustration
 Alt Text
 
 ```text
-I came to nashville not to bring inspiration but to gain inspiration from the great movement that has taken place in this community. martin luther king, jr.
+Window is inscrbed with text, I came to nashville not to bring inspiration but to gain inspiration from the great movement that has taken place in this community. Martin Luther King, jr.
 ```
 
 ## Creation Station
@@ -238,7 +250,7 @@ music and movement
 Alt-text
 
 ```text
-music lessons
+Chalkboard reads "music lessons."
 ```
 
 ## Library Lunch and Learn
@@ -267,6 +279,12 @@ Circular “Library Lunch & Learn” logo on a dark blue background. Inside the 
 /public/images/npl-means-business-web-2-202203030358-thumb.png
 ```
 
+Alt Text
+
+```text
+Logo for NPL Means Business shows a lightbulb with city buildings inside.
+```
+
 ## Pokèmon Club
 
 ```text
@@ -280,7 +298,7 @@ Circular “Library Lunch & Learn” logo on a dark blue background. Inside the 
 Alt Text
 
 ```text
-pokemon club. nplf. wheelchair logo.
+Logos for Pokemon Club. NPLF. Wheelchair.
 ```
 
 ## Pride NPL Logo
@@ -293,6 +311,12 @@ pokemon club. nplf. wheelchair logo.
 /public/images/npl-pride-logo-202208180942-thumb.png
 ```
 
+Atl Text
+
+```text
+Logo shows Nashville Public Library in rainbow colors.
+```
+
 ## Read to Rise
 
 ```text
@@ -301,6 +325,12 @@ pokemon club. nplf. wheelchair logo.
 
 ```text
 /public/images/read-to-rise-bedework-201808141129-thumb.png
+```
+
+Alt Text
+
+```text
+Logo for Read to Rise has a hot air balloon.
 ```
 
 ## Seed Exchange
@@ -313,6 +343,12 @@ pokemon club. nplf. wheelchair logo.
 /public/images/seed-exchange-bedework-201902201102-thumb.png
 ```
 
+Alt Text
+
+```text
+Logo. Seed Exchange in a green circle with six white stars. Nashville Public Library in green text below.
+```
+
 ## Shakespeare Allowed
 
 ```
@@ -321,6 +357,12 @@ pokemon club. nplf. wheelchair logo.
 
 ```
 /public/images/shakespeare-allowed_80px.png
+```
+
+Alt Text
+
+```text
+Illustration of balding man wearing sixteenth century garments.
 ```
 
 ## Starry Night Story Time
@@ -336,7 +378,7 @@ pokemon club. nplf. wheelchair logo.
 Alt-Text
 
 ```text
-starry night illustration
+Illustration adapts Van Gogh's Starry night painting. 
 ```
 
 ## Studio NPL
@@ -347,6 +389,12 @@ starry night illustration
 
 ```
 /public/images/studio-npl-thumb-thumb.png
+```
+
+Alt Text
+
+```text
+Logo for Studio NPL is on a blue and black background. 
 ```
 
 ## Summer Reading Challenge
