@@ -332,6 +332,11 @@ bag lunch sack
 ```text
 /public/images/mahjong-202411250110-thumb.png
 ```
+Alt Text
+
+```text
+mahjong tiles.
+```
 
 ## Movie Matinee (Adults)
 
@@ -341,6 +346,12 @@ bag lunch sack
 
 ```
 /public/images/movie-matinee-adults-202212050410-thumb.png
+```
+
+Alt Text
+
+```text
+Logo for Movie Matinee has words against a clapperboard background.
 ```
 
 ## Music note
@@ -356,7 +367,7 @@ bag lunch sack
 Alt Text
 
 ```text
-music note
+Illustration of a music note.
 ```
 
 ## NAZA Honeycomb

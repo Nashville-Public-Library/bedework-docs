@@ -434,7 +434,7 @@ Nashville Opera
 Alt Text
 
 ```text
-Nashville Public Library Foundation
+Logo for Nashville Public Library Foundation.
 ```
 
 ## Nashville Symphony
@@ -450,7 +450,7 @@ Nashville Public Library Foundation
 Alt Text
 
 ```text
-Nashville Symphony
+Logo for Nashville Symphony.
 ```
 
 ## Nashville Street Project
@@ -466,7 +466,7 @@ Nashville Symphony
 Alt Text
 
 ```text
-Nashville Street Project
+Logo for Nashville Street Project.
 ```
 
 ## Nashville Therapy Pets
@@ -482,7 +482,7 @@ Nashville Street Project
 Alt Text
 
 ```text
-Nashville Therapy Pets
+Logo for Nashville Therapy Pets.
 ```
 
 ## Nashville Zoo
@@ -497,7 +497,7 @@ Nashville Therapy Pets
 Alt Text
 
 ```text
-Nashville Zoo
+Logo for Nashville Zoo has giraffe silhouette.
 ```
 
 ## Nashville Department of Waste Services

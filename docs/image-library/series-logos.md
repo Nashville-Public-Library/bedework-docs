@@ -417,6 +417,12 @@ Logo for Studio NPL is on a blue and black background.
 /public/images/votes-for-women-img-2023-202304130415-thumb.png
 ```
 
+Alt Text
+
+```text
+Yellow letter w logo atop purple text reading "Votes for Women. Legacy of the 19th amendment. Nashville Public Library."
+``` 
+
 ## Women's History Month
 
 ```text
@@ -435,4 +441,10 @@ Logo for Studio NPL is on a blue and black background.
 
 ```text
 /public/images/yeah-rock-block-202508280315-thumb.png
+```
+
+Alt Text
+
+```text
+Logo for YEAH! Rock Block has a pennant and tiny Nashville Public Library logo.
 ```
