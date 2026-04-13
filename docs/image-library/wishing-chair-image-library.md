@@ -449,10 +449,9 @@ puss in boots
 
 Alt-text
 
-```Logo. Rockabilly road. Three goats wearing ties and bows.
 ```
-
-
+Logo. Rockabilly road. Three goats wearing ties and bows.
+```
 
 ## Sky Bear
 
