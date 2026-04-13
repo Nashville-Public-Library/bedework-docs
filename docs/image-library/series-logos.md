@@ -18,7 +18,7 @@ title: Series
 Alt Text
 
 ```text
-adventure club
+Logo for adventure club has bear wearing a backpack.
 ```
 
 ## A.T.L.A.S. (At The Library After School)
@@ -50,7 +50,7 @@ notepad with pens
 Alt Text
 
 ```text
-Be Well at NPL
+Logo for Be Well at NPL has boxes with images of heart with heartbeat line, person meditating, fruit basket, and barbell.
 ```
 
 ## Babies and Books
@@ -66,7 +66,7 @@ Be Well at NPL
 Alt Text
 
 ```text
-babies and books
+Illustration for Babies and books has four toddlers crawing and reading books.
 ```
 
 ## Banned Books Week

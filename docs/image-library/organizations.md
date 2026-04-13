@@ -50,7 +50,7 @@ Affordable Care Act
 Alt Text
 
 ```text
-American Red Cross
+Logo. Red cross. American Red Cross
 ```
 
 ## Bringing Books to Life
@@ -66,7 +66,7 @@ American Red Cross
 Alt Text
 
 ```text
-Bringing Books to Life
+Logo. Bringing Books to Life.
 ```
 
 ## Country Music Hall of Fame
@@ -82,7 +82,7 @@ Bringing Books to Life
 Alt Text
 
 ```text
-Country Music Hall of Fame
+Logo. Round black and yellow circle. Country Music Hall of Fame and Museum. Nashville Tennessee.
 ```
 
 ## Department of Labor (USA)
@@ -98,7 +98,7 @@ Country Music Hall of Fame
  Text
 
 ```text
-Department of Labor (USA)
+Logo. Seal for United States Department of Labor.
 ```
 
 ## Frist Art Museum
@@ -114,7 +114,7 @@ Department of Labor (USA)
 Alt Text
 
 ```text
-Frist Art Museum
+Logo for Frist Art Museum.
 ```
 
 ## Friends of Nashville Public Library
@@ -130,7 +130,7 @@ Frist Art Museum
 Alt Text
 
 ```text
-Friends of Nashville Public Library
+Logo for Friends of Nashville Public Library!
 ```
 
 ## Global Education
@@ -141,6 +141,12 @@ Friends of Nashville Public Library
 
 ```text
 /public/images/globaleducationlogo-201909300515-thumb.png
+```
+
+Alt Text
+
+```text
+Logo for Global edcutation
 ```
 
 ## Office of Homeless Services
@@ -156,7 +162,7 @@ Friends of Nashville Public Library
 Alt Text
 
 ```text
-Office of Homeless Services
+Logo for Office of Homeless Services has silhouette of houses.
 ```
 
 ## Dolly Parton's Imagination Library
@@ -172,7 +178,7 @@ Office of Homeless Services
 Alt Text
 
 ```text
-Dolly Parton's Imagination Library
+Logo for Dolly Parton's Imagination Library.
 ```
 
 ## Legal Aid of Middle Tennessee and the Cumberlands
@@ -220,7 +226,7 @@ Library for the Deaf and Hard of Hearing
 Alt Text
 
 ```text
-Metro Archives
+Logo for Metro Nashville Archives.
 ```
 
 ## Limitless Libraries
@@ -236,7 +242,7 @@ Metro Archives
 Alt Text
 
 ```text
-Limitless Libraries
+Logo for Limitless Libraries.
 ```
 
 ## Metro Arts Nashville
@@ -252,7 +258,7 @@ Limitless Libraries
 Alt-Text
 
 ```text
-Metro Arts Nashville
+Logo for Metro Arts Nashville.
 ```
 
 ## Metro Nashville Government Seal
@@ -268,7 +274,7 @@ Metro Arts Nashville
 Alt-text
 
 ```text
-Metro Nashville government seal
+Metro Nashville government seal.
 ```
 
 ## Metro Parks
@@ -284,7 +290,7 @@ Metro Nashville government seal
 Alt Text
 
 ```text 
-Metro Parks
+Logo for Metro Parks has imagery based on the Parthenon.
 ```
 
 ## Metro Water Services
@@ -300,7 +306,7 @@ Metro Parks
 Alt Text
 
 ```text
-Metro Water Services
+Logo for Metro Water Services.
 ```
 
 ## Mental Health Cooperative Outreach
