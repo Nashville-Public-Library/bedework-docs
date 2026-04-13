@@ -18,7 +18,7 @@ title: Topic Logos
 Alt Text
 
 ```text
-adult literacy
+Logo for adult literacy are against a blue bacground.
 ```
 
 ## Anime 
@@ -66,6 +66,12 @@ Hand sketching anime character
 /public/images/bingo-202505231026-thumb.png
 ```
 
+Alt Text
+
+```text
+Three bingo cards in blue green and red.
+```
+
 ## Book Clubs
 
 ```text
@@ -79,7 +85,7 @@ Hand sketching anime character
 Alt Text
 
 ```text
-Join us for book club
+Join us for book club words next to a stack of books.
 ```
 
 ## Book Sales
@@ -95,7 +101,7 @@ Join us for book club
 Alt Text
 
 ```text
-book sale
+Words book sale atop a row of books.
 ```
 
 ## Caffeinated Book Club
