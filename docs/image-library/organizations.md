@@ -598,17 +598,17 @@ The Porch Writers' Collective
 ## Reading Paws
 
 ```text
-/public/images/Reading Paws-202504081148-202508220359.png
+/public/images/upload_6a64e3d5_0d5b_462c_88b1_db8fb5e7853c_00015369-202604211409.tmp
 ```
 
 ```text
-/public/images/Reading Paws-202504081148-202508220359-thumb.png
+/public/images/upload_6a64e3d5_0d5b_462c_88b1_db8fb5e7853c_00015369-202604211409-thumb.png
 ```
 
  Alt Text
 
 ```text 
-Reading Paws
+saint bernard dog.
 ```
 
 ## Rockabye Beats
