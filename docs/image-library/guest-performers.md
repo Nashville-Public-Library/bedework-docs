@@ -115,6 +115,12 @@ title: Guest Performers
 /public/images/rachrodriguez-550-202505020210-thumb.png
 ```
 
+Alt Text
+
+```text
+latinx woman with long dark hair and beaded jewelery.
+```
+
 ## Rachel Sumner
 
 ```text
@@ -123,6 +129,12 @@ title: Guest Performers
 
 ```text
 /public/images/rahcel%20sumner-202505021132-thumb.png
+```
+
+Alt Text
+
+```text
+Woma with long blonde hair, wears a tie-dye t-shirt. She holds up two fingers in a peace sign.
 ```
 
 ## Magician Rodney Kelley
