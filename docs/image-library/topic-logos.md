@@ -447,7 +447,7 @@ needle and thread
 Alt Text
 
 ```text
-shakespeare illustration 
+Digital illustration of a balding man with a mustache and goatee. He dresses in maroon outfit, holds a skull. His nose and goatee are arrows pointing down. 
 ```
 
 ## Story Time
