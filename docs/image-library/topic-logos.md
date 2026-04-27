@@ -463,7 +463,7 @@ shakespeare illustration
 Alt Text
 
 ```text
-story time
+Logo for story time has the word story in hand lettering and time in multi-coloered block lettering.
 ```
 
 ## STEAM
@@ -479,7 +479,7 @@ story time
 Alt Text
 
 ```text
-steam. Science Technology Engineering Art Math
+steam logo. the word steam is in all-caps green. a pencil and a ruler are crossed. Black icons for gear, nuclear symbol, magnifying glass, number one surround. Words at bottom read science technology engineering arts math.
 ```
 
 ## Cuenta Cuentos (Spanish Story Time)
