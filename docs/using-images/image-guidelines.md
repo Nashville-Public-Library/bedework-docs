@@ -5,21 +5,23 @@ sidebar_position: 1
 
 # Image Guidelines
 
-If there is an existing graphic / logo (story time, studio, etc.), use the established image as the thumbnail image in Bedework. Please don’t create a new image. 
+If there is an existing graphic / logo (story time, Studio NPL, etc.), use the established image as the thumbnail image in Bedework. Please don’t create a new image. 
 
-Use the _Image Library_ by going to <u>[Click here to choose from the library of images](../image-library/series-logos.md)</u>. Use the copy graphic to copy the image URL path. Use your keyboard shortcuts to paste (CTRL+V) the path in the table into the Image URL and Thumbnail URL fields. The URL paths links will begin `/public/img/`. If there is not an existing graphic, you may create an image for the thumbnail graphic in Bedework.
-
-- Calendar approvers will review the image.
+Use the _Image Library_ by going to <u>[Click here to choose from the library of images](../image-library/series-logos.md)</u>. 
+1. Use the copy graphic to copy the image URL path. 
+1. Use your keyboard shortcut to paste (CTRL+V) the path in the table into the Image URL, Thumbnail URL, and Alt Text fields. The URL paths links will begin `/public/img/`. 
+   
+- Alt Text is legally required for all images. Patrons using screen readers hear this text read aloud. This should be a description of the image pictured, not just the name of the event. 
+- If there is not an existing graphic, create an image one to upload.
+- Calendar approvers review the image.
 - Images submitted with events may be removed, remade, or replaced, at the approver’s discretion.
-- Accepted images will be added to the Images Library accessible from the Bedework entry form for re-use next quarter.
+- Accepted images are addded to the Images Library accessible from the Bedework entry form for re-use later.
 
 ## Size and Text Specifications
 
 - Max width: 400px
 - Max height: 600px
-- File size: Less than 100 KB
-- Thumbnail is automatically created when you upload an image. You may also create a separate thumbnail image. If you want to use a separate thumbnail image, email the images to Web Services and we’ll add them for you.
-- Do not leave white space around the image. White space is added automatically by the calendar stylesheet.
+- **File size: Less than 100 KB**
 - Words in icon-type images (“Movie Friday” or “Chocolate Worms”) should be readable at thumbnail-size, which is 80px wide.
 
 ## Images are required for the following events
