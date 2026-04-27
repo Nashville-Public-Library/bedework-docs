@@ -354,7 +354,7 @@ Music for Seniors
 Alt Text
 
 ```text
-Nashville Ballet
+Logo shows Nashville Ballet in white letters against a maroon background. A white and grey wavy figure to the left of words evokes a dancer.
 ```
 
 ## Nashville Chess Center

@@ -124,7 +124,7 @@ logo for mister bonds science guys has a green test tube and icons for planet an
 Alt Text
 
 ```text
-latinx woman with long dark hair and beaded jewelery.
+feminine latinx person with long dark hair and beaded jewelery rests her head on her hand.
 ```
 
 ## Rachel Sumner
@@ -151,6 +151,12 @@ Woman with long blonde hair, wears a tie-dye t-shirt. She holds up two fingers.
 
 ```text
 /public/images/resized_Rodney Kelley-202003260615-thumb.png
+```
+
+Alt Text
+
+```text
+Smiling man wearing black with a blue vest holds out both hands open. A parakeet stands on his shoulder. 
 ```
 
 ## Scott Tripp Balloon Guy
