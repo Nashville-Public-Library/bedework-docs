@@ -65,7 +65,7 @@ title: Guest Performers
 /public/images/lee_con_klem-mari promo picture_bedework2-202009150648-thumb.png
 ```
 
-## Mr. Bond and the Science Guys
+## Mr. Bond's Science Guys
 
 ```text
 /public/images/mr-bond-science-logo-202305050735.jpg
@@ -73,6 +73,12 @@ title: Guest Performers
 
 ```text
 /public/images/mr-bond-science-logo-202305050735-thumb.png
+```
+
+Alt Text
+
+```text
+logo for mister bonds science guys has a green test tube and icons for planet and nuclear fission. guys letters are in hexagon shapes.
 ```
 
 ## Mr. Rich Super Science TN
@@ -134,7 +140,7 @@ latinx woman with long dark hair and beaded jewelery.
 Alt Text
 
 ```text
-Woma with long blonde hair, wears a tie-dye t-shirt. She holds up two fingers in a peace sign.
+Woman with long blonde hair, wears a tie-dye t-shirt. She holds up two fingers.
 ```
 
 ## Magician Rodney Kelley
