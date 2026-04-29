@@ -169,6 +169,11 @@ books and woman illustration
 /public/images/books-brothers-202102190213-thumb.png
 ```
 
+Alt Text
+
+```text
+Logo. Illustration of two stacked books creating a letter b. Words Books Brothers in white on a black background.
+
 ## Civil Rights Room
 
 ```text
@@ -328,7 +333,7 @@ Logos for Pokemon Club. NPLF. Wheelchair.
 Atl Text
 
 ```text
-Logo shows Nashville Public Library in rainbow colors.
+Nashville Public Library book logo is redrawn in rainbow colors.
 ```
 
 ## Read to Rise
@@ -419,6 +424,12 @@ Logo for Studio NPL is on a blue and black background.
 
 ```text
 /public/images/SRC_Logo(CLR)_FINAL_bedework2-202105260554-thumb.png
+```
+
+Alt Text
+
+```text
+Logo reads Summer Reading Challenge. Blue and orange words are foundation for a cityscape. Two human hands hold book aloft.
 ```
 
 ## Votes for Women
