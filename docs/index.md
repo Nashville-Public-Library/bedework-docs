@@ -2,16 +2,18 @@
 title: Introduction
 ---
 
-# Before You Begin
+# Let's Begin
 
-- Always check the events calendar before adding an event to make sure the event is not already listed.
-- Only add events to Bedework if they are confirmed.
-- Add recurring events in three month periods matching publishing cycle (Dec Jan Feb, Mar Apr May, Jun Jul Aug, Sept Oct Nov).
-  - For example, if you have a story time that happens every Wednesday, you'll add that event to Bedework as 4 recurring event series (one DecJanFeb listing, one MarAprMay listing, one JunJulAug listing, and one SepOctNov listing).
-  - Do not add events scheduled more than nine months out.
+- Always check [live events calendar](https://events.library.nashville.org/) before adding an event, to prevent duplicates.
+- Only add events to Bedework when details are confirmed.
+- Add recurring events in seasonal three month periods (Dec Jan Feb, Mar Apr May, Jun Jul Aug, Sept Oct Nov).
+  - For example, for a story time recurring every Wednesday, add event to Bedework as four event recurrences (one DecJanFeb listing, one MarAprMay listing, one JunJulAug listing, and one SepOctNov listing).
+  - Add future events, but not more than nine months in advance.
 
-## Other Guides / Documentation
+## Related Guides
 
-[NPL Website Guide](https://nashville-public-library.github.io/mkdocsuaurus/){ .md-button .md-button--primary }
+[Nashville Public Library Website Guide](https://nashville-public-library.github.io/mkdocsuaurus/){ .md-button .md-button--primary }
+
+[Nashville Public Library Style Guide](https://docs.google.com/document/d/1GEg7vq-WWuBhZaVDM39cERYrDljqLXI5CUQngT1d694/edit?usp=sharing){ .md-button .md-button--primary }
 
 [GitHub Documentation Repo](https://github.com/Nashville-Public-Library/documentation){ .md-button .md-button--primary }
