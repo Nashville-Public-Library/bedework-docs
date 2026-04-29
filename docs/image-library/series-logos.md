@@ -159,21 +159,6 @@ Alt Text
 books and woman illustration
 ```
 
-## Books Brothers
-
-```text
-/public/images/books-brothers-202102190213.jpg
-```
-
-```text
-/public/images/books-brothers-202102190213-thumb.png
-```
-
-Alt Text
-
-```text
-Logo. Illustration of two stacked books creating a letter b. Words Books Brothers in white on a black background.
-
 ## Civil Rights Room
 
 ```text
@@ -220,26 +205,6 @@ Illustration depicting several colors of watercolors on a white canvas.
 Illustration of a stick figure carrying pencil.
 ```
 
-## Hispanic Heritage Month (Spanish)
-
-```
-/public/images/HispanicHeritage_Web(Square)_SPN_bedework2-202009150635.jpg
-```
-
-```
-/public/images/HispanicHeritage_Web(Square)_SPN_bedework2-202009150635-thumb.png
-```
-
-## Hispanic Heritage Month (English)
-
-```
-/public/images/HispanicHeritage_Web(400x602)_ENG_SQR_bedework-202009150639.jpg
-```
-
-```
-/public/images/HispanicHeritage_Web(400x602)_ENG_SQR_bedework-202009150639-thumb.png
-```
-
 ## Music and Movement
 
 ```text
@@ -269,7 +234,7 @@ music and movement
 Alt-text
 
 ```text
-Chalkboard reads "music lessons."
+Chalk board reads music lessons.
 ```
 
 ## Library Lunch and Learn
@@ -447,16 +412,6 @@ Alt Text
 ```text
 Yellow letter w logo atop purple text reading "Votes for Women. Legacy of the 19th amendment. Nashville Public Library."
 ``` 
-
-## Women's History Month
-
-```text
-/public/images/WHM_SquareGraphic-eddie-202502070440.jpg
-```
-
-```text
-/public/images/WHM_SquareGraphic-eddie-202502070440-thumb.png
-```
 
 ## YEAH! Rock Block
 
