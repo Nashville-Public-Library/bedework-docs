@@ -300,7 +300,7 @@ movie matinee
 Alt Text
 
 ```text
-LEGO
+logo shows the word lego in all-caps multi-coloered letters. Background has mainly yellow with transparent circles.
 ```
 
 ## Library Play Date
