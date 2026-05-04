@@ -201,6 +201,8 @@ Illustration depicting several colors of watercolors on a white canvas.
 /public/images/upload_bdaf82e5_59c5_4d46_abbb_5c48e1327a25_00003048-202604221447-thumb.png
 ```
 
+Alt Text
+
 ```text
 Illustration of a stick figure carrying pencil.
 ```
