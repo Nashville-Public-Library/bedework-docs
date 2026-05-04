@@ -234,7 +234,7 @@ music and movement
 Alt-text
 
 ```text
-Chalk board reads music lessons.
+Logo for music lessons has sketches of electric guitar and stars.
 ```
 
 ## Library Lunch and Learn
