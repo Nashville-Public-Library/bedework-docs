@@ -640,7 +640,7 @@ Rockabye Beats
 Alt Text
 
 ```text
-Small World Yoga
+Small World Yoga logo features silhouette of a person in a yoga pose, standing on an orange mat, with earth sun behind them.
 ```
 
 ## Southern Word

@@ -56,6 +56,11 @@ Hand sketching anime character
 /public/images/bi-lingual-story-time-201612120353-thumb.png
 ```
 
+Alt Text
+
+```text
+Cuenta Cuentos in block multicolored letters.
+
 ## Bingo
 
 ```text
@@ -132,7 +137,7 @@ caffeinated book club
 Alt Text
 
 ```text
-card club
+Black an white modern handwritten playing card.
 ```
 
 ## Coloring Club
@@ -158,7 +163,7 @@ card club
 Alt Text
 
 ```text
-illustration of keyboard and mouse
+illustration of keyboard and mouse.
 ```
 
 ## Dungeons & Dragons
@@ -174,7 +179,7 @@ illustration of keyboard and mouse
 Alt Text
 
 ```text
-dungeons and dragons book cover
+dungeons and dragons book cover.
 ```
 
 ## English Conversation Club
@@ -200,7 +205,7 @@ dungeons and dragons book cover
 Alt Text
 
 ```text
-piggy bank  
+illustration of piggy bank.  
 ```
 
 ## Gamers United
@@ -216,7 +221,7 @@ piggy bank
 Alt Text
 
 ```text
-gamers united
+Words gamers united in orange text against a blue and white background.
 ```
 
 ## Hermitage Write-In
@@ -274,7 +279,7 @@ homeschool friends
 Alt Text
 
 ```text
-movie matinee
+movie matinee logo with red curtains.
 ```
 
 ## Knitting 101
@@ -312,6 +317,11 @@ logo shows the word lego in all-caps multi-coloered letters. Background has main
 ```text
 /public/images/library-play-date-1-202506250424-thumb.png
 ```
+
+Alt Text
+
+```text
+Words Library play date are next to two pink seal designs.
 
 ## Lunch Sack
 
@@ -636,5 +646,5 @@ watercolor painting
 Alt Text
 
 ```text
-writer support group
+Logo has words writer support group in cursive, with a pen tip, against a loose leaf paper background.
 ```

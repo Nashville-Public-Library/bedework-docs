@@ -140,7 +140,7 @@ Three bingo cards in blue green and red.
 Alt Text
 
 ```text
-Black History Month Logo
+Graphic reads celebrate black history month with us. library.nashville.org/bhm. White letters against a blue and red background.
 ```
 
 ## Black Female Authors Book Club
@@ -220,7 +220,7 @@ Illustration of a stick figure carrying pencil.
 Alt Text
 
 ```text
-music and movement
+music and movement graphic shows a streaming player with play controls.
 ```
 
 ## Music Lessons
@@ -412,7 +412,7 @@ Logo reads Summer Reading Challenge. Blue and orange words are foundation for a 
 Alt Text
 
 ```text
-Yellow letter w logo atop purple text reading "Votes for Women. Legacy of the 19th amendment. Nashville Public Library."
+Yellow letter with logo atop purple text reading "Votes for Women. Legacy of the 19th amendment. Nashville Public Library."
 ``` 
 
 ## YEAH! Rock Block
