@@ -137,7 +137,7 @@ caffeinated book club
 Alt Text
 
 ```text
-Black an white modern handwritten playing card.
+Black an white modern block letters reading card club.
 ```
 
 ## Coloring Club
@@ -149,6 +149,11 @@ Black an white modern handwritten playing card.
 ```text
 /public/images/COLORING CLUB (1)-202312190250-thumb.png
 ```
+
+Alt Text
+
+```text
+Logo for coloring club has ten crayons.
 
 ## Computers and Technology
 
@@ -179,7 +184,7 @@ illustration of keyboard and mouse.
 Alt Text
 
 ```text
-dungeons and dragons book cover.
+dungeons and dragons book cover is outlined in red.
 ```
 
 ## English Conversation Club
@@ -336,7 +341,7 @@ Words Library play date are next to two pink seal designs.
 Alt Text
 
 ```text
-bag lunch sack
+brown paper sack next to red apple.
 ```
 
 ## Mahjong
@@ -383,7 +388,7 @@ Logo for Movie Matinee has words against a clapperboard background.
 Alt Text
 
 ```text
-Illustration of a music note.
+Illustration of a music note in purple.
 ```
 
 ## NAZA Honeycomb
@@ -552,7 +557,7 @@ tai chi
 Alt Text
 
 ```text
-teens at main
+teens at main logo has these words under nashville public library logo. Logo is blue, yellow and orange.
 ```
 
 ## Teen Hangout

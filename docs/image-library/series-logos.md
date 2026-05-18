@@ -287,7 +287,7 @@ Alt Text
 Logos for Pokemon Club. NPLF. Wheelchair.
 ```
 
-## Pride NPL Logo
+## Pride Nashville Public library Logo
 
 ```
 /public/images/npl-pride-logo-202208180942.jpg
