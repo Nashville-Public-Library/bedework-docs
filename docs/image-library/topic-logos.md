@@ -327,6 +327,7 @@ Alt Text
 
 ```text
 Words Library play date are next to two pink seal designs.
+```
 
 ## Lunch Sack
 
@@ -353,6 +354,7 @@ brown paper sack next to red apple.
 ```text
 /public/images/mahjong-202411250110-thumb.png
 ```
+
 Alt Text
 
 ```text

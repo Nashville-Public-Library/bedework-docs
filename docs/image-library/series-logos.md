@@ -18,7 +18,7 @@ title: Series
 Alt Text
 
 ```text
-Logo for adventure club has bear wearing a backpack.
+Illustration reads adventure club. Background is a blue a digital map. A cartoon bear wears a orange backpack. Bear holds a paper map.  
 ```
 
 ## A.T.L.A.S. (At The Library After School)

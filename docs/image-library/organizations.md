@@ -210,7 +210,7 @@ Legal Aid of Middle Tennessee and the Cumberlands
 Alt Text
 
 ```text
-Library for the Deaf and Hard of Hearing
+Blue logo of human hand. Index finger and thumb are extended.
 ```
 
 ## Metro Archives
