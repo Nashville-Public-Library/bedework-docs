@@ -448,7 +448,7 @@ Comic book club panel discussion
 Alt Text
 
 ```text
-needle and thread
+Illustration. A string is threaded through a needle. 
 ```
 
 ## Shakespeare Allowed
