@@ -606,7 +606,7 @@ teen time go
 Alt Text
 
 ```text
-vinyl club
+Yellow logo for vinyl club. Library logo is surrounded by concentric circles. A tone-arm extends across the record.
 ```
 
 ## Voting
