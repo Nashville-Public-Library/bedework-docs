@@ -60,6 +60,7 @@ Alt Text
 
 ```text
 Cuenta Cuentos in block multicolored letters.
+```
 
 ## Bingo
 
@@ -118,6 +119,7 @@ Words book sale atop a row of books. book sale logo has url for npl.org slash fr
 ```text
 /public/images/caffeinated-book-club-202508061039-thumb.png
 ```
+
 Alt Text
 
 ```text
@@ -154,6 +156,7 @@ Alt Text
 
 ```text
 Logo for coloring club has ten crayons.
+```
 
 ## Computers and Technology
 
