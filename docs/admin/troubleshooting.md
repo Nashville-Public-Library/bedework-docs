@@ -59,26 +59,6 @@ When we upgraded to 3.10, URLs changed. Bedework Vendor wrote a translator to th
 - New style - feeder or vfeeder
 2020: reviewed code and it looks like we are NOT using any old style widgets.
 
-## Emergency Restart
-
-1. Notify Shared Systems, Bedework Application Admin, then Back-up staff.
-1. Login to server via ssh. `sudo reboot`.
-
-- If this fails, contact Bedework Vendor.
-- Post a note to the Intranet notifying staff that the events calendar is down and we are working on it.
-- If the calendar is affecting the home page, replace the homepage calendar feed with an alternate box (we’d need to come up with some kind of alternate content and add it to the page code, commented out).
-- Once calendar is back up:
-  - Post a note to the Intranet notifying staff.
-  - Reinstate the home page calendar feed and comment out the replacement box.
-
-1. Past errors:
-    1. `Service Temporarily Unavailable
-
-> The server is temporarily unable to service your request due to maintenance downtime or capacity problems. Please try again later.`
-`Apache/2.2.3 (Red Hat) Server at events.library.nashville.org Port 80`
-
-Info: Bedework Vendor had a backup file saved somewhere and Bedework was trying to load two files at once. For some reason it started causing problems one day. He removed the backup file and the calendar was fine.`
-
 ## Event Stuck in Approval Queue
 
 Events stuck in approval queue that don’t really exist.
@@ -87,3 +67,29 @@ Events stuck in approval queue that don’t really exist.
 1. Test.
 1. If event is still in the database, and it is a master event, open the master event, then clear the recurrence pattern and reset it. Save the master event. Find the event in Bedework admin console and try to delete an instance again.
 1. If the event is still stuck, notify Bedework Vendor.
+
+## Emergency Restart
+
+1. Notify Shared Systems, Bedework Application Admin, then Back-up staff.
+1. Login to server via ssh. `sudo reboot`.
+    1. Reboot HA Proxy Server first. If this fails,
+    1. Reboot two applications servers. If this fails,
+    1. Restart Bedework application service.
+
+- If this fails, contact Bedework ITS Help Desk, for to get in touch with Linux administrators.
+- Post a note to the Intranet notifying staff that the events calendar is down and we are working on it.
+- If the calendar is affecting the home page, replace the homepage calendar feed with an alternate box (we’d need to come up with some kind of alternate content and add it to the page code, commented out).
+- Once calendar is back up:
+  - Post a note to the Intranet notifying staff.
+  - Reinstate the home page calendar feed and comment out the replacement box.
+
+1. Past errors:
+    1. Service Temporarily Unavailable
+
+> The server is temporarily unable to service your request due to maintenance downtime or capacity problems. Please try again later.`
+`Apache/2.2.3 (Red Hat) Server at events.library.nashville.org Port 80`
+
+Info: Bedework Vendor had a backup file saved somewhere and Bedework was trying to load two files at once. For some reason it started causing problems one day. He removed the backup file and the calendar was fine.
+
+
+
