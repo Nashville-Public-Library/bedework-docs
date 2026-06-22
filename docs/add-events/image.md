@@ -57,8 +57,6 @@ Alt Text is a brief description of the image.
 
 - :x: A bad example of an alt text would be “Dog” or “Picture of a cute dog.”
 
-Source: Chima Mmeje, Chima. "How To Write the Best Alternative Text." _Moz_. URL:https://moz.com/learn/seo/alt-text. Accessed June 22, 2026.
-
 ## Color and Contrast
 
-Make sure your image has enough color contrast between text and its background to be easily readable. When using text over images, add a solid background behind the text, or a dark overlay. Beware of color blindness combinations and elaborate fonts that can reduce visibility.
+Make sure your image has enough color contrast between text and its background to be easily readable. When using text over images, add a solid background behind the text area, or a dark overlay. Beware of color blindness combinations and elaborate fonts that can reduce visibility.
