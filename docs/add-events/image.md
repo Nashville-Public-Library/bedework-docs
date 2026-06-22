@@ -15,7 +15,7 @@ sdidebar_position: 9
    1. Copy the Thumbnail URL from the spreadsheet and paste into the Thumbnail URL on the form.
 
 1. Use an image from the library catalog.
-   1. Go to the [library catalog](https://catalog.library.nashville.org).
+   1. Go to the [library catalog](https://catalog.library.nashville.gov).
    1. Search for the book or movie title.
    1. Go to Item detail page. Don’t copy the image from the results list because it is too small.
    1. On the item detail page, right click on the cover image and select “Copy Image location” / "Copy image address" / "Copy Shortcut" (if you’re using Windows, right-click, click Properties, and copy the URL). The URL will look something like this: '<https://catalog.library.nashville.org/bookcover.php?id=7d5b2865-fb8b-9583-b5f9-b0d0ad2e733c-eng&size=medium>'.
