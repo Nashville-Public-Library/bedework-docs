@@ -59,4 +59,4 @@ Alt Text is a brief description of the image.
 
 ## Color and Contrast
 
-Make sure your image has enough color contrast between text and its background to be easily readable. When using text over images, add a solid background behind the text area, or a dark overlay. Beware of color blindness combinations and elaborate fonts that can reduce visibility.
+Make sure image has enough color contrast between text and its background to be easily readable. When using text over images, add a solid background behind the text, or a dark overlay. Beware of color blindness combinations and elaborate fonts and busy visuals that can reduce visibility.
