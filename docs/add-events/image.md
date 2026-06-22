@@ -18,7 +18,7 @@ sdidebar_position: 9
    1. Go to the [library catalog](https://catalog.library.nashville.gov).
    1. Search for the book or movie title.
    1. Go to Item detail page. Don’t copy the image from the results list because it is too small.
-   1. On the item detail page, right click on the cover image and select “Copy Image location” / "Copy image address" / "Copy Shortcut" (if you’re using Windows, right-click, click Properties, and copy the URL). The URL will look something like this: '<https://catalog.library.nashville.org/bookcover.php?id=7d5b2865-fb8b-9583-b5f9-b0d0ad2e733c-eng&size=medium>'.
+   1. On the item detail page, right click on the cover image and select “Copy Image location” / "Copy image address" / "Copy Shortcut" (if you’re using Windows, right-click, click Properties, and copy the URL). The URL will look something like this: '<https://catalog.library.nashville.gov/bookcover.php?id=7d5b2865-fb8b-9583-b5f9-b0d0ad2e733c-eng&size=medium>'.
       1. Paste the image URL into both the Image URL and Thumbnail URL fields.
       1. In the Image URL field, edit the URL to replace the word “medium” with the word “large”. This allows the event to display correctly on digital signs for book clubs.
 
