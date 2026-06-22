@@ -39,9 +39,9 @@ Alt Text is a brief description of the image.
 
 ### Why Add Alt Text?
 
-- is read aloud by screen readers used by visually impaired users. 
-- Helps people with low or impaird vision understand the entire web page.
-- is requied on government-owned websisites by federal Americans with Disabilities Act (ADA) guidelines.
+- Alt Text is read aloud by screen readers used by visually impaired users. 
+- Helps people with low or impaired vision understand the entire web page.
+- Alt Text is required on government-owned websites by federal Americans with Disabilities Act (ADA) guidelines.
 
 ### Good Alt Text is Descriptive and Consise.
 
