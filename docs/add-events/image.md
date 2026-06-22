@@ -43,8 +43,18 @@ Alt Text is a brief description of the image.
 - Helps people with low or impaired vision understand the entire web page.
 - Alt Text is required on government-owned websites by federal Americans with Disabilities Act (ADA) guidelines.
 
-### Good Alt Text is Descriptive and Consise.
+### Good Alt Text is Descriptive and Concise
 
-- Limit description to 125 charactes.
-- Focus on what the image conveys to the user, rather than merely listing attributes.
+- Limit to 125 characters.
+- Focus on what the image conveys to the user, rather than listing attributes.
 - Include any words that are in the image, such as text on the cover of a book. 
+
+#### Example
+
+![img "a dog with a ball in its mouth"](../img/1-golden-retriever.webp)
+
+- :white_check_mark: The alt text for this cute image is “Golden retriever puppy playing with a red ball on grass”
+
+- :x: A bad example of an alt text would be “Dog” or “Picture of a cute dog.”
+
+Source: Chima Mmeje, Chima. "How To Write the Best Alternative Text." _Moz_. URL:https://moz.com/learn/seo/alt-text. Accessed June 22, 2026.
