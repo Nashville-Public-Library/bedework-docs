@@ -44,8 +44,9 @@ Alt Text is a brief description of the image.
 - Provides context to search engines and robotic scans.
 - Alt Text is required on government-owned websites by federal Americans with Disabilities Act (ADA) guidelines.
 
-### Good Alt Text is Descriptive and Concise
+### Write Good Alt Text
 
+- Good Alt Text is descriptive and concise.
 - Limit to 125 characters.
 - Focus on what the image conveys to the user, rather than listing attributes.
 - Include any words that are in the image, such as text on the cover of a book. 
