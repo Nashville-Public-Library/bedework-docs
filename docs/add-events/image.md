@@ -9,12 +9,13 @@ sdidebar_position: 9
 
 ## Add From URL
 
-1. Use an image from the Image Library.
-   1. Click “here” to see if an image/logo already exists for a recurring or themed program.
-   1. Copy the Image URL from the spreadsheet and pinto the Image URL field on the form.
-   1. Copy the Thumbnail URL from the spreadsheet and paste into the Thumbnail URL on the form.
+1. Use an image from the [Image Library](../image-library/topic-logos.md).
+   1. Use _Click here to choose from the library of images_ link to see if an image/logo already exists for a recurring or themed program.
+   1. Copy the Image URL from the table. Paste into the Image URL field on the form.
+   1. Copy the Thumbnail URL from the table. Paste into the Thumbnail URL on the form.
+   1. Copy the Alt Text from the table. Paste into the Alt Text field on the form.
 
-1. Use an image from the library catalog.
+1. Use a book cover image from the library catalog.
    1. Go to the [library catalog](https://catalog.library.nashville.gov).
    1. Search for the book or movie title.
    1. Go to Item detail page. Don’t copy the image from the results list because it is too small.
@@ -25,15 +26,14 @@ sdidebar_position: 9
 ## Upload an image to Bedework
 
 1. Find an image (see Image section of guide for copyright-friendly image sources) and save it to your computer.
-1. Resize the image. See [Image Guidelines](../using-images/image-guidelines.md#size-and-text-specifications) for specs and tips.
-1. Save the resized image to your computer. Make sure there are no blank spaces in the image file name (e.g., do not name an image “stack of books.jpg”).
+1. Resize the image. See [Image Guidelines](../using-images/image-guidelines.md#size-and-text-specifications) for requirements.
+1. Save the resized image to your computer. Make sure there are no blank spaces in the image file name (e.g., remane file from “stack of books.jpg” to "stack_of_books.jpg").
 1. In the Image section of the Bedework event form (when adding an event), click Choose File.
 1. Find the resized image on your computer and click Open.
-1. If your image uploaded successfully, you’ll see a file name after the “Choose File” button.
-1. Add Alt Text. Alt text is read aloud by screen readers used by visually impaired users.
+1. Upon success,see a file name after the “Choose File” button.
 1. Your image will be visible in the event listing after you click Add Event at the end of the form.
 
-## Add Alt Text to Every Image
+## Add Alt Text
 
 Alt Text is a brief description of the image.
 
@@ -41,10 +41,12 @@ Alt Text is a brief description of the image.
 
 - Alt Text is read aloud by screen readers used by visually impaired users. 
 - Helps people with low or impaired vision understand the entire web page.
+- Provides context to search engines and robotic scans.
 - Alt Text is required on government-owned websites by federal Americans with Disabilities Act (ADA) guidelines.
 
-### Good Alt Text is Descriptive and Concise
+### Write Good Alt Text
 
+- Good Alt Text is descriptive and concise.
 - Limit to 125 characters.
 - Focus on what the image conveys to the user, rather than listing attributes.
 - Include any words that are in the image, such as text on the cover of a book. 
@@ -53,9 +55,9 @@ Alt Text is a brief description of the image.
 
 ![img "a dog with a ball in its mouth"](../img/1-golden-retriever.webp)
 
-- :white_check_mark: The alt text for this cute image is “Golden retriever puppy playing with a red ball on grass”
+- :white_check_mark: The Alt Text for this image is “golden retriever puppy plays with a red ball on grass in the evening.”
 
-- :x: A bad example of an alt text would be “Dog” or “Picture of a cute dog.”
+- :x: A bad examples of an alt text would be “Dog.” “Picture of a cute dog.” or "Roger hops."
 
 ## Color and Contrast
 
