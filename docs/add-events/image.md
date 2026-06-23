@@ -7,15 +7,16 @@ sdidebar_position: 9
 
 ![img "choose from library of images"](../img/upload-image.jpg)
 
-## Add From URL
+## Add From Image Library 
 
-1. Use an image from the [Image Library](../image-library/topic-logos.md).
+   1. Use an image from the [Image Library](../image-library/topic-logos.md).
    1. Use _Click here to choose from the library of images_ link to see if an image/logo already exists for a recurring or themed program.
    1. Copy the Image URL from the table. Paste into the Image URL field on the form.
    1. Copy the Thumbnail URL from the table. Paste into the Thumbnail URL on the form.
    1. Copy the Alt Text from the table. Paste into the Alt Text field on the form.
 
-1. Use a book cover image from the library catalog.
+### Use Cover Image from Library Catalog
+
    1. Go to the [library catalog](https://catalog.library.nashville.gov).
    1. Search for the book or movie title.
    1. Go to Item detail page. Don’t copy the image from the results list because it is too small.
@@ -23,7 +24,7 @@ sdidebar_position: 9
       1. Paste the image URL into both the Image URL and Thumbnail URL fields.
       1. In the Image URL field, edit the URL to replace the word “medium” with the word “large”. This allows the event to display correctly on digital signs for book clubs.
 
-## Upload an image to Bedework
+## Upload an Image to Bedework
 
 1. Find an image (see Image section of guide for copyright-friendly image sources) and save it to your computer.
 1. Resize the image. See [Image Guidelines](../using-images/image-guidelines.md#size-and-text-specifications) for requirements.
