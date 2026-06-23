@@ -6,6 +6,6 @@ sidebar_position: 2
 
 ![img "date and Time"](../img/date-and-time.jpg)
 
-- All Day: Select “all day” for exhibits or one-on-one help where customers can make an appointment at any time during the day. All other events get a start time and end time or a start time and no duration.
-- Start: Select the date of your event. For recurring events, like story times, enter the date for the first instance of the series.
-- End: Select a duration in hours or minutes OR choose no duration if you do not want to specify an end time. Only use days or weeks for exhibits.
+- All Day: Check this for events like exhibits or a book sale when people can come anytime. For everything else, pick a start and end time. 
+- Start: Pick the date your event begins. If it's a repeating event like story time, use the date of the very first one.
+- End: Choose how long your event lasts. Leave it blank if you don't want to set an end time. For exhibits, use days or weeks instead.
