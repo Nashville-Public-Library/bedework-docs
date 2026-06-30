@@ -109,3 +109,15 @@ https://metronashville.sharepoint.com/:l:/s/NPLWebDevelopment/FHX2jii9-xRMgZYJPw
 1. Prepare orientation Notes
 
 ## Perform Orientation
+
+In demonstration, cover how to
+
+### Public Calendar
+
+1. Get to public calendar.
+1. Use search and limiters to narrow event results; clear limiters.
+1. Scroll the list for future events.
+1. Ongoing event area.
+1. `Manage Events` link to access login area.
+
+###
