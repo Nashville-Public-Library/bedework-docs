@@ -120,4 +120,28 @@ In demonstration, cover how to
 1. Ongoing event area.
 1. `Manage Events` link to access login area.
 
-###
+### Add Event
+
+1. Use tabbed navigation to access areas.
+1. Use `Add event` screen to enter new events.
+1. Access the images library for copying exisiting image paths. 
+1. Use Browse computer to upload a bespoke image.
+1. Reference WCAG 2.1 guidelines for making accessibile images.
+1. Use Bedework local image library to add Alt Text.
+
+### Approval Queue
+
+1. Browse to Approal Queue to see all pending events.
+1. Delete events that fall on closed dates.
+1. Edit individual instances for special occasions.
+
+### Manage Events
+
+1. Search all published events. 
+1. Use `copy event` to generate a duplicate stub from which to create a similar event.
+
+### Local Workflows
+
+1. Make updates to events in approval queue.
+1. Contact Shared Systems for published events.
+1. (Manager) uses `cancel event`, when events are canceled last-minute.
