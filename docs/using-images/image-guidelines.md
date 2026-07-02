@@ -22,7 +22,6 @@ Use the _Image Library_ by going to <u>[Click here to choose from the library of
 - Max width: 400px
 - Max height: 600px
 - **File size: Less than 100 KB**
-- Words in icon-type images (“Movie Friday” or “Chocolate Worms”) should be readable at thumbnail-size, which is 80px wide.
 
 ## Images are required for the following events
 
