@@ -3,7 +3,7 @@ title: Accessible Images
 sidebar_position: 3
 ---
 
-# Use Accessible Images
+# Accessible Images
 
 ## Add Alt Text
 
