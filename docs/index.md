@@ -17,10 +17,11 @@ Add recurring events in seasonal three month periods
 1. Summer: June, July, August.
 1. Fall: September, October, November.
 
-- For example, for a story time recurring every Wednesday, add event to Bedework as four event recurrences (one Winter listing, one Spring listing, one Summer listing, and one Fall listing).
-  - Do not add events more than six months in advance.
+For a story time recurring every Wednesday, add to Bedework as four separate event recurrences (one Winter listing, one Spring listing, one Summer listing, and one Fall listing).
 
-## Related Guides
+Do not add events more than six months in advance.
+
+# Related Guides
 
 [Nashville Public Library Website Guide](https://nashville-public-library.github.io/mkdocsuaurus/){ .md-button .md-button--primary }
 
