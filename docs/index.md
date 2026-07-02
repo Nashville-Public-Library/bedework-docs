@@ -4,13 +4,21 @@ title: Introduction
 
 # Let's Begin
 
-- Always check [live events calendar](https://events.library.nashville.org/) before adding an event, to prevent duplicates.
-- Only add events to Bedework when details are confirmed.
+Always check [live events calendar](https://events.library.nashville.org/) before adding an event, to prevent duplicates.
+
+Only add confirmed events to Bedework.
 
 # Seasonal Event Planning
-- Add recurring events in seasonal three month periods (Dec Jan Feb, Mar Apr May, Jun Jul Aug, Sept Oct Nov).
-  - For example, for a story time recurring every Wednesday, add event to Bedework as four event recurrences (one DecJanFeb listing, one MarAprMay listing, one JunJulAug listing, and one SepOctNov listing).
-  - Add future events, but not more than nine months in advance.
+
+Add recurring events in seasonal three month periods 
+
+1. Winter: December, January, February. 
+1. Spring: March, April, May. 
+1. Summer: June, July, August.
+1. Fall: September, October, November.
+
+- For example, for a story time recurring every Wednesday, add event to Bedework as four event recurrences (one DecJanFeb listing, one MarAprMay listing, one JunJulAug listing, and one SepOctNov listing).
+  - Add future events, but not more than six months in advance.
 
 ## Related Guides
 
