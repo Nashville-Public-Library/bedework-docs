@@ -53,6 +53,7 @@ markdown_extensions:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg # Page tree
 
+
 nav:
   - Introduction: index.md
   - Add Events:
@@ -80,6 +81,7 @@ nav:
   - Using Images:
       - using-images/image-guidelines.md
       - using-images/finding-images.md
+      - using-images/accessible-images.md
   - Orientation:
       - orientation/add-an-event.md
       - orientation/copy-event.md
