@@ -95,22 +95,6 @@ Logo for Banned Books Week is struck through with red lines.
 /public/images/board game logo-202504231229-thumb.png
 ```
 
-## Board Games (on White Background)
-
-```text
-/public/images/bigstock-Board-Games-On-White-4190493-scaled_(1)_(2)-transformed (1)-202502270242.png
-```
-
-```text
-/public/images/bigstock-Board-Games-On-White-4190493-scaled_(1)_(2)-transformed (1)-202502270242-thumb.png
-```
-
-Alt Text
-
-```text
-Chess Board, dominoes, and playing cards.
-```
-
 ## Book Bingo
 
 ```text
@@ -397,6 +381,22 @@ Alt Text
 
 ```text
 Logo reads Summer Reading Challenge. Blue and orange words are foundation for a cityscape. Two human hands hold book aloft.
+```
+
+## Tabletop Games
+
+```text
+/public/images/bigstock-Board-Games-On-White-4190493-scaled_(1)_(2)-transformed%20(1)-202502270242.jpeg
+```
+
+```text
+/public/images/bigstock-Board-Games-On-White-4190493-scaled_(1)_(2)-transformed (1)-202502270242-thumb.png
+```
+
+Alt Text
+
+```text
+Chess Board, dominoes, and playing cards.
 ```
 
 ## Votes for Women
