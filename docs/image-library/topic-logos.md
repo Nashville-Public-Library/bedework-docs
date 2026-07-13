@@ -483,7 +483,7 @@ Digital illustration of a balding man with a mustache and goatee. He dresses in 
 Alt Text
 
 ```text
-Logo for story time has the word story in hand lettering and time in multi-coloered block lettering.
+Logo for story time has the word story in hand lettering and time in multi-colored block lettering.
 ```
 
 ## STEAM
