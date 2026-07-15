@@ -149,7 +149,7 @@ Use “teens” language for all Teen events at Main Library
 
 Put this language at the end of the event description
 
-    Visit library.nashville.org/universe to see all NPL events you can stream from home.
+    Visit library.nashville.gov/universe to see all NPL events you can stream from home.
 
 ### Seed Exchange
 
@@ -157,4 +157,4 @@ Append this Seed Exchange pitch to all gardening events.
 
     This program is brought to you by Nashville Public Library Seed Exchange. Borrow seeds, grow plants, return seeds. Seeds are available for check out at select branches. For more information, go to Seed Exchange website. 
     
-Add to _Event URL_: https://library.nashville.org/event/seed-exchange
+Add to _Event URL_: https://library.nashville.gov/event/seed-exchange

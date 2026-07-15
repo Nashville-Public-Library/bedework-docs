@@ -76,11 +76,11 @@ Static Web Page Checkup
 Please check your location’s information on the following webpages. Email [First Last] any changes to these static listings.
 
 - Story Time
-   - https://library.nashville.org/events/story-time
+   - https://library.nashville.gov/events/story-time
 - Book Clubs
-   - https://library.nashville.org/events/book-clubs
+   - https://library.nashville.gov/events/book-clubs
 - Studio NPL
-   - https://library.nashville.org/events/studio-npl
+   - https://library.nashville.gov/events/studio-npl
 
 Bedework Orientation
 

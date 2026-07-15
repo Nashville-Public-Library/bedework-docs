@@ -124,7 +124,7 @@ Three bingo cards in blue green and red.
 Alt Text
 
 ```text
-Graphic reads celebrate black history month with us. library.nashville.org/bhm. White letters against a blue and red background.
+Graphic reads celebrate black history month with us. library.nashville.gov/bhm. White letters against a blue and red background.
 ```
 
 ## Black Female Authors Book Club

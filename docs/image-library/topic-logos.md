@@ -107,7 +107,7 @@ Join us for book club words next to a stack of books.
 Alt Text
 
 ```text
-Words book sale atop a row of books. book sale logo has url for npl.org slash friends. reads proceeds benefit nashville public library.
+Words book sale atop a row of books. book sale logo has url for npl.gov slash friends. reads proceeds benefit nashville public library.
 ```
 
 ## Caffeinated Book Club
