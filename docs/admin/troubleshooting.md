@@ -37,19 +37,19 @@ If an event is not visible in either the public client or the admin client, we n
 Display of events is happy (calendar is working), but the feed might be unhappy.
 
 1. Look and see if widgets are busted EVERYWHERE or just in specific sites / instances (check all npl site pages, salon, nashville reads, digital signs).
-    1. [https://library.nashville.org/](https://library.nashville.org/)
-    1. [https://library.nashville.org/event/be-well-npl](https://library.nashville.org/event/be-well-npl)
-    1. [https://library.nashville.org/locations/main-library](https://library.nashville.org/locations/main-library)
-    1. [https://library.nashville.org/income-tax-help](https://library.nashville.org/income-tax-help)
-    1. [http://nashvillepubliclibrary.org/nashvillereads/events/](http://nashvillepubliclibrary.org/nashvillereads/events/)
-    1. [http://nashvillepubliclibrary.org/salonat615/](http://nashvillepubliclibrary.org/salonat615/)
+    1. [https://library.nashville.gov/](https://library.nashville.org/)
+    1. [https://library.nashville.gov/event/be-well-npl](https://library.nashville.org/event/be-well-npl)
+    1. [https://library.nashville.gov/locations/main-library](https://library.nashville.org/locations/main-library)
+    1. [https://library.nashville.gov/income-tax-help](https://library.nashville.org/income-tax-help)
+    1. [http://nashvillepubliclibrary.gov/nashvillereads/events/](http://nashvillepubliclibrary.org/nashvillereads/events/)
+    1. [http://nashvillepubliclibrary.gov/salonat615/](http://nashvillepubliclibrary.org/salonat615/)
     1. With image signs:
-        1. http://firesign.library.nashville.org/MN_moviesAtMain.htm
+        1. http://firesign.library.nashville.gov/MN_moviesAtMain.htm
         1. http://firesign.library.nashville.org/MN_courtyardconcerts.html
     1. No image signs:
-        1. [http://firesign.library.nashville.org/BL_NovelConversations.html](http://firesign.library.nashville.org/BL_NovelConversations.html)
-        1. [http://firesign.library.nashville.org/GO_PageTurners.html](http://firesign.library.nashville.org/GO_PageTurners.html)
-        1. [http://firesign.library.nashville.org/MN_killerthrillers.html](http://firesign.library.nashville.org/MN_killerthrillers.html)
+        1. [http://firesign.library.nashville.gov/BL_NovelConversations.html](http://firesign.library.nashville.gov/BL_NovelConversations.html)
+        1. [http://firesign.library.nashville.gov/GO_PageTurners.html](http://firesign.library.nashville.org/GO_PageTurners.html)
+        1. [http://firesign.library.nashville.gov/MN_killerthrillers.html](http://firesign.library.nashville.org/MN_killerthrillers.html)
     1. Restart Bedework.
     1. Report to Bedework vendor, if restart doesn’t fix widgets. Report where widgets are malfunctioning.
 
@@ -87,7 +87,7 @@ Events stuck in approval queue that don’t really exist.
     1. Service Temporarily Unavailable
 
 > The server is temporarily unable to service your request due to maintenance downtime or capacity problems. Please try again later.`
-`Apache/2.2.3 (Red Hat) Server at events.library.nashville.org Port 80`
+`Apache/2.2.3 (Red Hat) Server at events.library.nashville.gov Port 80`
 
 Info: Bedework Vendor had a backup file saved somewhere and Bedework was trying to load two files at once. For some reason it started causing problems one day. He removed the backup file and the calendar was fine.
 
