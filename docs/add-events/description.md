@@ -54,6 +54,8 @@ Don’t use special characters in titles. ``(& ` ~ @)``
 
 Avoid using acronyms or jargon that are unfamiliar to the general public. Spell out "NPL."
 
+Do not include phone numbers for branch library. Phone is displayed when you choose a contact. This is redundant and risks typos.
+
 Refer to the [NPL Style Guide](https://docs.google.com/document/d/1GEg7vq-WWuBhZaVDM39cERYrDljqLXI5CUQngT1d694/edit?usp=sharing) for writing style rules governing all library communications.
 
 ## Required Content
