@@ -11,7 +11,7 @@ sidebar_position: 2
   - Add with URL.
   - Logo images
   - Grab the URL from the spreadsheet to use the image in a calendar listing.
-- [Library Catalog](http://catalog.library.nashville.org)
+- [Library Catalog](http://catalog.library.nashville.gov)
   - Add with URL.
   - The library licenses the cover images used in the catalog from Syndetics. We pay for the rights to use those images. Copy link address and paste in the image field for your event.
 - [Nashville Public Library on Flickr](http://www.flickr.com/photos/nashvillepubliclibrary)
