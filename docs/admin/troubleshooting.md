@@ -87,7 +87,7 @@ Events stuck in approval queue that don’t really exist.
     1. Service Temporarily Unavailable
 
 > The server is temporarily unable to service your request due to maintenance downtime or capacity problems. Please try again later.`
-`Apache/2.2.3 (Red Hat) Server at events.library.nashville.gov Port 80`
+`Apache/2.2.3 (Red Hat) Server at events.library.nashville.org Port 80`
 
 Info: Bedework Vendor had a backup file saved somewhere and Bedework was trying to load two files at once. For some reason it started causing problems one day. He removed the backup file and the calendar was fine.
 
