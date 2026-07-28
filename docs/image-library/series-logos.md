@@ -111,6 +111,22 @@ Alt Text
 Three bingo cards in blue green and red.
 ``` 
 
+## Black Female Authors
+
+```text
+/public/images/upload_d3170e8e_1409_45fd_867a_f0b4fe06719a_00011082-202607281041.tmp
+```
+
+```text
+/public/images/upload_d3170e8e_1409_45fd_867a_f0b4fe06719a_00011082-202607281041-thumb.png
+```
+
+Alt Text
+
+```
+black female authors. Illustration of an open book. 
+```
+
 ## Black History Month
 
 ```text
@@ -125,22 +141,6 @@ Alt Text
 
 ```text
 Graphic reads celebrate black history month with us. library.nashville.gov/bhm. White letters against a blue and red background.
-```
-
-## Black Female Authors Book Club
-
-```text
-/public/images/Black Women Authors Book Club-202508130156.png
-```
-
-```text
-/public/images/Black Women Authors Book Club-202508130156-thumb.png
-```
-
-Alt Text
-
-```text
-books and woman illustration
 ```
 
 ## Civil Rights Room
