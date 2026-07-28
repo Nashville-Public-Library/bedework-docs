@@ -402,7 +402,7 @@ peter and the wolf
 Alt-text
 
 ```
-puppet show icon
+puppet show icon has wires over letters.
 ```
 
 ## Puppet Truckin' with Mr. B
@@ -418,7 +418,7 @@ puppet show icon
 Alt-text
 
 ```
-Puppet Truckin' with Mr. B
+Man poses with walrus puppet on arm. Logo over his left shoulder reads puppet trucking with mister b.
 ```
 
 ## Puss in Boots
