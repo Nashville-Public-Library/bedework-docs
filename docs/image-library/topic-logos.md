@@ -361,7 +361,7 @@ brown paper sack next to red apple.
 Alt Text
 
 ```text
-mahjong tiles.
+Illustration of mahjong tiles with green drawing of bamboo and hammer.
 ```
 
 ## Movie Matinee (Adults)
