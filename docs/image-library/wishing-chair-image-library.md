@@ -98,7 +98,7 @@ anansi
 Alt-text
 
 ```text
-a child's calendar
+Illustration. A child swings from a tree. An older gentleman with a cane a basket smiles. 
 ```
 
 ## Cinderella
