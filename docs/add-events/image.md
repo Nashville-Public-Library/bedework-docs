@@ -13,7 +13,7 @@ sdidebar_position: 9
    1. Use _Click here to choose from the library of images_ link to see if an image/logo already exists for a recurring or themed program.
    1. Copy Image URL from the table. Paste into Image URL field on the form.
    1. Copy Thumbnail URL. Paste into Thumbnail URL field.
-   1. Copy [Alt Text](../using-images/accessible-images/). Paste into Alt Text field field. 
+   1. Copy [Alt Text](../using-images/accessible-images.md). Paste into Alt Text field field. 
 
 ### Use Cover Image from Library Catalog
 
