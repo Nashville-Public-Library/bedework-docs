@@ -13,7 +13,7 @@ sdidebar_position: 9
    1. Use _Click here to choose from the library of images_ link to see if an image/logo already exists for a recurring or themed program.
    1. Copy the Image URL from the table. Paste into the Image URL field on the form.
    1. Copy the Thumbnail URL from the table. Paste into the Thumbnail URL on the form.
-   1. Copy the Alt Text from the table. Paste into the Alt Text field on the form.
+   1. Copy the Alt Text from the table. Paste into the Alt Text field on the form. Alt Text is used by sight-impaired people and search engines to describe the image. It is required by federal accessibility law.
 
 ### Use Cover Image from Library Catalog
 
