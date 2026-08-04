@@ -72,6 +72,9 @@ nav:
       - add-events/series.md
       - add-events/public.md
       - add-events/closed.md
+  - Change Events:
+      - change-events/cancel.md
+      - change-events/edit-delete-event.md
   - Image Library:
       - image-library/topic-logos.md
       - image-library/series-logos.md
@@ -85,7 +88,6 @@ nav:
   - Orientation:
       - orientation/add-an-event.md
       - orientation/copy-event.md
-      - orientation/edit-delete-event.md
       - orientation/get-to-bedework.md
   - Linking:
       - linking/custom.md
