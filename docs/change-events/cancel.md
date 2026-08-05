@@ -14,8 +14,8 @@ When to mark an event canceled versus updating the existing event listing with n
 - **Canceled**: When the event is totally canceled and the event is less than five days away, mark the event canceled. If event is more than five days out, delete event entirely.
 - **Room Change**: When an event moves from in-person to online and date/time is the same, update the existing event listing to add virtual event details so patrons can connect. Essentially, the “room” changed from Inglewood to Online. For this to work, we need “online" somewhere in the title.
 - **Time Change Only**: When a time changes, but the date is the same, update the existing event listing with new time.
-- Date Change Only: When the date changes, but the time time is the same, update the existing event listing with new date.
-- Date Change (or Date/Time both change): When an event moves to a different date and time. Or, if multiple details change. Add a new entry in the Approval Queue, to verify all new details. Request Shared Systems delete the original published event, then publish the replacement entry. 
+- **Date Change Only**: When the date changes, but the time is the same, update the existing event listing with new date.
+- **Date Change (or Date/Time both change)**: When an event moves to a different date and time. Or, if multiple details change. Add a new entry in the Approval Queue, to verify all new details. Request Shared Systems delete the original published event, then publish the replacement entry. 
 
 ## Mark as Canceled
 
