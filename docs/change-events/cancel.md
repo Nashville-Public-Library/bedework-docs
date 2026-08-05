@@ -5,17 +5,17 @@ sidebar_position: 1
 
 # Cancel or Reschedule
 
-When event is less than five days out, mark events canceled instead of deleting them. If event more than five days out, delete the listing. After you've made a change to calendar, email the requestor, and copy Bedework calendar administrator.
+When event is less than five days out, mark events canceled instead of deleting them. If event more than five days out, delete the listing. After making a change to calendar, email the requestor, and copy Bedework calendar's lead maintainer.
 
 ## Cancel or Update
 
-When do we mark an event canceled versus updating the existing event listing with new information?
+When to mark an event canceled versus updating the existing event listing with new information?
 
-- Canceled: If the event is totally canceled and isn’t just moving online, mark the event canceled. If event is more than five days out, delete.
-- Room Change: If an event moves from in-person to online and date/time is the same, update the existing event listing to add virtual event details so patrons can connect. Essentially, the “room” changed from Inglewood to Online. For this to work, we need “online” or “virtual” somewhere in the title.
-- Time Change Only: If the date is the same but the time changes, we update the existing event listing with new info.
-- Date Change Only: If the time is the same but the date changes, we update the existing event listing with new info.
-- Date Change (or Date/Time both change): If an event moves to a different date and time. Add a new entry in the Approval Queue, to verify all new details. Request Shared Systems delete the published event, with the old details, and publish the new entry. 
+- **Canceled**: When the event is totally canceled and the event is less than five days away, mark the event canceled. If event is more than five days out, delete event entirely.
+- **Room Change**: When an event moves from in-person to online and date/time is the same, update the existing event listing to add virtual event details so patrons can connect. Essentially, the “room” changed from Inglewood to Online. For this to work, we need “online" somewhere in the title.
+- **Time Change Only**: When a time changes, but the date is the same, update the existing event listing with new time.
+- Date Change Only: When the date changes, but the time time is the same, update the existing event listing with new date.
+- Date Change (or Date/Time both change): When an event moves to a different date and time. Or, if multiple details change. Add a new entry in the Approval Queue, to verify all new details. Request Shared Systems delete the original published event, then publish the replacement entry. 
 
 ## Mark as Canceled
 
