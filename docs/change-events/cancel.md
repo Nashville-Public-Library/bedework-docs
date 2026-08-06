@@ -5,9 +5,9 @@ sidebar_position: 1
 
 # Cancel or Reschedule
 
-When event is less than five days out, mark events canceled instead of deleting them. If event more than five days out, delete the listing. After making a change to calendar, email the requestor, and copy Bedework calendar's lead maintainer.
+When event is less than five days out, mark events canceled. If event more than five days out, delete the listing by emailing Shared Systems.
 
-## Cancel or Update
+## Cancel or Update Published Event
 
 When to mark an event canceled versus updating the existing event listing with new information?
 
