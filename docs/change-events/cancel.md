@@ -7,13 +7,13 @@ sidebar_position: 1
 
 ## Mark canceled
 
-- When the event is canceled, and the event is less than five days away, mark the event canceled. If event is more than five days out, delete event entirely.
+- When the event is canceled, and the event is less than five days away, mark the event canceled.   
   - Go to event detail. Under Status, select “canceled button. 
   - Or, from Manage Events screen, use the `cancel event` button.
 
 ## Delete or reschedule
 
-Once an event is published to the publicly-visitble calendar, submitters are no longer able to edit the event.  For these edits, email Shared Systems. 
+If event is more than five days out, delete event entirely. Once an event is published to the publicly-visitble calendar, submitters are no longer able to edit the event.  For these changes, email Shared Systems. 
 
 # For approvers
 
