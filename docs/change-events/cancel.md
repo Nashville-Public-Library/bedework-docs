@@ -11,7 +11,7 @@ When event is less than five days out, mark events canceled. If event more than 
 
 Once an event is published to the publicly-visitble calendar, most users are no longer able to edit the event. The Cancel function should only be used in the instances outlined below. All other edits require an email to Shared Systems.
 
-- **Canceled**: When the event is totally canceled and the event is less than five days away, mark the event canceled. If event is more than five days out, delete event entirely.
+- **Canceled**: When the event is canceled, and the event is less than five days away, mark the event canceled. If event is more than five days out, delete event entirely.
 - **Time change only**: When a time changes, but the date is the same, update the existing event listing with new time.
 - **Date change only**: When the date changes, but the time is the same, update the existing event listing with new date.
 - **Date change (or date/time both change)**: When an event moves to a different date and time. Or, if multiple details change. Add a new entry in the Approval Queue, to verify all new details. Request Shared Systems delete the original published event, then publish the replacement entry. 
