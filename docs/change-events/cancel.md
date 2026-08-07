@@ -3,7 +3,7 @@ title: Cancel or Reschedule
 sidebar_position: 1
 ---
 
-# For subummitters
+# For submitters
 
 ## Mark canceled
 
