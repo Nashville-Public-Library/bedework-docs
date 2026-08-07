@@ -3,19 +3,19 @@ title: Cancel or Reschedule
 sidebar_position: 1
 ---
 
-# For submitters
+### For submitters
 
-## Mark canceled
+#### Mark canceled
 
 - When the event is canceled, and the event is less than five days away, mark the event canceled.   
   - Go to event detail. Under Status, select “canceled button. 
   - Or, from Manage Events screen, use the `cancel event` button.
 
-## Delete or reschedule
+#### Delete or reschedule
 
 If event is more than five days out, delete event entirely. Once an event is published to the publicly-visitble calendar, submitters are no longer able to edit the event.  For these changes, email Shared Systems. 
 
-# For approvers
+### For approvers
 
 - **Time change only**: When a time changes, but the date is the same, update the existing event listing with new time.
 - **Date change only**: When the date changes, but the time is the same, update the existing event listing with new date.
