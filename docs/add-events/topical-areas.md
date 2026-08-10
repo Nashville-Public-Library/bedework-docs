@@ -53,7 +53,7 @@ Select the appropriate topic. If there is not a topic that is appropriate, you c
 - _Do not_ use for:
 
   - Jobs Lab
-  - Studio NPL Maker programs.
+  - Studio Nashville Public Library Maker programs.
   - Gaming events like--Wii, XBox, etc.
   - Programs that involve some technology, but where technology is not the central point of the program.
 
@@ -99,7 +99,7 @@ Choose the series. Tags are used to create curated lists of events--for both int
   - DO NOT tag an event “Artober” if, for instance, its name is Teen Time, and its description is “Every day after school, join us for movies and snacks.”
   - DO NOT tag an event “Artober” if, for instance, its name is Big Kids Club: Artober, and its description is “Join us for stories, snacks, or movies.”
 
-### Be Well at NPL
+### Be Well at Nashville Public Library
 
 - Use for programs that have a health focus (e.g., fitness, nutrition, relaxation, community health provider visits, health crafts). Story Times will be tagged as Be Well only if the theme of the book is wellness, and there is movement throughout or a snack that correlates to that message.
 
@@ -109,7 +109,7 @@ Choose the series. Tags are used to create curated lists of events--for both int
 
 ### Courtyard Concerts (MarComm)
 
-- This tag is currently only used for the NPLF-sponsored concert series, held annually in Main Library’s Robinson Courtyard.
+- This tag is currently only used for the Nashville Public LibraryF-sponsored concert series, held annually in Main Library’s Robinson Courtyard.
 
 ### Extended Closures (Admin)
 
@@ -129,7 +129,7 @@ Choose the series. Tags are used to create curated lists of events--for both int
 
 - Apply series tags ONLY when the title and description clearly indicate and specify the series theme.
 
-### NPL Universe
+### Nashville Public Library Universe
 
 - Add to any program occurring online, instead of in-person.
 
@@ -142,12 +142,12 @@ Choose the series. Tags are used to create curated lists of events--for both int
   - Handing out prizes to children or celebrating their "graduation" from the Read to Rise program.
   - Signing children up for Read to Rise.
 
-### Studio NPL
+### Studio Nashville Public Library
 
 - DO use the Studio tag for the following programs:
   - Digital literacy-based maker activities
   - STEAM programs for teens from the following STEAM list
-- DO NOT use Studio NPL series for:
+- DO NOT use Studio Nashville Public Library series for:
   - Food-oriented events such as Candy Bingo, Snack Attack.
   - Craft programs like button-making, watercolor painting, and Origami workshops.
   - Game-playing programs like Wii tournament, Gaming Monday, and Magic Cards.

@@ -11,13 +11,13 @@ sidebar_position: 14
 
 ## Fine Print
 
-These events DO get added to Bedework (NPL Public Events Calendar)
+These events DO get added to Bedework (Nashville Public Library Public Events Calendar)
 
 - Events planned by government agencies and open to the public.
-- Events planned in conjunction with NPL staff. When Nashville Public Library is a co-sponsor, or has arranged the event for the library patronage. Library logos should only go on Library sponsored or co-sponsored events. Having an event at the Library or the Library sharing information about an event does not necessarily equal Library sponsorship or co-sponsorship. If you have questions about whether an event is sponsored or co-sponsored by NPL, ask your manager.
+- Events planned in conjunction with Nashville Public Library staff. When Nashville Public Library is a co-sponsor, or has arranged the event for the library patronage. Library logos should only go on Library sponsored or co-sponsored events. Having an event at the Library or the Library sharing information about an event does not necessarily equal Library sponsorship or co-sponsorship. If you have questions about whether an event is sponsored or co-sponsored by Nashville Public Library, ask your manager.
 - Other ‘open to the public’ events, at Library Administrator’s discretion.
 
-These events DO NOT get added to Bedework (NPL Public Events Calendar)
+These events DO NOT get added to Bedework (Nashville Public Library Public Events Calendar)
 
 - Private events. Receptions, weddings, etc.
 - After-hours private events.

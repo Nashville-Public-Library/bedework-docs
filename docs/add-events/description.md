@@ -53,10 +53,10 @@ Use good keywords. Name items to be discussed. All book sales should have the wo
 
 - Don't include event times in the description field.  
 - Don’t use special characters in titles. ``(& ` ~ @)``
-- Avoid using acronyms or jargon that are unfamiliar to the general public. Spell out "NPL."
+- Avoid using acronyms or jargon that are unfamiliar to the general public. Spell out "Nashville Public Library."
 - Do not include phone numbers for branch library. Phone is displayed when you choose a contact. This is redundant and risks typos.
 
-Refer to the [NPL Style Guide](https://docs.google.com/document/d/1GEg7vq-WWuBhZaVDM39cERYrDljqLXI5CUQngT1d694/edit?usp=sharing) for writing style rules governing all library communications.
+Refer to the [Nashville Public Library Style Guide](https://docs.google.com/document/d/1GEg7vq-WWuBhZaVDM39cERYrDljqLXI5CUQngT1d694/edit?usp=sharing) for writing style rules governing all library communications.
 
 ## Required Content
 
@@ -76,7 +76,7 @@ Refer to the [NPL Style Guide](https://docs.google.com/document/d/1GEg7vq-WWuBhZ
 
 - ONLY list exception dates if there is no “replacement” event occurring on the same day and time as the regular program, for the same age group.
   - List “Every Tuesday except Sep 5” for Preschool Story Time if there will be no story time, featured guest, or other event for preschool children to attend on that day and time.
-- DO NOT list exceptions for events that fall on days NPL is closed (e.g., do not list “Every Tuesday except Jul 4”).
+- DO NOT list exceptions for events that fall on days Nashville Public Library is closed (e.g., do not list “Every Tuesday except Jul 4”).
 - DO NOT list exceptions when a regularly recurring event is replaced by a featured performer for one (or more) weeks in an events period.
 - Do NOT list “Every Tuesday except Jun 6, Jul 11, Aug 8” for Preschool Story Time if Nashville Ballet, Mr. Bond and The Science Guys, and Nashville Zoo events are happening at the same time on those three days.
 
@@ -147,11 +147,11 @@ Use “teens” language for all Teen events at Main Library
 
     For teens in grades 7-12 at the end of all event descriptions.
 
-### Online (NPL Universe)
+### Online (Nashville Public Library Universe)
 
 Put this language at the end of the event description
 
-    Visit library.nashville.gov/universe to see all NPL events you can stream from home.
+    Visit library.nashville.gov/universe to see all Nashville Public Library events you can stream from home.
 
 ### Seed Exchange
 
