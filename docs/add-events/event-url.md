@@ -6,7 +6,7 @@ sdidebar_position: 8
 # Event URL
 
 - If reservations are required and patrons must register online, put the online registration link here.
-- If you need to take online registration, contact Web Services for access to Nashville Public Library’s Eventbrite or LibApps registration accounts.
+- If you need to take online registration, contact Shared Systems for access to LibApps registration accounts.
 - You may also use this field to add a URL for a Facebook event.
 - Prepend all web addresses with `https://`
 

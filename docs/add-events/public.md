@@ -26,7 +26,7 @@ These events DO NOT get added to Bedework (Nashville Public Library Public Event
 
 ### Administrator Discretion
 
-Main Library Administrator overrides these protocol, when necessary. They report to MarComm and Web Services when there’s an exception to the above lists.
+Main Library Administrator overrides these protocol, when necessary. They report to MarComm and Shared Systems when there’s an exception to the above lists.
 
 ## Who adds events?
 
