@@ -36,4 +36,4 @@ Make sure image has enough color contrast between text and its background to be 
 
 Words in icon-type images (“Movie Friday” or “Chocolate Worms”) should be readable at thumbnail-size, which is 80px wide.
 
-![img "frist art museum"](../img/fristartmuseum.jpg)
+![img "library play date"](../img/library-play-date-1.png)
