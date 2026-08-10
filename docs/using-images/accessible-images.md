@@ -20,7 +20,7 @@ sidebar_position: 3
 - Focus on what the image conveys to the user, rather than listing attributes.
 - Include any words that are in the image, such as text on the cover of a book. 
 
-![img "a dog with a ball in its mouth"](../img/1-golden-retriever.webp)
+![img "a dog with a ball in its mouth"](../img/1-golden-retriever.jpg)
 
 - :white_check_mark: The Alt Text for this image is “golden retriever puppy plays with a red ball on grass in the evening.”
 
