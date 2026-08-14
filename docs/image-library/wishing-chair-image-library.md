@@ -213,6 +213,21 @@ Alt-text
 gulliver's travels
 ```
 
+## Halloween
+
+```text
+/public/images/upload_9b0e13ec_4481_41c5_a615_e2c873480da3_00019508-202608141141.tmp
+```
+
+```text
+/public/images/upload_9b0e13ec_4481_41c5_a615_e2c873480da3_00019508-202608141141-thumb.png
+```
+Alt Text
+
+```text
+Three illustrated characters, lamb, dog, and cow, peer from behind a pumpkin. 
+``` 
+
 ## Hansel and Gretel
 
 ```text
