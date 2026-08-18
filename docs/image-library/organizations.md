@@ -18,7 +18,7 @@ title: Organizations
 Alt Text
 
 ```text
-Adventure Science Center
+Logo for Adventure Science Center.
 ```
 
 ## Affordable Care Act
@@ -34,7 +34,7 @@ Adventure Science Center
 Alt Text
 
 ```text
-Affordable Care Act
+Logo for Affordable Care Act.
 ```
 
 ## American Red Cross
@@ -50,7 +50,7 @@ Affordable Care Act
 Alt Text
 
 ```text
-Logo. Red cross. American Red Cross
+Logo for American Red Cross.
 ```
 
 ## Bringing Books to Life
@@ -66,7 +66,7 @@ Logo. Red cross. American Red Cross
 Alt Text
 
 ```text
-Logo. Bringing Books to Life.
+Logo for Bringing Books to Life.
 ```
 
 ## Country Music Hall of Fame
@@ -130,7 +130,7 @@ Logo for Frist Art Museum.
 Alt Text
 
 ```text
-Logo for Friends of Nashville Public Library!
+Logo for Friends of Nashville Public Library.
 ```
 
 ## Global Education
@@ -194,23 +194,7 @@ Logo for Dolly Parton's Imagination Library.
 Alt Text
 
 ```text
-Legal Aid of Middle Tennessee and the Cumberlands
-```
-
-## Library for the Deaf and Hard of Hearing
-
-```
-/public/images/tndeaflibrary-202311271119.jpeg
-```
-
-```
-/public/images/tndeaflibrary-202311271119-thumb.png
-```
-
-Alt Text
-
-```text
-Blue logo of human hand. Index finger and thumb are extended.
+Logo for Legal Aid of Middle Tennessee and the Cumberlands
 ```
 
 ## Metro Archives
