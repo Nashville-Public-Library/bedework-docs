@@ -217,7 +217,7 @@ music and movement graphic shows a streaming player with play controls.
 /public/images/Music-Lessons-400-202511031234-thumb.png
 ```
 
-Alt-text
+Alt Text
 
 ```text
 Logo for music lessons has sketches of electric guitar and stars.
@@ -345,7 +345,7 @@ Illustration of balding man wearing sixteenth century garments.
 /public/images/Starry%20Night%202-202509040337-thumb.png
 ```
 
-Alt-Text
+Alt Text
 
 ```text
 Illustration adapts Van Gogh's Starry night painting. 

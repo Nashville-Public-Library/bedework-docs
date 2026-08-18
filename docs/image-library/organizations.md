@@ -255,7 +255,7 @@ Logo for Limitless Libraries.
 /public/images/metro_arts_logo_vert-202509101038-thumb.png
 ```
 
-Alt-Text
+Alt Text
 
 ```text
 Logo for Metro Arts Nashville.
@@ -271,10 +271,26 @@ Logo for Metro Arts Nashville.
 /public/images/imageedit_3_5581218195-202110261200-thumb.png
 ```
 
-Alt-text
+Alt Text
 
 ```text
-Metro Nashville government seal.
+Official seal for Metropolitan government of nashville and davidson county.
+```
+
+## Metro Nashville Health Department
+
+```text
+/public/images/upload_e4262bd8_0279_4825_bc60_d32555263652_00002263-202608181051.tmp
+```
+
+```text
+/public/images/upload_e4262bd8_0279_4825_bc60_d32555263652_00002263-202608181051-thumb.png
+```
+
+Alt Text
+
+```text
+Logo for Metro Public Health Department.
 ```
 
 ## Metro Parks
@@ -322,7 +338,7 @@ Logo for Metro Water Services.
 Alt Text
 
 ```text
-Mental Health Cooperative Outreach
+Logo for Mental Health Cooperative Outreach
 ```
 
 ## Music for Seniors
@@ -338,7 +354,7 @@ Mental Health Cooperative Outreach
 Alt Text
 
 ```text
-Music for Seniors
+Logo for Music for Seniors
 ```
 
 ## Nashville Ballet
@@ -370,7 +386,7 @@ Logo shows Nashville Ballet in white letters against a maroon background. A whit
 Alt Text
 
 ```text
-Nashville Chess Center
+Logo for Nashville Chess Center.
 ```
 
 ## Nashville Children's Theatre
@@ -386,7 +402,7 @@ Nashville Chess Center
 Alt Text
 
 ```text
-Nashville Children's Theatre
+Logo for Nashville Children's Theatre.
 ```
 
 ## Nashville Dance Cooperative
@@ -402,7 +418,7 @@ Nashville Children's Theatre
 Alt Text
 
 ```text
-Nashville Dance Cooperative
+Logo for Nashville Dance Cooperative.
 ```
 
 ## Nashville Opera
@@ -418,7 +434,7 @@ Nashville Dance Cooperative
 Alt Text
 
 ```text
-Nashville Opera
+Logo for Nashville Opera.
 ```
 
 ## Nashville Public Library Foundation
@@ -513,7 +529,7 @@ Logo for Nashville Zoo has giraffe silhouette.
 Alt Text
 
 ```text
-Nashville Department of Waste Services
+Logo forNashville Department of Waste Services
 ```
 
 ## National Museum of African American Music (NMAAM)
@@ -529,7 +545,7 @@ Nashville Department of Waste Services
 Alt Text
 
 ```text
-National Museum of African American Music (NMAAM)
+Logo for National Museum of African American Music (NMAAM)
 ```
 
 ## NaNoWriMo
@@ -545,7 +561,7 @@ National Museum of African American Music (NMAAM)
 Alt Text
 
 ```text
-National Novel Writing Month (NaNoWriMo)
+Logo for National Novel Writing Month (NaNoWriMo)
 ```
 
 # NECAT
@@ -561,7 +577,7 @@ National Novel Writing Month (NaNoWriMo)
 Alt Text
 
 ```text
-NECAT (Nashville Education, Community and Arts Television)
+Logo for NECAT (Nashville Education, Community and Arts Television)
 ```
 
 ## Oasis Center
@@ -576,7 +592,7 @@ NECAT (Nashville Education, Community and Arts Television)
 Alt Text
 
 ```text
-Oasis Center
+Logo for Oasis Center
 ```
 
 ## The Porch Writers' Collective
@@ -592,7 +608,7 @@ Oasis Center
 Alt Text
 
 ```text
-The Porch Writers' Collective
+Logo for The Porch Writers' Collective.
 ```
 
 ## Reading Paws
@@ -624,7 +640,7 @@ saint bernard dog.
 Alt Text
 
 ```text
-Rockabye Beats
+Logo for Rockabye Beats.
 ```
 
 ## Small World Yoga

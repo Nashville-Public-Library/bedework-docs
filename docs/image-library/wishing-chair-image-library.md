@@ -15,7 +15,7 @@ title: Wishing Chair Productions
 /public/images/aesop-resized-202303140126-thumb.png
 ```
 
-Alt-text
+Alt Text
 
 ```text
 aesop's fables
@@ -31,7 +31,7 @@ aesop's fables
 /public/images/ali-baba-wishing-chair-201612120330-thumb.png
 ```
 
-Alt-text
+Alt Text
 
 ```text
 Ali Baba
@@ -47,7 +47,7 @@ Ali Baba
 /public/images/Alice_thumb-201609291232-thumb.png
 ```
 
-Alt-text
+Alt Text
 
 ```text
 alice in wonderland
@@ -63,7 +63,7 @@ alice in wonderland
 /public/images/amazing-201801311023-thumb.png
 ```
 
-Alt-text
+Alt Text
 
 ```text
 amazing twins
@@ -79,7 +79,7 @@ amazing twins
 /public/images/WishingChair_Anansi-201609291229-thumb.png
 ```
 
-Alt-text
+Alt Text
 
 ```text
 anansi
@@ -95,7 +95,7 @@ anansi
 /public/images/wishingChair_childsCalendar-201609291230-thumb.png
 ```
 
-Alt-text
+Alt Text
 
 ```text
 Illustration. A child swings from a tree. An older gentleman with a cane a basket smiles. 
@@ -111,7 +111,7 @@ Illustration. A child swings from a tree. An older gentleman with a cane a baske
 /public/images/wishing-chair-cinderella-thumb.png
 ```
 
-Alt-text
+Alt Text
 
 ```text
 cinderella
@@ -127,7 +127,7 @@ cinderella
 /public/images/wishingchair_jumping-frog-202203210430-thumb.png
 ```
 
-Alt-text
+Alt Text
 
 ```text
 the celebrated jumping frog of calaveras county
@@ -143,7 +143,7 @@ the celebrated jumping frog of calaveras county
 /public/images/dinosaur-dimensions-202412190123-thumb.png
 ```
 
-Alt-text
+Alt Text
 
 ```text
 dinosaur dimensions
@@ -159,7 +159,7 @@ dinosaur dimensions
 /public/images/wishingchair_ellingtown_300-201605241135-thumb.png
 ```
 
-Alt-text
+Alt Text
 
 ```text
 ellingtown illustration
@@ -175,7 +175,7 @@ ellingtown illustration
 /public/images/wishing-chair_frog-prince-201703021141-thumb.png
 ```
 
-Alt-text
+Alt Text
 
 ```text
 the frog prince
@@ -191,7 +191,7 @@ the frog prince
 /public/images/goldilocks-202504020915-thumb.png
 ```
 
-Alt-text
+Alt Text
 
 ```text
 goldilocks
@@ -207,7 +207,7 @@ goldilocks
 /public/images/gulliver-400-2-202506110324-thumb.png
 ```
 
-Alt-text
+Alt Text
 
 ```text
 gulliver's travels
@@ -238,7 +238,7 @@ Three illustrated characters, lamb, dog, and cow, peer from behind a pumpkin.
 /public/images/wishing-chair_hansel-and-gretel-201703021144-thumb.png
 ```
 
-Alt-text
+Alt Text
 
 ```text
 hansel and gretel
@@ -254,7 +254,7 @@ hansel and gretel
 /public/images/Kaytek_150-201611080924-thumb.png
 ```
 
-Alt-text
+Alt Text
 
 ```text
 kaytek illustration
@@ -270,7 +270,7 @@ kaytek illustration
 /public/images/la-la-la-1-202312040400-thumb.png
 ```
 
-Alt-text
+Alt Text
 
 ```
 girl singing 'la la la'
@@ -286,7 +286,7 @@ girl singing 'la la la'
 /public/images/SleepyHollowscary3resized-202106100255-thumb.png
 ```
 
-Alt-text
+Alt Text
 
 ```text
 legend of sleepy hollow
@@ -302,7 +302,7 @@ legend of sleepy hollow
 /public/images/bedework-racoon-202406030430-thumb.png
 ```
 
-Alt-text
+Alt Text
 
 ```text
 racoon with guitar
@@ -318,7 +318,7 @@ racoon with guitar
 /public/images/wishingchair_rabbitRedWings-201605030614-thumb.png
 ```
 
-Alt-text
+Alt Text
 
 ```
 illustration of a rabbit with red wings
@@ -334,7 +334,7 @@ illustration of a rabbit with red wings
 /public/images/lorraine-book-cover-450-201906261204-thumb.png
 ```
 
-Alt-text
+Alt Text
 
 ```
 Lorraine book cover
@@ -350,7 +350,7 @@ Lorraine book cover
 /public/images/manymoonsbookcover-202109290304-thumb.png
 ```
 
-Alt-text
+Alt Text
 
 ```text
 many moons book cover
@@ -366,7 +366,7 @@ many moons book cover
 /public/images/momotarocolor small-201801240155-thumb.png
 ```
 
-Alt-text
+Alt Text
 
 ```
 illustration of momatoro
@@ -382,7 +382,7 @@ illustration of momatoro
 /public/images/trifulgas-45-202510061230-thumb.png
 ```
 
-Alt-text
+Alt Text
 
 ```
 trifulgus sketch
@@ -398,7 +398,7 @@ trifulgus sketch
 /public/images/peter-wolf-400-2-202506110321-thumb.png
 ```
 
-Alt-text
+Alt Text
 
 ```
 peter and the wolf
@@ -414,7 +414,7 @@ peter and the wolf
 /public/images/puppet-show-black-80.png
 ```
 
-Alt-text
+Alt Text
 
 ```
 puppet show icon has wires over letters.
@@ -430,7 +430,7 @@ puppet show icon has wires over letters.
 /public/images/Puppet%20Truck%20-%20thumbnail%20v2_bedework-202005290431-thumb.png
 ```
 
-Alt-text
+Alt Text
 
 ```
 Man poses with walrus puppet on arm. Logo over his left shoulder reads puppet trucking with mister b.
@@ -446,7 +446,7 @@ Man poses with walrus puppet on arm. Logo over his left shoulder reads puppet tr
 /public/images/WishingChair_Puss-in-Boots-201906180359-thumb.png
 ```
 
-Alt-text
+Alt Text
 
 ```
 puss in boots
@@ -462,7 +462,7 @@ puss in boots
 /public/images/upload_625c8c05_5001_402f_9507_f75d8ee220cf_00000087-202604130855-thumb.png
 ```
 
-Alt-text
+Alt Text
 
 ```
 Logo. Rockabilly road. Three goats wearing ties and bows.
@@ -478,7 +478,7 @@ Logo. Rockabilly road. Three goats wearing ties and bows.
 /public/images/skybear.small-202003090956-thumb.png
 ```
 
-Alt-text
+Alt Text
 
 ```text
 skybear illustration
@@ -494,7 +494,7 @@ skybear illustration
 /public/images/Puppet-Truck_Stonecutter-201610270946-thumb.png
 ```
 
-Alt-text
+Alt Text
 
 ```
 illustration of a man in red clothes and hat
@@ -510,7 +510,7 @@ illustration of a man in red clothes and hat
 /public/images/string-city-logo-for-page-202003091007.jpg
 ```
 
-Alt-text
+Alt Text
 
 ```
 string city poster
@@ -526,7 +526,7 @@ string city poster
 /public/images/MN_talltales-201609291223-thumb.png
 ```
 
-Alt-text
+Alt Text
 
 ```text
 tall tale circus
@@ -542,7 +542,7 @@ tall tale circus
 /public/images/wishing-chair-tempest-201612301117-thumb.png
 ```
 
-Alt-text
+Alt Text
 
 ```
 the tempest
@@ -558,7 +558,7 @@ the tempest
 /public/images/puppet-show-black-80.png
 ```
 
-Alt-text
+Alt Text
 
 ```
 tomas and the library lady
@@ -574,7 +574,7 @@ tomas and the library lady
 /public/images/puppet-show-black-80.png
 ```
 
-Alt-text
+Alt Text
 
 ```
 world of mother goose
