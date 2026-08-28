@@ -579,8 +579,9 @@ Yellow logo for vinyl club. Library logo is surrounded by concentric circles. A 
 ```
 
 Alt Text
+
 ```text
-vote
+Illustration. Circle with red and blue reads vote.
 ```
 
 ## Watercolor
