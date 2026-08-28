@@ -46,6 +46,12 @@ Hand sketching anime character
 /public/images/art logo 1-202407030448-thumb.png
 ```
 
+Alt Text
+
+```text
+blue clip art sketch of a painting pallette and canvas.
+```
+
 ## Bi-Lingual Story Time (Spanish and English)
 
 ```text
@@ -109,22 +115,6 @@ Alt Text
 ```text
 Words book sale atop a row of books. book sale logo has url for npl.gov slash friends. reads proceeds benefit nashville public library.
 ```
-
-## Caffeinated Book Club
-
-```text
-/public/images/caffeinated-book-club-202508061039.jpg
-```
-
-```text
-/public/images/caffeinated-book-club-202508061039-thumb.png
-```
-
-Alt Text
-
-```text
-caffeinated book club
-```  
 
 ## Card Club
 
@@ -261,17 +251,7 @@ Hermitage Write-In
 Alt Text
 
 ```text
-homeschool friends
-```
-
-## Jobs Lab
-
-```text
-/public/images/JobLab_bedework-201902200238.jpg
-```
-
-```text
-/public/images/JobLab_bedework-201902200238-thumb.png
+homeschool friends logo. Illustrated objects magnifying glass, beaker, light bulb and atom. 
 ```
 
 ## Kids Movie Matinee
@@ -288,16 +268,6 @@ Alt Text
 
 ```text
 movie matinee logo with red curtains.
-```
-
-## Knitting 101
-
-```text
-/public/images/Knitting-101-202412190154.png
-```
-
-```text
-/public/images/Knitting-101-202412190154-thumb.png
 ```
 
 ## LEGO
@@ -515,7 +485,7 @@ steam logo. the word steam is in all-caps green. a pencil and a ruler are crosse
 Alt Text
 
 ```text
-cuenta cuentos
+cuenta cuentos in multi-colored block letters.
 ```
 
 ## Summer Lunch at the Library
