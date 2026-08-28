@@ -488,37 +488,6 @@ Alt Text
 cuenta cuentos in multi-colored block letters.
 ```
 
-## Summer Lunch at the Library
-
-```
-/public/images/Summer-Lunch-at-NPL-201805240219.jpg
-```
-
-```
-/public/images/Summer-Lunch-at-NPL-201805240219-thumb.png
-```
-
-Alt Text
-
-```text
-lunch bag
-```
-
-## Tai Chi
-
-```text
-/public/images/tai%20chi-202310110106.png
-```
-
-```text
-/public/images/tai%20chi-202310110106-thumb.png
-```
-Alt Text
-
-```text
-tai chi
-``` 
-
 ## Teens at Main
 
 ```text
