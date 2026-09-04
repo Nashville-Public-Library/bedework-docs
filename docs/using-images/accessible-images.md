@@ -15,10 +15,13 @@ sidebar_position: 3
 
 ### Write Good Alt Text
 
-- Good Alt Text is descriptive and concise.
+- Good Alt Text is copmplete and concise.
+- Ask, "What would someone lose if this image didn't load?" Answer what image conveys, as well as what is present.
 - Limit to 125 characters.
 - Focus on what the image conveys to the user, rather than listing attributes.
 - Include any words that are in the image, such as text on the cover of a book. 
+- Skip redundant phrases, "image of" or "picture of."
+- Include any text present in the image. 
 
 ![img "a dog with a ball in its mouth"](../img/1-golden-retriever.jpg)
 
