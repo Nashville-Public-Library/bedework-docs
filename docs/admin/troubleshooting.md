@@ -71,16 +71,12 @@ Events stuck in approval queue that don’t really exist.
 ## Emergency Restart
 
 1. Notify Shared Systems, Bedework Application Admin, then Back-up staff.
-1. Login to server via ssh. `sudo reboot`.
-    1. Reboot HA Proxy Server first. If this fails,
-    1. Reboot two applications servers. If this fails,
-    1. Restart Bedework application service.
+1. Reboot two applications servers. See details here [Bedework Emergency Restart](https://github.com/Nashville-Public-Library/documentation/blob/master/bedework/restart-bedework.md)
 
 - If this fails, contact Bedework ITS Help Desk, for to get in touch with Linux administrators.
-- Post a note to the Intranet notifying staff that the events calendar is down and we are working on it.
-- If the calendar is affecting the home page, replace the homepage calendar feed with an alternate box (we’d need to come up with some kind of alternate content and add it to the page code, commented out).
+- Post a note to the staff notifying staff that the events calendar is down and we are working on it.
 - Once calendar is back up:
-  - Post a note to the Intranet notifying staff.
+  - Post a note to the staff.
   - Reinstate the home page calendar feed and comment out the replacement box.
 
 1. Past errors:
