@@ -73,7 +73,7 @@ Events stuck in approval queue that don’t really exist.
 1. Notify Shared Systems, Bedework Application Admin, then Back-up staff.
 1. Reboot two applications servers. See details here [Bedework Emergency Restart](https://github.com/Nashville-Public-Library/documentation/blob/master/bedework/restart-bedework.md)
 
-- If this fails, contact Bedework ITS Help Desk, for to get in touch with Linux administrators.
+- If this fails, contact ITS Help Desk, for to get in touch with Linux administrators.
 - Post a note to the staff notifying staff that the events calendar is down and we are working on it.
 - Once calendar is back up:
   - Post a note to the staff.
