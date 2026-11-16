@@ -5,27 +5,22 @@ sidebar_position: 1
 
 ### Cancel or Delete
 
-#### Mark canceled
+If an event will no longer take place:
 
-- When the event is canceled, and the event is less than five days away, mark the event canceled.   
-  - Go to event detail. Under Status, select “canceled button. 
-  - Or, from Manage Events screen, use the `cancel event` button.
+- If it was promoted beyond the calendar (on a poster, in a newsletter, or online), or has been listed for two weeks or more, it must be marked canceled using the **Cancel** option in Bedework.
+- Only events that were never promoted and have been listed for less than two weeks should be fully removed from Bedework using the **Delete** option.
 
-#### Delete or reschedule
+Use **Cancel** if the event was widely advertised or is part of a regular weekly series when regular attendees would expect it to occur.
 
-If event is more than five days out, delete event entirely. Once an event is published to the publicly-visitble calendar, submitters are no longer able to edit the event.  For these changes, email Shared Systems. 
+Only delete events when we can reasonably expect that no patron has already made plans to attend. Examples include mistakes, duplicates, events far in the future, events that are not part of a regular series, and events that fall on holidays or closed dates. These examples should be deleted only if they were never promoted and were listed for less than two weeks.
 
-### For approvers
+Apply the same rules to events affected by a temporary library closure: if the event was promoted anywhere or listed for two weeks or more, mark it canceled. Delete it only if it was never promoted, has been listed for less than two weeks, and no patron would reasonably expect it to take place.
 
-- **Time change only**: When a time changes, but the date is the same, update the existing event listing with new time.
-- **Date change only**: When the date changes, but the time is the same, update the existing event listing with new date.
-- **Date change (or date/time both change)**: When an event moves to a different date and time. Or, if multiple details change. Add a new entry in the Approval Queue, to verify all new details. Request Shared Systems delete the original published event, then publish the replacement entry. 
-- **Room change**: When an event moves from in-person to online and date/time is the same, update the existing event listing to add virtual event details, so patrons can connect. Essentially, the “room” changed from Inglewood to Online. Include “online" somewhere in the title.
-- **Duplicate entries** - If an event listing is a duplicate, delete the extra instance.
-- **Holidays / closed day(s)**
-  - Event falls during a period library is closed.
-  - Approvers should delete all event listings that fall on holidays / closed days before approving.
-- **Extended closure**
-  - During the period when we are _not_ offering any in-person events, for a period longer than two weeks.
-  - Delete in-person events from Bedework for the affected period.
-  - Add any replacement events at other sites as new events. 
+### Rescheduled
+
+- **Time change only**: When a time changes but the date stays the same, update the existing event listing with the new time.
+- **Date change**: Cancel or delete the original event based on the rules above. Submit the new date as a new entry.
+
+### Approval Queue
+
+Events in the Approval Queue should never be marked canceled. Remove them from the series using the **Delete** button in the top-right corner of the event instance.
