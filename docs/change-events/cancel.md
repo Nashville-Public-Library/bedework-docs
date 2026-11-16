@@ -3,7 +3,7 @@ title: Cancel or Delete
 sidebar_position: 1
 ---
 
-### Cancel or Delete
+### Cancel or delete
 
 If a published event is longer taking place:
 
@@ -28,6 +28,12 @@ Events affected by a temporary closure follow the same rules.
 - **Time change only**: When a time changes but the date stays the same, update the existing event listing with the new time.
 - **Date change**: Cancel or delete the original event based on the rules above. Submit the new date as a new event.
 
-### Approval Queue
+### Extended closure
+
+  - During the period when we are _not_ offering any in-person events, for a period longer than two weeks.
+  - Delete in-person events from Bedework for the affected period.
+  - Add any replacement events at other sites as new events. 
+
+### Approval queue
 
 Events in the Approval Queue should never be marked canceled. Remove them from the series using the **Delete** button in the top-right corner of the event instance.
