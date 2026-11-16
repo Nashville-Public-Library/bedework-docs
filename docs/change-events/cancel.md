@@ -1,9 +1,9 @@
 ---
-title: Cancel or Reschedule
+title: Cancel, Delete or Reschedule
 sidebar_position: 1
 ---
 
-### For submitters
+### For s
 
 #### Mark canceled
 
