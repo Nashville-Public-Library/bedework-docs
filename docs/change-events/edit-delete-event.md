@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 # Approval Queue - Delete Event
 
-1. Never cancel events in the Approval Queue.
+1. Never use cancel button for events in the Approval Queue.
 1. Click the Approval Queue tab.
 1. If your event is in the Approval Queue, you can edit or delete it:
     1. Click the title of your event.
