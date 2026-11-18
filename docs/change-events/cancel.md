@@ -3,9 +3,7 @@ title: Cancel or Delete
 sidebar_position: 1
 ---
 
-### Cancel or delete
-
-If a published event is longer taking place:
+If a published event is no longer taking place:
 
 - Mark canceled using the **Cancel Button** if it was promoted beyond the calendar (on a poster, in a newsletter, or online), or has been listed for longer than two weeks.
 - Use **Cancel Button** if the event is widely advertised or is part of a regular weekly series when regular patrons would expect it to occur. 
