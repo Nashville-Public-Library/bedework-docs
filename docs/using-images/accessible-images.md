@@ -11,7 +11,7 @@ sidebar_position: 3
 - Alt Text is read aloud by screen readers used by visually impaired users. 
 - Helps people with low or impaired vision understand the entire web page.
 - Provides context to search engines and robotic scans.
-- Alt Text is required on government-owned websites by federal Americans with Disabilities Act (ADA) guidelines.
+- Alt Text is required for images on government-owned websites by the Americans with Disabilities Act (ADA).
 
 ### Write Good Alt Text
 
