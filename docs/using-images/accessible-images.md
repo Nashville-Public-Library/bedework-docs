@@ -37,6 +37,8 @@ Make sure image has enough color contrast between text and its background to be 
 
 ## Text in Images
 
-Words in icon-type images (“Movie Friday” or “Chocolate Worms”) should be readable at thumbnail-size, which is 80px wide.
+Avoid using an event flier as image. Limit text to three words. Event details should be provided in the event listing itself, not in the image.
+
+An image should work as a visual accent: use it for color and to attract attention. Use the text in title and description to communicate details. When text is included in image, make sure it is readable at thumbnail-size, which is 80px wide.
 
 ![img "library play date"](../img/library-play-date-1.png)
