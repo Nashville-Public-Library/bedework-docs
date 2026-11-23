@@ -14,27 +14,25 @@ Use the _Image Library_ by going to <u>[Click here to choose from the library of
 1. Use your keyboard shortcut to paste (CTRL+V) the path in the table into the Image URL, Thumbnail URL, and Alt Text fields. The URL paths links will begin `/public/img/`. 
    
 - [Alt Text](../using-images/accessible-images.md) is legally required for all images. Patrons using screen readers hear this text read aloud. This should be a description of the image pictured, not just the name of the event. 
-- If there is not an existing graphic, create an image one to upload.
+- If there is not an existing graphic, create an image to upload.
 - Calendar approvers review the image.
-- Images submitted with events may be removed, remade, or replaced, at the approver’s discretion.
-- Accepted images are addded to the Images Library accessible from the Bedework entry form for re-use later.
+- Images submitted with events may be removed, remade, or replaced.
+- Regularly occuring event images may addded to the image library.
 
 ## Size and Text Specifications
 
 - Maximum width: 400 pixels
 - Maximum height: 600 pixels
-- Maxiumum fil size: 100 KiloByts (KB)
+- Maxiumum file size: 100 KiloBytes (KB)
 
 ## Images are required for the following events
 
-These, and others, are stored in image libary.
+These are stored in image libary.
 
+- Story Time 
 - Be Well at NPL
 - Book Clubs 
-- Mental Health Outreach 
-- Office of Homeless Services
 - Seed Exchange
-- Story Time
 
 ## Finding Images
 
